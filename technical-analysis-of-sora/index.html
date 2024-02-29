@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?48381b83f8fd4009dc0d8ca22d532c58";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+  <meta charset="utf-8">
+  
+  
+  <title>浅谈Sora技术原理分析，影响和未来趋势 | ChatGPT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Discussion on Sora technology principle analysis, influence and future trend">
+<meta property="og:type" content="article">
+<meta property="og:title" content="浅谈Sora技术原理分析，影响和未来趋势">
+<meta property="og:url" content="https://openssora.com/technical-analysis-of-sora/index.html">
+<meta property="og:site_name" content="ChatGPT">
+<meta property="og:description" content="Discussion on Sora technology principle analysis, influence and future trend">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://pic1.zhimg.com/80/v2-cfb1fee5ca0696b1161c187d988fd5e6_1440w.png?source=d16d100b">
+<meta property="og:image" content="https://pica.zhimg.com/80/v2-0dc74ccaf9aa4911cf339d477c72afdc_1440w.png?source=d16d100b">
+<meta property="og:image" content="https://picx.zhimg.com/80/v2-8601d25ebdf81988d7d88871577f6005_1440w.png?source=d16d100b">
+<meta property="og:image" content="https://picx.zhimg.com/80/v2-8ce106e6e6656f9b96906bd49df0a993_1440w.png?source=d16d100b">
+<meta property="og:image" content="https://picx.zhimg.com/80/v2-d68d2838ecdc1edd9a5120b6cdb12f79_1440w.png?source=d16d100b">
+<meta property="og:image" content="https://pic1.zhimg.com/80/v2-4f6f7bce14e6fbc698203abc90a86d98_1440w.png?source=d16d100b">
+<meta property="og:image" content="https://pic1.zhimg.com/80/v2-3809a5cc00ef514c3c328125fa2346db_1440w.png?source=d16d100b">
+<meta property="og:image" content="https://picx.zhimg.com/80/v2-04af7474a3de1b6895cc7debfd67d091_1440w.png?source=d16d100b">
+<meta property="article:published_time" content="2024-02-29T06:00:05.000Z">
+<meta property="article:modified_time" content="2024-02-29T06:23:46.141Z">
+<meta property="article:author" content="周星星">
+<meta property="article:tag" content="Sora的技术分析">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://pic1.zhimg.com/80/v2-cfb1fee5ca0696b1161c187d988fd5e6_1440w.png?source=d16d100b">
+  
+    <link rel="alternate" href="/atom.xml" title="ChatGPT" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/image/favicon.ico">
+  
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<meta name="generator" content="Hexo 7.1.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">ChatGPT</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">我爱算法，拥抱AI</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"><span class="fa fa-bars"></span></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+        
+          <a class="nav-icon" href="/atom.xml" title="RSS 订阅"><span class="fa fa-rss"></span></a>
+        
+        <a class="nav-icon nav-search-btn" title="搜索"><span class="fa fa-search"></span></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://openssora.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main"><article id="post-technical-analysis-of-sora" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/technical-analysis-of-sora/" class="article-date">
+  <time class="dt-published" datetime="2024-02-29T06:00:05.000Z" itemprop="datePublished">2024-02-29</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      浅谈Sora技术原理分析，影响和未来趋势
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p><img src="https://pic1.zhimg.com/80/v2-cfb1fee5ca0696b1161c187d988fd5e6_1440w.png?source=d16d100b" alt="img"></p>
+<span id="more"></span>
+
+<h2 id="1、Sora：视频生成模型作为世界模拟器"><a href="#1、Sora：视频生成模型作为世界模拟器" class="headerlink" title="1、Sora：视频生成模型作为世界模拟器"></a><strong>1、Sora：视频生成模型作为世界模拟器</strong></h2><p>我们探索在视频数据上进行大规模生成模型的训练。具体来说，我们联合训练了文本条件扩散模型，用于处理持续时间、分辨率和宽高比各异的视频和图像。我们利用了一种变压器架构，该架构在视频和图像潜在编码的时空补丁上运行。我们最大的模型Sora能够生成一分钟的高保真视频。我们的结果表明，扩展视频生成模型是建立通用物理世界模拟器的一个有前景的途径。</p>
+<p>上面是Open AI Sora的技术报告的首段内容，可以看出Sora的野心远远不是简单的视频生成，而是跟标题一样的意思，目标是通过视频数据来学校一个<strong>世界模型或者世界模拟器</strong>，这才是令人兴奋激动的主要部分。</p>
+<p>（PS：到目前为止 Open AI 官方还未开放 sora 灰度，虽然可以进行申请，不过根据文生图模型 DALL·E3 的案例，肯定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: </p>
+<p><a href="https://openssora.com/upgrade-chatgpt-to-plus/">2024年-最新升级 ChatGPT 4.0 Plus的保姆级教程</a> ，2～3分钟就完成升级</p>
+<h2 id="2、技术实现"><a href="#2、技术实现" class="headerlink" title="2、技术实现"></a><strong>2、技术实现</strong></h2><p>2-1、<strong>将视觉数据转换为补丁</strong></p>
+<p>受到大型语言模型的启发，这些模型通过在互联网规模数据上进行训练获得了通用能力。语言模型的成功在一定程度上得益于优雅地统一了文本、代码、数学和各种自然语言等不同形式的标记。在这项工作中，我们考虑了生成视觉数据模型如何继承这些优势。与语言模型具有文本标记不同，Sora 使用视觉补丁。先前已经证明，补丁是视觉数据模型的有效表示。我们发现，对于训练生成各种类型的视频和图像模型，补丁是一种高度可扩展和有效的表示方法。</p>
+<p><img src="https://pica.zhimg.com/80/v2-0dc74ccaf9aa4911cf339d477c72afdc_1440w.png?source=d16d100b" alt="img"></p>
+<p>2-2、<strong>采用patches统一训练数据格式</strong></p>
+<p>最早在ViT中出现将图片分patch输入给transformer。Sora的有点不太一样，首先通过一个encoder（VAE结构）将视频帧压缩到一个低维度隐式空间（包含时间和空间上的压缩），然后展开成序列的形式送入模型训练，同样的模型预测也是隐式的序列，然后用decoder解码器去解码映射回像素空间形成视频。</p>
+<p><img src="https://picx.zhimg.com/80/v2-8601d25ebdf81988d7d88871577f6005_1440w.png?source=d16d100b" alt="img"></p>
+<p>Sora 在这个压缩的潜在空间上进行训练，并随后生成视频。还训练了一个相应的解码器模型，将生成的潜在表示映射回像素空间</p>
+<p><img src="https://picx.zhimg.com/80/v2-8ce106e6e6656f9b96906bd49df0a993_1440w.png?source=d16d100b" alt="img"></p>
+<p>将变压器用于视频生成规模化，Sora是一个扩散模型；给定输入的噪声补丁（以及文本提示等条件信息），它被训练为预测原始的“干净”补丁。重要的是，Sora是一个扩散变压器。变压器已经在各种领域展示了出色的规模化性能，包括语言建模、计算机视觉和图像生成。</p>
+<p><img src="https://picx.zhimg.com/80/v2-d68d2838ecdc1edd9a5120b6cdb12f79_1440w.png?source=d16d100b" alt="img"></p>
+<p>2-3、<strong>Sora在视频生成方面的优势可以总结如下：</strong></p>
+<ol>
+<li><strong>基于补丁的表示</strong>：Sora使用基于补丁的表示方法，使其能够处理具有不同分辨率、持续时间和宽高比的视频和图像。</li>
+<li><strong>扩散变压器</strong>：作为扩散模型的一种，Sora在处理输入噪声补丁时，通过训练预测原始“干净”补丁，这有助于提高生成质量。</li>
+<li><strong>可扩展性</strong>：Sora是基于变压器的模型，而变压器已经在多个领域展示了出色的规模化性能，包括语言建模、计算机视觉和图像生成。</li>
+<li><strong>生成控制</strong>：在推断时，可以通过合理排列随机初始化的补丁来控制生成视频的大小，这增强了对生成过程的控制能力。</li>
+<li><strong>对图像的适用性</strong>：Sora的设计也适用于处理图像数据，因为图像本质上只是单帧视频。</li>
+</ol>
+<p>2-4、 <strong>使用re-captioning获得text-videos对</strong></p>
+<p>在训练阶段，将视频按1帧或者隔n帧用<strong>DALL·E3</strong>按照一定的规范形成对应的描述文本，然后输入模型训练。在推理阶段，首先将用户输入的prompt用GPT4按照一定的规范把它详细化，然后输入模型得到结果。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-4f6f7bce14e6fbc698203abc90a86d98_1440w.png?source=d16d100b" alt="img"></p>
+<h2 id="3、网络结构"><a href="#3、网络结构" class="headerlink" title="3、网络结构"></a><strong>3、网络结构</strong></h2><p>3-1、<strong>DiT（Diffusion in Transformers）</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-3809a5cc00ef514c3c328125fa2346db_1440w.png?source=d16d100b" alt="img"></p>
+<p>DiT（Diffusion in Transformers）结构是将<strong>transformer</strong>和<strong>DDPM（Diffusion Models）</strong>结合在一起的模型。简单来说，它使用transformer结构替换了稳定扩散中的U-Net结构，用于噪声去除。这种替换带来了以下优势：</p>
+<ol>
+<li><strong>随着数据规模或训练时间的增加，模型效果越好</strong>：这意味着随着模型的规模和训练时间的增加，模型的性能会进一步提升，这是一个非常有吸引力的特性。（也就是大力出奇迹，暴力文学）</li>
+<li><strong>模型越大、补丁越小，效果越好</strong>：这表明使用更大的模型和更小的补丁可以进一步提高模型的性能。</li>
+</ol>
+<p>3-2: <strong>整体的结构</strong> 下图来自B站UP主ZOMI酱的画的一个Sora结构：</p>
+<p><img src="https://picx.zhimg.com/80/v2-04af7474a3de1b6895cc7debfd67d091_1440w.png?source=d16d100b" alt="img"></p>
+<p>在Conditioning阶段，可能不是一帧对应一个文本，而是几帧甚至十几帧对应一段文本描述。在编码成时空潜在补丁时，可能使用了ViT的时空编码方式。输入给解码器（encoder）的内容应该是去噪之后的补丁序列，用补丁（patches）描述比使用Tokens更准确一些。</p>
+<h2 id="4、带来的影响"><a href="#4、带来的影响" class="headerlink" title="4、带来的影响"></a><strong>4、带来的影响</strong></h2><p>4-1、<strong>Sora可能带来的影响包括：</strong></p>
+<ol>
+<li><strong>影视和短视频行业</strong>：Sora可能首先影响影视和短视频行业，为其提供更高效、更创新的内容生成工具。</li>
+<li><strong>生成时间的增长</strong>：未来的Sora版本可能会生成更长的序列，这类似于ChatGPT不断增大的输入标记长度，为内容创作提供更大的灵活性和多样性。</li>
+<li><strong>通向AGI的道路</strong>：Sora的发展可能是通向人工通用智能（AGI）的一部分，这是许多人所追求的目标。</li>
+<li><strong>世界模型的讨论</strong>：人们广泛讨论和关注Sora是否具备世界模型的特征，其能力包括3D一致性、长程一致性和物体永久性、与世界的互动以及模拟数字世界等。</li>
+</ol>
+<p>总的来说，Sora可能对影视、视频生成和人工智能领域带来重大影响，推动这些领域的发展和创新。</p>
+<p>（PS：到目前为止 Open AI 官方还未开放 sora 灰度，虽然可以进行申请，不过根据文生图模型 DALL·E3 的案例，肯定是先给 ChatGPT Plus 付费用户使用，需要注册或者升级 GPT Plus 可以看这个教程: </p>
+<p><a href="https://openssora.com/upgrade-chatgpt-to-plus/">2024年-最新升级 ChatGPT 4.0 Plus的保姆级教程</a> ，2～3分钟就完成升级</p>
+<h2 id="参考："><a href="#参考：" class="headerlink" title="参考："></a><strong>参考：</strong></h2><p>1.<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/683004185">https://zhuanlan.zhihu.com/p/683004185</a></p>
+<p>2.<a target="_blank" rel="noopener" href="https://arxiv.org/abs/">https://arxiv.org/abs/</a></p>
+<p>3.<a target="_blank" rel="noopener" href="https://openai.com/research/video-generation-models-as-world-simulators">https://openai.com/research/video-generation-models-as-world-simulators</a></p>
+<p>4.<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1Bx4y1k7BQ/">https://www.bilibili.com/video/BV1Bx4y1k7BQ/</a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://openssora.com/technical-analysis-of-sora/" data-id="clt6ub1gz000by9yy329907ua" data-title="浅谈Sora技术原理分析，影响和未来趋势" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Sora%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/" rel="tag">Sora的技术分析</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/subscribe-to-midjourney/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">前一篇</strong>
+      <div class="article-nav-title">
+        
+          国内订阅 Midjourney 教程
+        
+      </div>
+    </a>
+  
+  
+    <a href="/subscribe-to-chatgpt-plus/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">ChatGPT Plus 订阅教程</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">标签</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT4-0-Plus-%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT4.0 Plus 最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Midjourney%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B/" rel="tag">Midjourney订阅教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans%E6%94%AF%E4%BB%98%E6%95%99%E7%A8%8B%E6%9C%80%E6%96%B0%E6%96%B9%E6%B3%95%EF%BC%882024%EF%BC%89/" rel="tag">OnlyFans支付教程最新方法（2024）</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Sora%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/" rel="tag">Sora的技术分析</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">归档</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/02/">二月 2024</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">最新文章</h3>
+    <div class="widget">
+      <ul>
+        
+        
+          <li>
+            <span>（1）</span>
+            <a href="/subscribe-to-midjourney/">国内订阅 Midjourney 教程</a>
+          </li>
+          
+        
+          <li>
+            <span>（2）</span>
+            <a href="/technical-analysis-of-sora/">浅谈Sora技术原理分析，影响和未来趋势</a>
+          </li>
+          
+        
+          <li>
+            <span>（3）</span>
+            <a href="/subscribe-to-chatgpt-plus/">ChatGPT Plus 订阅教程</a>
+          </li>
+          
+        
+          <li>
+            <span>（4）</span>
+            <a href="/upgrade-chatgpt-wildcard/">2024年如何通过虚拟卡升级Chat-GPT4.0 plus</a>
+          </li>
+          
+        
+          <li>
+            <span>（5）</span>
+            <a href="/upgrade-chatgpt/">国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2024 周星星<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+
+<script src="/js/jquery-3.6.4.min.js"></script>
+
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+
+  </div>
+</body>
+</html>
