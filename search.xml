@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>how-ChatGPT-消息发不出去了</title>
+    <url>/how-ChatGPT-%E6%B6%88%E6%81%AF%E5%8F%91%E4%B8%8D%E5%87%BA%E5%8E%BB%E4%BA%86/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天工作到一半，登陆ChatGPT想咨询一些代码上的问题，结果发现发不了消息了。</p>
+<p><strong>ChatGPT 无法发送消息，但是能查看历史的对话。</strong>不过首先可以先打开官方的网站：<a href="https://link.zhihu.com/?target=https://status.openai.com/">https://status.openai.com/</a> 。 <strong>查看当前Open AI的状态，这是一个系统运作监控，非常实用。</strong></p>
+<h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a><strong>原因</strong></h2><p>主要原因：可能是<strong>加入了最新的多语言内测的人，也可能是其他情况。</strong></p>
+<p>查看在登录后是否点击了顶部弹窗邀请 <strong>[加入多语言 alpha 测试]</strong> ，以及<strong>语言选择了中文。</strong></p>
+<p><img src="https://pic4.zhimg.com/80/v2-733c801b4e99b53bb1acf04fb96d305f_720w.webp" alt="img"></p>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a><strong>解决方法</strong></h2><span id="more"></span>
+
+<h3 id="方法一：清除网站的缓存"><a href="#方法一：清除网站的缓存" class="headerlink" title="方法一：清除网站的缓存"></a>方法一：清除网站的缓存</h3><p><strong>可以先清除网站的cookie，在chatgpt官网下，按F12，打开网页控制台，或者右键点击查看。</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-ada58db561ff065bf02895f0cd351838_720w.webp" alt="img"></p>
+<p><strong>在控制台窗口，点击Application（如果你用了翻译的话，就是“应用”的意思）</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-95d54cd0b8bae8a9a31fbe68194ac1ec_720w.webp" alt="img"></p>
+<p><strong>然后点击cookies，把<a href="https://link.zhihu.com/?target=http://chat.openai.com">http://chat.openai.com</a>网站的cookies、session、localstorage等缓存信息清除掉。</strong></p>
+<p><img src="https://pic3.zhimg.com/80/v2-3ec0e035d499fc5685791d42c56dfafe_720w.webp" alt="img"></p>
+<p>之后，刷新网页，重新登陆你的ChatGPT账号。就可以解决掉这个问题了。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-2ba1c3ef3a53d3f43d0514c2cfcd0db8_720w.webp" alt="img"></p>
+<p>最后就可以继续使用你的chatGPT啦～</p>
+<p>如果你要升级为GPT-4的话，可以参考这篇教程：<a href="https://openssora.com/upgrade-chatgpt-plus/">我爱算法：一篇教会你升级GPT-4，内附详细步骤（24年3月最新）</a></p>
+<p>或者直接用虚拟卡进行订阅升级也可以哈，简单方便：</p>
+<p><a href="https://bewildcard.com/i/UPGPT">WildCard | 一分钟注册，轻松订阅海外软件服务bewildcard.com&#x2F;i&#x2F;UPGPT</a></p>
+<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"><strong>建议用来升级自己的账号哈，不要选择拼车的那个功能呢</strong></p>
+<h1 id="另外两个方法："><a href="#另外两个方法：" class="headerlink" title="另外两个方法："></a>另外两个方法：</h1><ol>
+<li>换其他的浏览器登录使用</li>
+<li>把中文切换到英文！</li>
+</ol>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT问题集</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>how-register-claude3-如何注册升级Cluade3</title>
+    <url>/how-register-claude3-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7Cluade3/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h2><p>OpenAI的GPT-4不可战胜的神话，已经被打破了。</p>
+<p><strong>最近Claude 3发布的新模型</strong>，榜单性能跑分超越GPT-4，成为首个全面超越GPT-4的产品，成为了新一代的LLM模型标准。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-ec965ee43d976c82d4f361c42c178630_720w.webp" alt="img"></p>
+<p>但是，相信各位都在注册Claude 3时遇到了一些阻碍，比如手机验证码无法使用，需要国外的手机号码，而且手机号码也是需要官方支持的150几个国家&#x2F;地区的：<a href="https://www.anthropic.com/claude-ai-locations">Supported countries and regions: Claude.ai</a></p>
+<p><img src="https://pic4.zhimg.com/80/v2-69e5facbf70a2346df982c1d0597124f_720w.webp" alt="img"></p>
+<p><img src="https://pic2.zhimg.com/80/v2-60e41b29a0a6a888562e360c632ee541_720w.webp" alt="img"></p>
+<p>经过多次的实验之后，也被封过2次号，最终也找到了方法。其中重要的三要素：</p>
+<ul>
+<li><strong>谷歌账号</strong></li>
+<li><strong>验证手机号</strong></li>
+<li><strong>网络</strong></li>
+</ul>
+<p><strong>这三者必须统一。</strong></p>
+<p>如果你不满足上面的条件的话，你可以通过这个平台去注册一张国外虚拟卡：</p>
+<p><a href="https://bewildcard.com/i/UPGPT">WildCard | 一分钟注册，轻松订阅海外软件服务bewildcard.com&#x2F;i&#x2F;UPGPT</a></p>
+<p><em><strong>*它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈*</strong></em></p>
+<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
+<p><strong>另外建议使用wildcard平台去升级自己的GPT-4哈，不推荐使用拼车功能！！！</strong></p>
+<p><strong>里面有免费的三次英国的手机号码：</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-7e89d23c91da48077f6c47d2e3633ab8_720w.webp" alt="img"></p>
+<p><strong>也提供你需要的网络以及邮箱账号等功能：</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-c7060735186b9d782d1cd77efec85250_720w.webp" alt="img"></p>
+<h2 id="一-哪些地区可以使用Claude？"><a href="#一-哪些地区可以使用Claude？" class="headerlink" title="一. 哪些地区可以使用Claude？"></a><strong>一. 哪些地区可以使用Claude？</strong></h2><p>Opus 和 Sonnet 目前已集成到 Anthropic 的 Claude.ai 和 Claude API 中，覆盖了 159 个国家&#x2F;地区。Haiku 将很快推出。此外，Sonnet 也可以通过亚马逊云科技的 Bedrock 服务以及谷歌云 Vertex AI Model Garden 的私人预览渠道获得，而 Opus 和 Haiku 也将在不久后登陆这两个平台。</p>
+<h2 id="二、Claude3目前的优势和特点"><a href="#二、Claude3目前的优势和特点" class="headerlink" title="二、Claude3目前的优势和特点"></a><strong>二、Claude3目前的优势和特点</strong></h2><ol>
+<li>多样化模型选择:包括Claude 3 Haiku、Claude 3 Sonnet和Claudle 3 Opus三个模型，分别针对不同的性能需求和成本效益。</li>
+<li>行业领先性能: Opus模型在多个AI系统评估基准上超越同行，包括专家知识、专家推理和基础数学等。</li>
+<li>增强的多语言能力:所有Claude 3模型在非英语语言（如西班牙语、日语和法语)的对话中表现出色。</li>
+<li>快速响应能力:Haiku模型在处理信息密集型研究论文时速度极快，Sonnet模型在大多数工作负载中速度是前代模型的两倍。</li>
+<li>强大的视觉处理能力:Claude 3模型能够处理各种视觉格式，包括照片、图表、图形和技术图示。</li>
+<li>减少不必要的拒绝:新模型在理解上下文和处理提示词方面更加细致，减少了不必要的拒绝。</li>
+<li>提高准确性:Opus模型在处理复杂、开放式问题时，正确答案的比例提高了两倍，错误答案减少。</li>
+<li>长上下文和近乎完美的回忆:Claude 3模型能够处理长达200K的上下文窗口，并且能够准确回忆大量数据中的信息。</li>
+<li>负责任的设计:模型开发考虑了安全性和透明度，包括减少偏见、保护隐私和遵守负责任扩展政策。</li>
+<li>易于使用:Claude 3模型更擅长遵循复杂指令，适应品牌声音和响应指南，以及生成结构化输出。</li>
+<li>模型可用性: Opus和Sonnet模型现已通过API提供，Haiku模型即将推出。Sonnet模型支持claude.ai的免费体验，Opus模型为Claude Pro订阅者提供。</li>
+<li>持续更新和功能增强:计划在未来几个月内频繁更新Claude 3模型家族，并推出新功能，如工具使用、交互式编码和更高级的代理能力。</li>
+<li>安全防护措施:随着AI能力的扩展，Anthropic致力于确保安全防护措施与性能提升同步，以引导AI发展朝着积极的社会结果。</li>
+</ol>
+<h2 id="三、Claude3注册教程"><a href="#三、Claude3注册教程" class="headerlink" title="三、Claude3注册教程"></a><strong>三、Claude3注册教程</strong></h2><h3 id="步骤1：获取Wildcard海外手机号"><a href="#步骤1：获取Wildcard海外手机号" class="headerlink" title="步骤1：获取Wildcard海外手机号"></a><strong>步骤1：获取Wildcard海外手机号</strong></h3><ol>
+<li>点击注册教程链接访问：<a href="https://bewildcard.com/i/UPGPT">wildcard使用教程？如何用wildcard订阅国外服务？</a></li>
+<li>根据教程提示注册账户</li>
+<li>进入网站，点击我的服务-&gt;下滑找到右下角海外手机号-&gt;点击使用-&gt;申请后就可以接码了（最下图是已经申请成功的界面）</li>
+</ol>
+<p><img src="https://pic2.zhimg.com/80/v2-1bf1ef2d9b99c561fcceb2a10a185815_720w.webp" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-7b2c2b4c3195dd7cf8fbba4e7ec31c60_720w.webp" alt="img"></p>
+<ol>
+<li>每个账号有三次免费申请的机会，而且网站说<strong>即使你用了虚拟手机号，可能会有失败的</strong>。不过你可以多试1～2次，我差不多是第2次才成功注册的。</li>
+</ol>
+<h3 id="步骤2：使用获取的手机号注册Claude3"><a href="#步骤2：使用获取的手机号注册Claude3" class="headerlink" title="步骤2：使用获取的手机号注册Claude3"></a><strong>步骤2：使用获取的手机号注册Claude3</strong></h3><ol>
+<li>打开Claude3注册（<a href="https://www.anthropic.com/claude">Claude \ Anthropic</a>）页面，先填写邮箱等信息。</li>
+</ol>
+<p><img src="https://pic2.zhimg.com/80/v2-163c3cb06ef5149f6aa9b759f785b039_720w.webp" alt="img"></p>
+<ol>
+<li>然后填入你从Wildcard获得的海外手机号。</li>
+<li>点击发送验证码。</li>
+</ol>
+<h3 id="步骤3：接收并输入验证码"><a href="#步骤3：接收并输入验证码" class="headerlink" title="步骤3：接收并输入验证码"></a><strong>步骤3：接收并输入验证码</strong></h3><ol>
+<li>回到你的Wildcard的界面。</li>
+<li>检查你的虚拟手机号收件箱，查看来自Claude3的验证码。</li>
+<li>最后将验证码输入到Claude3的注册页面中，完成验证。</li>
+</ol>
+<p>Wildcard的平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，官方是通过邀请制注册的，如果你没有邀请码的情况下，可以填写官方字段：<strong>UPGPT 。（它还可以优惠2美刀～）</strong></p>
+<p><strong>（PS：这个虚拟卡还可以升级订阅GPT-4～</strong></p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>Claude3注册与升级教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何升级订阅ChatGPT Plus？信用卡付款失败怎么办？使用国内虚拟卡升级ChatGPT Plus的教程</title>
     <url>/how-to-upgrade-chatgpt/</url>
     <content><![CDATA[<h2 id="如何升级订阅ChatGPT-Plus？信用卡付款失败怎么办？使用国内虚拟卡升级ChatGPT-Plus的教程"><a href="#如何升级订阅ChatGPT-Plus？信用卡付款失败怎么办？使用国内虚拟卡升级ChatGPT-Plus的教程" class="headerlink" title="如何升级订阅ChatGPT Plus？信用卡付款失败怎么办？使用国内虚拟卡升级ChatGPT Plus的教程"></a>如何升级订阅ChatGPT Plus？信用卡付款失败怎么办？使用国内虚拟卡升级ChatGPT Plus的教程</h2><p>ChatGPT Plus提供比标准版本更快的速度、增强的性能，并且优先体验新功能。然而，在GPT4的付费订阅过程中，许多用户在使用信用卡支付时遇到障碍。</p>
@@ -27,7 +132,8 @@
 <p><a href="https://bewildcard.com/i/UPGPT">WildCard | 一分钟开卡，轻松订阅海外软件服务</a>。</p>
 <p>这是一家国内公司，通过支付宝实名认证，安全无忧。</p>
 <p>开通的是有效期2年的虚拟信用卡，开卡费包含两年年费，大约 100元RMB，每天成本不到 1.5 毛钱。其他费用无，根据个人需求充值。</p>
-<p><strong>关键是，如果没有消费成功，可以随时提现余额到支付宝</strong>。</p>
+<p><strong>关键是，如果没有消费成功，可以随时提现余额到支付宝</strong>。<br><strong>充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
+<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
 <h3 id="3-2-绕过官方入口，直接进入升级支付"><a href="#3-2-绕过官方入口，直接进入升级支付" class="headerlink" title="3.2 绕过官方入口，直接进入升级支付"></a>3.2 绕过官方入口，直接进入升级支付</h3><ul>
 <li>登录ChatGPT后，在同一浏览器新开一个标签页。</li>
 <li>点击以下链接直接进入升级页面：<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></li>
@@ -169,6 +275,27 @@
 ]]></content>
       <tags>
         <tag>openai-api-绑卡及-key-申请教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</title>
+    <url>/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
+    <content><![CDATA[<p>OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办？</p>
+<p>在订阅 ChatGPT Plus 或者 OpenAI API 时，有时候会出现已下报错 ：</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png"><img src="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png"><img src="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png" alt="img"></a></p>
+<p>Your card has been declined.<br>您的银行卡被拒绝</p>
+<p> 出现这种错误，有以下几个解决方案：</p>
+<span id="more"></span>
+<h1 id="1-网络环境风险过高，用浏览器插件解决"><a href="#1-网络环境风险过高，用浏览器插件解决" class="headerlink" title="1. 网络环境风险过高，用浏览器插件解决"></a>1. 网络环境风险过高，用浏览器插件解决</h1><p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个风控判断，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付。</p>
+<p>解决方案是使用<a href="https://bewildcard.com/i/UPGPT">wildCard的浏览器插件</a>。</p>
+<h1 id="2-ChatGPT-可以用一键升级服务解决"><a href="#2-ChatGPT-可以用一键升级服务解决" class="headerlink" title="2. ChatGPT 可以用一键升级服务解决"></a>2. ChatGPT 可以用一键升级服务解决</h1><p>具体教程在<a href="https://openssora.com/upgrade-chatgpt-to-plus/">这里</a>。</p>
+<h1 id="3-卡片余额不足或余额为0"><a href="#3-卡片余额不足或余额为0" class="headerlink" title="3. 卡片余额不足或余额为0"></a>3. 卡片余额不足或余额为0</h1><p><a href="https://bewildcard.com/i/UPGPT">wildcard</a> 本质上是借记卡，没有额度，没有余额是无法绑定成功的，可以检查一下余额是否充足，即使是绑卡，而非消费，余额为0也是无法成功的，因为没法通过预扣款验证。</p>
+<p>平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> , 平台需要邀请码的话，可以填写官方邀请码：<strong>UPGPT</strong>， 然后可以减免2美刀～</p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</tag>
       </tags>
   </entry>
   <entry>
@@ -332,94 +459,14 @@
       </tags>
   </entry>
   <entry>
-    <title>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</title>
-    <url>/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
-    <content><![CDATA[<p>OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办？</p>
-<p>在订阅 ChatGPT Plus 或者 OpenAI API 时，有时候会出现已下报错 ：</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png"><img src="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png"><img src="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png" alt="img"></a></p>
-<p>Your card has been declined.<br>您的银行卡被拒绝</p>
-<p> 出现这种错误，有以下几个解决方案：</p>
-<span id="more"></span>
-<h1 id="1-网络环境风险过高，用浏览器插件解决"><a href="#1-网络环境风险过高，用浏览器插件解决" class="headerlink" title="1. 网络环境风险过高，用浏览器插件解决"></a>1. 网络环境风险过高，用浏览器插件解决</h1><p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个风控判断，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付。</p>
-<p>解决方案是使用<a href="https://bewildcard.com/i/UPGPT">wildCard的浏览器插件</a>。</p>
-<h1 id="2-ChatGPT-可以用一键升级服务解决"><a href="#2-ChatGPT-可以用一键升级服务解决" class="headerlink" title="2. ChatGPT 可以用一键升级服务解决"></a>2. ChatGPT 可以用一键升级服务解决</h1><p>具体教程在<a href="https://openssora.com/upgrade-chatgpt-to-plus/">这里</a>。</p>
-<h1 id="3-卡片余额不足或余额为0"><a href="#3-卡片余额不足或余额为0" class="headerlink" title="3. 卡片余额不足或余额为0"></a>3. 卡片余额不足或余额为0</h1><p><a href="https://bewildcard.com/i/UPGPT">wildcard</a> 本质上是借记卡，没有额度，没有余额是无法绑定成功的，可以检查一下余额是否充足，即使是绑卡，而非消费，余额为0也是无法成功的，因为没法通过预扣款验证。</p>
-<p>平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> , 平台需要邀请码的话，可以填写官方邀请码：<strong>UPGPT</strong>， 然后可以减免2美刀～</p>
-<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
-]]></content>
-      <tags>
-        <tag>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024年-最新升级 ChatGPT 4.0 Plus的保姆级教程</title>
-    <url>/upgrade-chatgpt-plus/</url>
-    <content><![CDATA[<h2 id="一、ChatGPT4-0-的优势"><a href="#一、ChatGPT4-0-的优势" class="headerlink" title="一、ChatGPT4.0 的优势"></a>一、ChatGPT4.0 的优势</h2><p>（PS：如果想直接一键注册可以看 [<a href="https://bewildcard.com/i/UPGPT(https://bewildcard.com/i/UPGPT)%EF%BC%8C%E6%B3%A8%E5%86%8C%E7%9A%84%E6%97%B6%E5%80%99%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E5%A1%AB%E4%BC%98%E6%83%A0%E7%A0%81%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%89%8B%E5%8A%A8%E5%A1%AB%E5%85%A5">https://bewildcard.com/i/UPGPT(https://bewildcard.com/i/UPGPT)，注册的时候如果没有填优惠码，可以手动填入</a> <strong>UPGPT</strong> 优惠码，可以免 2 美元的开卡费～</p>
-<p>众所周知，OpenAI目前已将更多资源投入到GPT-4和未来GPT-5的研发和训练中。由于这些投入，GPT-3.5在某种程度上已经降低了智能水平。与此同时，ChatGPT-4已经支持多模态和GPTS等功能。就我个人的感受而言，在日常工作、编程和写作方面，我已经完全离不开GPT-4.0了。这也是迄今为止，我唯一愿意每月支付20美元费用的产品。</p>
-<span id="more"></span>
-
-<h2 id="二、升级-4-0-为什么这么难？"><a href="#二、升级-4-0-为什么这么难？" class="headerlink" title="二、升级 4.0 为什么这么难？"></a>二、升级 4.0 为什么这么难？</h2><p>升级到ChatGPT 4.0确实颇具挑战性。这一过程不仅需要国外VISA、Master等双币信用卡，还要求拥有干净的国外IP地址（梯子使用的人较少）。ChatGPT使用Stripe进行收款，而Stripe会根据账单地址、IP地址等信息进行风险控制，因此国内的支付往往会被拦截。</p>
-<p>经常会遇到以下报错信息：</p>
-<ul>
-<li>Your credit card was declined.Try paying with a debit card instead.</li>
-<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
-</ul>
-<h2 id="三、升级-ChatGPT-4-0-最好的方法"><a href="#三、升级-ChatGPT-4-0-最好的方法" class="headerlink" title="三、升级 ChatGPT 4.0 最好的方法"></a>三、升级 ChatGPT 4.0 最好的方法</h2><p>然而由于官方限制，ChatGPT在国内无法直接访问，而ChatGPT Plus在此基础上还必须绑定美国的（欧洲的好像也行）信用卡才能开通，这门槛确实挡住了不少人……</p>
-<p>不过方法总比困难多，经过一晚上的折腾，成功开通会员！</p>
-<p><img src="https://cdn.how2cs.cn/csguide/085222.png" alt="img"></p>
-<p>推荐 wildcard 平台：</p>
-<p><a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
-<p>这是一个虚拟卡平台（正规的，支付宝可以充值），开卡之后可以用 2 年，并且提供了一键升级和一键注册账号的能力：</p>
-<p><img src="https://cdn.how2cs.cn/csguide/085341.png" alt="img"></p>
-<h2 id="平台链接"><a href="#平台链接" class="headerlink" title="平台链接:"></a>平台链接:</h2><p>大家可以直接点链接进去：</p>
-<p><a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，注册的时候如果没有填邀请码，可以手动填入 <strong>UPGPT</strong> 邀请码，可以免 2 美元的开卡费～</p>
-<p>开通的是有效期1-2年的虚拟信用卡，开卡费包含两年年费，大约 70 元RMB，每天成本不到 1.5 毛钱。其他费用无，根据个人需求充值。</p>
-<p>关键是，如果没有消费成功，可以随时提现余额到支付宝。</p>
-<p>大家如果有任何问题，欢迎留言咨询，也可以提供账号代充值和升级～</p>
-<img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" />
-
-
-<p><strong>声明：</strong>本站所有文章，如无特殊说明或标注，均为本站原创发布。任何个人或组织，在未征得本站同意时，禁止复制、盗用、采集、发布本站内容到任何网站、书籍等各类媒体平台。如若本站内容侵犯了原著者的合法权益，可联系我们进行处理。</p>
-]]></content>
-      <tags>
-        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</title>
-    <url>/upgrade-chatgpt/</url>
-    <content><![CDATA[<p>前段时间，注册了Chat GPT的账号，现在账号注册直接用邮箱注册即可，都不需要用手机号码接验证码什么的。方便好多，于是注册了个账号试试官网的Chat GPT的效果。3.5的效果跟平时用的套壳网站的差不多。</p>
-<p>但是主要的是3.5已经无法满足我的需求了，因为很多时候，3.5的回答并不是你想要的，还不够精确。于是我就去找升级Chat GPT-4.0的方法。找了好久，发现有一个教程非常的方便，可以用支付宝就可以直接升级。</p>
-<p>之前去某宝看到的代升级都要200RMB左右，真的贵，而且只能代充一次。一个月之后，如果想继续代充就要被继续收多几十块的手续费。废话不多说了，直接上教程。</p>
-<h1 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a><strong>一、准备工作</strong></h1><p>需要支付宝账号、已经开通好的chat GPT账号。</p>
-<span id="more"></span>
-<h1 id="二、申请国内虚拟卡"><a href="#二、申请国内虚拟卡" class="headerlink" title="二、申请国内虚拟卡"></a><strong>二、申请国内虚拟卡</strong></h1><p>申请一张属于自己的独立虚拟卡，后续自己想充值什么都可以，同时你也可以自己去代充吧，但是个人不建议去给人代充。 下面就推荐一款国内的 <a href="https://bewildcard.com/i/UPGPT">wildcard</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，这款对小白来说非常的友好，其他我不敢推荐，这个他充值后是可以退款的。 我看的教程是这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">通过wildcard升级Chat GPT4.0 Plus教程</a></p>
-<p>申请之后，你可以看到里面有个功能，是一键升级的。点它：</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-01.webp" alt="img"></p>
-<p>点了之后，升级前，还会提醒你，之前用其他国外邮箱注册的账号容易被封的情况，以免白白升级，你可以直接免费申请一个新的国外邮箱，直接注册个Google邮箱就好了，这个很简单，相信你应该会的。注册Google邮箱是不需要手机号码的。</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-02.webp" alt="img"></p>
-<p>符合的同学，直接下一步就行了，选择你要的Plus，个人订阅。</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-03.webp" alt="img"></p>
-<p>下一步之后，这个虚拟卡交互很好啊，直接给你提供保姆级的图片和教程，如下图：</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-04.webp" alt="img"></p>
-<p>你登陆chat-gpt账号后，点击升级，然后把升级付款的链接，直接复制到输入框，点击支付提交。3分钟内就搞定了，而且这是自己独立虚拟卡升级到，几乎不会被封号。我也推荐大家使用这种方式去升级，安全还独立。</p>
-<p><a href="https://bewildcard.com/i/UPGPT">一键直通GPT升级地址</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
-<p>填入邀请码可以减免2美元的开卡费～，没有邀请码的同学，需要邀请码的话可以填官方字段：<strong>UPGPT</strong></p>
-<h1 id="三、额外的惊喜"><a href="#三、额外的惊喜" class="headerlink" title="三、额外的惊喜"></a><strong>三、额外的惊喜</strong></h1><p>这个虚拟卡还可以充值其他国外的东西，比如only fans，你懂的吧 [坏笑]</p>
-<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>一篇教会你升级GPT-4，内附详细步骤（24年3月最新）</title>
     <url>/upgrade-chatgpt-to-plus/</url>
     <content><![CDATA[<p>先介绍一下 GPT 升级</p>
 <p>第一种: 支付宝购买礼品卡给美区 Apple ID 充值</p>
 <p>第二种：<a href="https://openssora.com/upgrade-chatgpt-plus/">3分钟快速升级方法（一键升级）</a></p>
 <p>GPT4的作用非常强大，还可以使用DALL进行绘画，比如我画一个小王子的插画：</p>
+<span id="more"></span>
+
 <p><img src="https://picx.zhimg.com/80/v2-d7b833f55f7df949b387adc97cb2dead_1440w.png?source=d16d100b" alt="img"></p>
 <p>平时用DALL绘画是比较少的，因为大部分还是会用SD进行绘画。GPT-4最大的作用就是平时工作上的帮助，平时写代码的活，比如增删改查的SQL语句都让它处理了。在工作上真的非常提效，之后就可以摸鱼啦。不过平时发了一些特殊的问题给GPT-4，然后分享出来后，有很多朋友咨询怎么用GPT-4，如何使用指令什么的，不过最多的还是3.5的用户问怎么升级GPT-4。</p>
 <p>今天有空就整理了两个升级GPT-4的方法，如果有C友有升级的需求可以试一下哈。</p>
@@ -467,13 +514,15 @@
 <p><strong>这个方法就是通过办理一张虚拟的美国信用卡</strong>，不过需要支付额外的开卡费。</p>
 <p>如果上面的免费升级的方法不能使用，就只能选择这个方法了。<strong>此方法的劣势就是，额外需要9.9$的开卡费用，其他就没有了。</strong> 我在某宝查找过代充和账户购买，但是这种不安全，不推荐，账户不是自己的，代充也只能充一次，而且费用还高。</p>
 <p>相对下来，这种方法的话，优势是提供了专业技术支持，可以快速一键升级，提供美国家庭网络环境之类的。</p>
-<h3 id="方法："><a href="#方法：" class="headerlink" title="方法："></a><strong>方法：</strong></h3><p><strong>进入这个网址：</strong><a href="https://bewildcard.com/i/UPGPT"><strong>https://bewildcard.com/i/UPGPT</strong></a> <strong>，填写个人信息后，会跳到支付宝进行身份验证，通过之后，就需要支付9.9$的费用开一个虚拟信用卡。</strong></p>
+<h3 id="方法："><a href="#方法：" class="headerlink" title="方法："></a><strong>方法：</strong></h3><p><strong>进入这个网址：</strong><a href="https://bewildcard.com/i/UPGPT"><strong>https://bewildcard.com/i/UPGPT</strong></a> <strong>，填写个人信息后，会跳到支付宝进行身份验证，通过之后，就需要支付9.9$的费用开一个虚拟信用卡。</strong><br><strong>它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
+<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
 <p>下面是我最近开的一张虚拟信用卡，这个卡还可以在其他海外平台需要信用卡支付的时候使用。</p>
 <p><img src="https://pica.zhimg.com/80/v2-9e369d0e13a5bf5f285d7b93408dff31_1440w.png?source=d16d100b" alt="img"></p>
 <p>重要的是，你可以获得一个详细的账单地址，这个地址信息就是你在升级ChatGPT-4的时候需要填写的。</p>
 <p><img src="https://picx.zhimg.com/80/v2-382a7d9aecdc80f28cc5e4241d3d2834_1440w.png?source=d16d100b" alt="img"></p>
-<p>它还额外提供3个海外手机号，这个你可以用来申请新账号都行。</p>
+<p>它还额外提供3个海外手机号以及海外邮箱和海外网络，这个你可以用来申请新账号都行。</p>
 <p><img src="https://picx.zhimg.com/80/v2-c140978d227e85d573d42631a92f5b54_1440w.png?source=d16d100b" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/v2-c7060735186b9d782d1cd77efec85250_r.jpg" alt="img"></p>
 <p>有了账单信息之后，就可以在ChatGPT官网上进行升级，找到升级的地方。</p>
 <p>然后支付需要绑卡的页面上，填入对应的信息。</p>
 <p><img src="https://picx.zhimg.com/80/v2-522bdf302833051656ebb1bf867af97b_1440w.png?source=d16d100b" alt="img"></p>
@@ -482,21 +531,62 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2024年如何通过虚拟卡升级Chat-GPT4.0 plus</title>
-    <url>/upgrade-chatgpt-wildcard/</url>
-    <content><![CDATA[<p>在今天这个信息爆炸的时代，掌握先进的技术和工具已成为提升个人和企业竞争力的重要手段。人工智能技术的飞速发展，尤其是OpenAI推出的Chat-GPT系列，已经引起了全球范围内的广泛关注。Chat-GPT4.0 plus作为这一系列中的最新成员，以其更加强大的语言理解和生成能力，成为了许多用户追求的目标。然而，对于国内用户来说，直接访问并使用Chat-GPT4.0 plus可能会遇到一些困难。本文旨在提供一个简单的解决方案——通过开通国内虚拟卡的方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以为国外的其他应用充值，比如onlyfans等。<br>一键升级的教程可以参考这个教程：<a href="https://openssora.com/upgrade-chatgpt/">3分钟快速升级ChatGPT4.0 Plus教程</a></p>
+    <title>2024年-最新升级 ChatGPT 4.0 Plus的保姆级教程</title>
+    <url>/upgrade-chatgpt-plus/</url>
+    <content><![CDATA[<h2 id="一、ChatGPT4-0-的优势"><a href="#一、ChatGPT4-0-的优势" class="headerlink" title="一、ChatGPT4.0 的优势"></a>一、ChatGPT4.0 的优势</h2><p>（PS：如果想直接一键注册可以看 [<a href="https://bewildcard.com/i/UPGPT(https://bewildcard.com/i/UPGPT)%EF%BC%8C%E6%B3%A8%E5%86%8C%E7%9A%84%E6%97%B6%E5%80%99%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E5%A1%AB%E4%BC%98%E6%83%A0%E7%A0%81%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%89%8B%E5%8A%A8%E5%A1%AB%E5%85%A5">https://bewildcard.com/i/UPGPT(https://bewildcard.com/i/UPGPT)，注册的时候如果没有填优惠码，可以手动填入</a> <strong>UPGPT</strong> 优惠码，可以免 2 美元的开卡费～</p>
+<p>众所周知，OpenAI目前已将更多资源投入到GPT-4和未来GPT-5的研发和训练中。由于这些投入，GPT-3.5在某种程度上已经降低了智能水平。与此同时，ChatGPT-4已经支持多模态和GPTS等功能。就我个人的感受而言，在日常工作、编程和写作方面，我已经完全离不开GPT-4.0了。这也是迄今为止，我唯一愿意每月支付20美元费用的产品。</p>
 <span id="more"></span>
-<h1 id="虚拟卡简介"><a href="#虚拟卡简介" class="headerlink" title="虚拟卡简介"></a>虚拟卡简介</h1><p>在深入了解如何通过虚拟卡升级Chat-GPT4.0 plus之前，让我们先来了解一下什么是虚拟卡。虚拟卡，顾名思义，是一种不以实体形式存在的银行卡。它具有与实体银行卡相同的功能，包括一个卡号、有效期和安全码。用户可以通过国内的银行或者第三方支付平台申请虚拟卡，并将其绑定到自己的账户上。使用虚拟卡的好处在于，它可以提供一个额外的安全层次，因为它是独立于用户的主要银行账户的，且可以随时生成和销毁，大大减少了在线交易的风险。</p>
-<h1 id="如何通过虚拟卡升级Chat-GPT4-0-plus"><a href="#如何通过虚拟卡升级Chat-GPT4-0-plus" class="headerlink" title="如何通过虚拟卡升级Chat-GPT4.0 plus"></a>如何通过虚拟卡升级Chat-GPT4.0 plus</h1><p>下面，我们将详细介绍如何通过国内虚拟卡升级和使用Chat-GPT4.0 plus。</p>
-<p>选择合适的虚拟卡服务提供商：首先，你需要选择一个可靠的虚拟卡服务提供商。国内许多银行和第三方支付平台都提供虚拟卡服务，如支付宝、微信支付等。选择时，请考虑其安全性、费用、充值和提现的便利性。</p>
-<p>申请并激活虚拟卡：根据所选服务提供商的指引完成虚拟卡的申请。通常，这一过程包括验证身份。申请成功后，你将获得一张具有独立卡号和安全码的虚拟卡。</p>
-<p>充值虚拟卡：通过你的账户或其他支付方式为虚拟卡充值。请注意，充值时可能需要考虑汇率变化和相关手续费。</p>
-<p>使用虚拟卡升级Chat-GPT4.0 plus：登录到Chat-GPT的官方网站，选择升级到4.0 plus的选项，并在支付环节选择信用卡支付方式。输入你的虚拟卡信息进行支付即可完成升级。</p>
-<p>享受Chat-GPT4.0 plus带来的便利：升级成功后，你将能够享受到Chat-GPT4.0 plus更加强大的语言理解和生成能力，无论是进行学术研究、市场分析还是日常娱乐，都将为你带来前所未有的体验。</p>
-<h1 id="使用虚拟卡充值国外应用"><a href="#使用虚拟卡充值国外应用" class="headerlink" title="使用虚拟卡充值国外应用"></a>使用虚拟卡充值国外应用</h1><p>除了升级Chat-GPT4.0 plus，国内虚拟卡还可以用于充值国外的其他应用。这一过程与上述升级Chat-GPT4.0 plus类似，主要区别在于支付时选择的应用平台不同。例如，如果你想要充值onlyfans，只需登录onlyfans的官方网站，选择需要的服务或订阅，然后在支付选项中使用你的虚拟卡信息进行支付即可。</p>
-<p>虚拟卡可以用这个平台： <a href="https://bewildcard.com/i/UPGPT">wildcard</a></p>
-<p>需要新手直接升级的GPT4.0的教程可以看这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">openssora.com&#x2F;upgrade-chatgpt-to-plus</a></p>
-<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>通过上述方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以扩展到国外其他应用的充值，极大地丰富了国内用户的选择和便利。虚拟卡作为一种安全、便捷的支付工具，在今后的数字化生活中将发挥越来越重要的作用。希望本文能帮助到有需要的读者，让我们一起拥抱技术，享受未来。</p>
+
+<h2 id="二、升级-4-0-为什么这么难？"><a href="#二、升级-4-0-为什么这么难？" class="headerlink" title="二、升级 4.0 为什么这么难？"></a>二、升级 4.0 为什么这么难？</h2><p>升级到ChatGPT 4.0确实颇具挑战性。这一过程不仅需要国外VISA、Master等双币信用卡，还要求拥有干净的国外IP地址（梯子使用的人较少）。ChatGPT使用Stripe进行收款，而Stripe会根据账单地址、IP地址等信息进行风险控制，因此国内的支付往往会被拦截。</p>
+<p>经常会遇到以下报错信息：</p>
+<ul>
+<li>Your credit card was declined.Try paying with a debit card instead.</li>
+<li>您的信用卡被拒绝了。请尝试用借记卡支付。</li>
+</ul>
+<h2 id="三、升级-ChatGPT-4-0-最好的方法"><a href="#三、升级-ChatGPT-4-0-最好的方法" class="headerlink" title="三、升级 ChatGPT 4.0 最好的方法"></a>三、升级 ChatGPT 4.0 最好的方法</h2><p>然而由于官方限制，ChatGPT在国内无法直接访问，而ChatGPT Plus在此基础上还必须绑定美国的（欧洲的好像也行）信用卡才能开通，这门槛确实挡住了不少人……</p>
+<p>不过方法总比困难多，经过一晚上的折腾，成功开通会员！</p>
+<p><img src="https://cdn.how2cs.cn/csguide/085222.png" alt="img"></p>
+<p>推荐 wildcard 平台：</p>
+<p><a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
+<p><strong>它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
+<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
+<p>这是一个虚拟卡平台（正规的，支付宝可以充值），开卡之后可以用 2 年，并且提供了一键升级和一键注册账号的能力：</p>
+<p><img src="https://cdn.how2cs.cn/csguide/085341.png" alt="img"></p>
+<h2 id="平台链接"><a href="#平台链接" class="headerlink" title="平台链接:"></a>平台链接:</h2><p>大家可以直接点链接进去：</p>
+<p><a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，注册的时候如果没有填邀请码，可以手动填入 <strong>UPGPT</strong> 邀请码，可以免 2 美元的开卡费～</p>
+<p>开通的是有效期1-2年的虚拟信用卡，开卡费包含两年年费，大约 70 元RMB，每天成本不到 1.5 毛钱。其他费用无，根据个人需求充值。</p>
+<p>关键是，如果没有消费成功，可以随时提现余额到支付宝。</p>
+<p>大家如果有任何问题，欢迎留言咨询，也可以提供账号代充值和升级～</p>
+<img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" />
+
+
+<p><strong>声明：</strong>本站所有文章，如无特殊说明或标注，均为本站原创发布。任何个人或组织，在未征得本站同意时，禁止复制、盗用、采集、发布本站内容到任何网站、书籍等各类媒体平台。如若本站内容侵犯了原著者的合法权益，可联系我们进行处理。</p>
+]]></content>
+      <tags>
+        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</title>
+    <url>/upgrade-chatgpt/</url>
+    <content><![CDATA[<p>前段时间，注册了Chat GPT的账号，现在账号注册直接用邮箱注册即可，都不需要用手机号码接验证码什么的。方便好多，于是注册了个账号试试官网的Chat GPT的效果。3.5的效果跟平时用的套壳网站的差不多。</p>
+<p>但是主要的是3.5已经无法满足我的需求了，因为很多时候，3.5的回答并不是你想要的，还不够精确。于是我就去找升级Chat GPT-4.0的方法。找了好久，发现有一个教程非常的方便，可以用支付宝就可以直接升级。</p>
+<p>之前去某宝看到的代升级都要200RMB左右，真的贵，而且只能代充一次。一个月之后，如果想继续代充就要被继续收多几十块的手续费。废话不多说了，直接上教程。</p>
+<h1 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a><strong>一、准备工作</strong></h1><p>需要支付宝账号、已经开通好的chat GPT账号。</p>
+<span id="more"></span>
+<h1 id="二、申请国内虚拟卡"><a href="#二、申请国内虚拟卡" class="headerlink" title="二、申请国内虚拟卡"></a><strong>二、申请国内虚拟卡</strong></h1><p>申请一张属于自己的独立虚拟卡，后续自己想充值什么都可以，同时你也可以自己去代充吧，但是个人不建议去给人代充。 下面就推荐一款国内的 <a href="https://bewildcard.com/i/UPGPT">wildcard</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，这款对小白来说非常的友好，其他我不敢推荐，这个他充值后是可以退款的。 我看的教程是这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">通过wildcard升级Chat GPT4.0 Plus教程</a></p>
+<p>申请之后，你可以看到里面有个功能，是一键升级的。点它：</p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-01.webp" alt="img"></p>
+<p>点了之后，升级前，还会提醒你，之前用其他国外邮箱注册的账号容易被封的情况，以免白白升级，你可以直接免费申请一个新的国外邮箱，直接注册个Google邮箱就好了，这个很简单，相信你应该会的。注册Google邮箱是不需要手机号码的。</p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-02.webp" alt="img"></p>
+<p>符合的同学，直接下一步就行了，选择你要的Plus，个人订阅。</p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-03.webp" alt="img"></p>
+<p>下一步之后，这个虚拟卡交互很好啊，直接给你提供保姆级的图片和教程，如下图：</p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-04.webp" alt="img"></p>
+<p>你登陆chat-gpt账号后，点击升级，然后把升级付款的链接，直接复制到输入框，点击支付提交。3分钟内就搞定了，而且这是自己独立虚拟卡升级到，几乎不会被封号。我也推荐大家使用这种方式去升级，安全还独立。</p>
+<p><a href="https://bewildcard.com/i/UPGPT">一键直通GPT升级地址</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
+<p>填入邀请码可以减免2美元的开卡费～，没有邀请码的同学，需要邀请码的话可以填官方字段：<strong>UPGPT</strong></p>
+<h1 id="三、额外的惊喜"><a href="#三、额外的惊喜" class="headerlink" title="三、额外的惊喜"></a><strong>三、额外的惊喜</strong></h1><p>这个虚拟卡还可以充值其他国外的东西，比如only fans，你懂的吧 [坏笑]</p>
 <p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
 ]]></content>
       <tags>
@@ -565,6 +655,28 @@
 ]]></content>
       <tags>
         <tag>美区-apple-id-注册和绑卡教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024年如何通过虚拟卡升级Chat-GPT4.0 plus</title>
+    <url>/upgrade-chatgpt-wildcard/</url>
+    <content><![CDATA[<p>在今天这个信息爆炸的时代，掌握先进的技术和工具已成为提升个人和企业竞争力的重要手段。人工智能技术的飞速发展，尤其是OpenAI推出的Chat-GPT系列，已经引起了全球范围内的广泛关注。Chat-GPT4.0 plus作为这一系列中的最新成员，以其更加强大的语言理解和生成能力，成为了许多用户追求的目标。然而，对于国内用户来说，直接访问并使用Chat-GPT4.0 plus可能会遇到一些困难。本文旨在提供一个简单的解决方案——通过开通国内虚拟卡的方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以为国外的其他应用充值，比如onlyfans等。<br>一键升级的教程可以参考这个教程：<a href="https://openssora.com/upgrade-chatgpt/">3分钟快速升级ChatGPT4.0 Plus教程</a></p>
+<span id="more"></span>
+<h1 id="虚拟卡简介"><a href="#虚拟卡简介" class="headerlink" title="虚拟卡简介"></a>虚拟卡简介</h1><p>在深入了解如何通过虚拟卡升级Chat-GPT4.0 plus之前，让我们先来了解一下什么是虚拟卡。虚拟卡，顾名思义，是一种不以实体形式存在的银行卡。它具有与实体银行卡相同的功能，包括一个卡号、有效期和安全码。用户可以通过国内的银行或者第三方支付平台申请虚拟卡，并将其绑定到自己的账户上。使用虚拟卡的好处在于，它可以提供一个额外的安全层次，因为它是独立于用户的主要银行账户的，且可以随时生成和销毁，大大减少了在线交易的风险。</p>
+<h1 id="如何通过虚拟卡升级Chat-GPT4-0-plus"><a href="#如何通过虚拟卡升级Chat-GPT4-0-plus" class="headerlink" title="如何通过虚拟卡升级Chat-GPT4.0 plus"></a>如何通过虚拟卡升级Chat-GPT4.0 plus</h1><p>下面，我们将详细介绍如何通过国内虚拟卡升级和使用Chat-GPT4.0 plus。</p>
+<p>选择合适的虚拟卡服务提供商：首先，你需要选择一个可靠的虚拟卡服务提供商。国内许多银行和第三方支付平台都提供虚拟卡服务，如支付宝、微信支付等。选择时，请考虑其安全性、费用、充值和提现的便利性。</p>
+<p>申请并激活虚拟卡：根据所选服务提供商的指引完成虚拟卡的申请。通常，这一过程包括验证身份。申请成功后，你将获得一张具有独立卡号和安全码的虚拟卡。</p>
+<p>充值虚拟卡：通过你的账户或其他支付方式为虚拟卡充值。请注意，充值时可能需要考虑汇率变化和相关手续费。</p>
+<p>使用虚拟卡升级Chat-GPT4.0 plus：登录到Chat-GPT的官方网站，选择升级到4.0 plus的选项，并在支付环节选择信用卡支付方式。输入你的虚拟卡信息进行支付即可完成升级。</p>
+<p>享受Chat-GPT4.0 plus带来的便利：升级成功后，你将能够享受到Chat-GPT4.0 plus更加强大的语言理解和生成能力，无论是进行学术研究、市场分析还是日常娱乐，都将为你带来前所未有的体验。</p>
+<h1 id="使用虚拟卡充值国外应用"><a href="#使用虚拟卡充值国外应用" class="headerlink" title="使用虚拟卡充值国外应用"></a>使用虚拟卡充值国外应用</h1><p>除了升级Chat-GPT4.0 plus，国内虚拟卡还可以用于充值国外的其他应用。这一过程与上述升级Chat-GPT4.0 plus类似，主要区别在于支付时选择的应用平台不同。例如，如果你想要充值onlyfans，只需登录onlyfans的官方网站，选择需要的服务或订阅，然后在支付选项中使用你的虚拟卡信息进行支付即可。</p>
+<p>虚拟卡可以用这个平台： <a href="https://bewildcard.com/i/UPGPT">wildcard</a></p>
+<p>需要新手直接升级的GPT4.0的教程可以看这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">openssora.com&#x2F;upgrade-chatgpt-to-plus</a></p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>通过上述方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以扩展到国外其他应用的充值，极大地丰富了国内用户的选择和便利。虚拟卡作为一种安全、便捷的支付工具，在今后的数字化生活中将发挥越来越重要的作用。希望本文能帮助到有需要的读者，让我们一起拥抱技术，享受未来。</p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
       </tags>
   </entry>
 </search>
