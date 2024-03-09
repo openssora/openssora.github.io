@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://openssora.com/how-to-upgrade-chatgpt/</loc>
+    <loc>https://openssora.com/how-ChatGPT-%E6%B6%88%E6%81%AF%E5%8F%91%E4%B8%8D%E5%87%BA%E5%8E%BB%E4%BA%86/</loc>
+    
+    <lastmod>2024-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://openssora.com/onlyfans/</loc>
+    
+    <lastmod>2024-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://openssora.com/onlyfans-tech/</loc>
     
     <lastmod>2024-03-09</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://openssora.com/how-ChatGPT-%E6%B6%88%E6%81%AF%E5%8F%91%E4%B8%8D%E5%87%BA%E5%8E%BB%E4%BA%86/</loc>
+    <loc>https://openssora.com/how-to-upgrade-chatgpt/</loc>
     
     <lastmod>2024-03-09</lastmod>
     
@@ -122,24 +140,6 @@
     <loc>https://openssora.com/upgrade-chatgpt-wildcard/</loc>
     
     <lastmod>2024-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://openssora.com/onlyfans/</loc>
-    
-    <lastmod>2024-02-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://openssora.com/onlyfans-tech/</loc>
-    
-    <lastmod>2024-02-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
