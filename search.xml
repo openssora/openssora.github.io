@@ -221,6 +221,27 @@
       </tags>
   </entry>
   <entry>
+    <title>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</title>
+    <url>/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
+    <content><![CDATA[<p>OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办？</p>
+<p>在订阅 ChatGPT Plus 或者 OpenAI API 时，有时候会出现已下报错 ：</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png"><img src="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png"><img src="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png" alt="img"></a></p>
+<p>Your card has been declined.<br>您的银行卡被拒绝</p>
+<p> 出现这种错误，有以下几个解决方案：</p>
+<span id="more"></span>
+<h1 id="1-网络环境风险过高，用浏览器插件解决"><a href="#1-网络环境风险过高，用浏览器插件解决" class="headerlink" title="1. 网络环境风险过高，用浏览器插件解决"></a>1. 网络环境风险过高，用浏览器插件解决</h1><p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个风控判断，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付。</p>
+<p>解决方案是使用<a href="https://bewildcard.com/i/UPGPT">wildCard的浏览器插件</a>。</p>
+<h1 id="2-ChatGPT-可以用一键升级服务解决"><a href="#2-ChatGPT-可以用一键升级服务解决" class="headerlink" title="2. ChatGPT 可以用一键升级服务解决"></a>2. ChatGPT 可以用一键升级服务解决</h1><p>具体教程在<a href="https://openssora.com/upgrade-chatgpt-to-plus/">这里</a>。</p>
+<h1 id="3-卡片余额不足或余额为0"><a href="#3-卡片余额不足或余额为0" class="headerlink" title="3. 卡片余额不足或余额为0"></a>3. 卡片余额不足或余额为0</h1><p><a href="https://bewildcard.com/i/UPGPT">wildcard</a> 本质上是借记卡，没有额度，没有余额是无法绑定成功的，可以检查一下余额是否充足，即使是绑卡，而非消费，余额为0也是无法成功的，因为没法通过预扣款验证。</p>
+<p>平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> , 平台需要邀请码的话，可以填写官方邀请码：<strong>UPGPT</strong>， 然后可以减免2美刀～</p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>openai-api-绑卡及-key-申请教程</title>
     <url>/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>OpenAI API 绑卡及 Key 申请教程</p>
@@ -278,27 +299,6 @@
 ]]></content>
       <tags>
         <tag>openai-api-绑卡及-key-申请教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</title>
-    <url>/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
-    <content><![CDATA[<p>OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办？</p>
-<p>在订阅 ChatGPT Plus 或者 OpenAI API 时，有时候会出现已下报错 ：</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png"><img src="https://downloads.intercomcdn.com/i/o/861303119/848388fd20c5f9d4356c2bf7/screenshot-20231025-122247.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png"><img src="https://downloads.intercomcdn.com/i/o/861303221/1b5acbc1d9bc380d1bf871c7/Screenshot+2023-10-25+at+12.22.11.png" alt="img"></a></p>
-<p>Your card has been declined.<br>您的银行卡被拒绝</p>
-<p> 出现这种错误，有以下几个解决方案：</p>
-<span id="more"></span>
-<h1 id="1-网络环境风险过高，用浏览器插件解决"><a href="#1-网络环境风险过高，用浏览器插件解决" class="headerlink" title="1. 网络环境风险过高，用浏览器插件解决"></a>1. 网络环境风险过高，用浏览器插件解决</h1><p>由于 OpenAI 和 Midjourney 等服务采用了 Stripe 的支付通道，而 Stripe 的支付通道在绑定&#x2F;支付时，会对客户的访问 IP 进行一个风控判断，如果客户的 IP （大部分情况下是代理）是很多人绑卡&#x2F;支付时使用过的 IP，就会被风控判定为欺诈风险过高，而拒绝客户绑定&#x2F;支付。</p>
-<p>解决方案是使用<a href="https://bewildcard.com/i/UPGPT">wildCard的浏览器插件</a>。</p>
-<h1 id="2-ChatGPT-可以用一键升级服务解决"><a href="#2-ChatGPT-可以用一键升级服务解决" class="headerlink" title="2. ChatGPT 可以用一键升级服务解决"></a>2. ChatGPT 可以用一键升级服务解决</h1><p>具体教程在<a href="https://openssora.com/upgrade-chatgpt-to-plus/">这里</a>。</p>
-<h1 id="3-卡片余额不足或余额为0"><a href="#3-卡片余额不足或余额为0" class="headerlink" title="3. 卡片余额不足或余额为0"></a>3. 卡片余额不足或余额为0</h1><p><a href="https://bewildcard.com/i/UPGPT">wildcard</a> 本质上是借记卡，没有额度，没有余额是无法绑定成功的，可以检查一下余额是否充足，即使是绑卡，而非消费，余额为0也是无法成功的，因为没法通过预扣款验证。</p>
-<p>平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> , 平台需要邀请码的话，可以填写官方邀请码：<strong>UPGPT</strong>， 然后可以减免2美刀～</p>
-<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
-]]></content>
-      <tags>
-        <tag>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</tag>
       </tags>
   </entry>
   <entry>
