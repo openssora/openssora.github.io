@@ -78,6 +78,78 @@
       </tags>
   </entry>
   <entry>
+    <title>最新Claude 3的注册升级教程！解决如何注册升级Cluade3的问题以及防封号经验</title>
+    <url>/how-register-claude3-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7Cluade3/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h2><p>OpenAI的GPT-4不可战胜的神话，已经被打破了。</p>
+<p><strong>最近Claude 3发布的新模型</strong>，榜单性能跑分超越GPT-4，成为首个全面超越GPT-4的产品，成为了新一代的LLM模型标准。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-ec965ee43d976c82d4f361c42c178630_720w.webp" alt="img"></p>
+<p>但是，相信各位都在注册Claude 3时遇到了一些阻碍，比如手机验证码无法使用，需要国外的手机号码，而且手机号码也是需要官方支持的150几个国家&#x2F;地区的：<a href="https://www.anthropic.com/claude-ai-locations">Supported countries and regions: Claude.ai</a></p>
+<p><img src="https://pic4.zhimg.com/80/v2-69e5facbf70a2346df982c1d0597124f_720w.webp" alt="img"></p>
+<p><img src="https://pic2.zhimg.com/80/v2-60e41b29a0a6a888562e360c632ee541_720w.webp" alt="img"></p>
+<p>经过多次的实验之后，也被封过2次号，最终也找到了方法。其中重要的三要素：</p>
+<ul>
+<li><strong>谷歌账号</strong></li>
+<li><strong>验证手机号</strong></li>
+<li><strong>网络</strong></li>
+</ul>
+<p><strong>这三者必须统一。</strong></p>
+<p>如果你不满足上面的条件的话，你可以通过这个平台去注册一张国外虚拟卡：</p>
+<p><a href="https://bewildcard.com/i/UPGPT">WildCard | 一分钟注册，轻松订阅海外软件服务bewildcard.com&#x2F;i&#x2F;UPGPT</a></p>
+<p><em><strong>*它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈*</strong></em></p>
+<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
+<p><strong>另外建议使用wildcard平台去升级自己的GPT-4哈，不推荐使用拼车功能！！！</strong></p>
+<p><strong>里面有免费的三次英国的手机号码：</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-7e89d23c91da48077f6c47d2e3633ab8_720w.webp" alt="img"></p>
+<p><strong>也提供你需要的网络以及邮箱账号等功能：</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-c7060735186b9d782d1cd77efec85250_720w.webp" alt="img"></p>
+<h2 id="一-哪些地区可以使用Claude？"><a href="#一-哪些地区可以使用Claude？" class="headerlink" title="一. 哪些地区可以使用Claude？"></a><strong>一. 哪些地区可以使用Claude？</strong></h2><p>Opus 和 Sonnet 目前已集成到 Anthropic 的 Claude.ai 和 Claude API 中，覆盖了 159 个国家&#x2F;地区。Haiku 将很快推出。此外，Sonnet 也可以通过亚马逊云科技的 Bedrock 服务以及谷歌云 Vertex AI Model Garden 的私人预览渠道获得，而 Opus 和 Haiku 也将在不久后登陆这两个平台。</p>
+<h2 id="二、Claude3目前的优势和特点"><a href="#二、Claude3目前的优势和特点" class="headerlink" title="二、Claude3目前的优势和特点"></a><strong>二、Claude3目前的优势和特点</strong></h2><ol>
+<li>多样化模型选择:包括Claude 3 Haiku、Claude 3 Sonnet和Claudle 3 Opus三个模型，分别针对不同的性能需求和成本效益。</li>
+<li>行业领先性能: Opus模型在多个AI系统评估基准上超越同行，包括专家知识、专家推理和基础数学等。</li>
+<li>增强的多语言能力:所有Claude 3模型在非英语语言（如西班牙语、日语和法语)的对话中表现出色。</li>
+<li>快速响应能力:Haiku模型在处理信息密集型研究论文时速度极快，Sonnet模型在大多数工作负载中速度是前代模型的两倍。</li>
+<li>强大的视觉处理能力:Claude 3模型能够处理各种视觉格式，包括照片、图表、图形和技术图示。</li>
+<li>减少不必要的拒绝:新模型在理解上下文和处理提示词方面更加细致，减少了不必要的拒绝。</li>
+<li>提高准确性:Opus模型在处理复杂、开放式问题时，正确答案的比例提高了两倍，错误答案减少。</li>
+<li>长上下文和近乎完美的回忆:Claude 3模型能够处理长达200K的上下文窗口，并且能够准确回忆大量数据中的信息。</li>
+<li>负责任的设计:模型开发考虑了安全性和透明度，包括减少偏见、保护隐私和遵守负责任扩展政策。</li>
+<li>易于使用:Claude 3模型更擅长遵循复杂指令，适应品牌声音和响应指南，以及生成结构化输出。</li>
+<li>模型可用性: Opus和Sonnet模型现已通过API提供，Haiku模型即将推出。Sonnet模型支持claude.ai的免费体验，Opus模型为Claude Pro订阅者提供。</li>
+<li>持续更新和功能增强:计划在未来几个月内频繁更新Claude 3模型家族，并推出新功能，如工具使用、交互式编码和更高级的代理能力。</li>
+<li>安全防护措施:随着AI能力的扩展，Anthropic致力于确保安全防护措施与性能提升同步，以引导AI发展朝着积极的社会结果。</li>
+</ol>
+<h2 id="三、Claude3注册教程"><a href="#三、Claude3注册教程" class="headerlink" title="三、Claude3注册教程"></a><strong>三、Claude3注册教程</strong></h2><h3 id="步骤1：获取Wildcard海外手机号"><a href="#步骤1：获取Wildcard海外手机号" class="headerlink" title="步骤1：获取Wildcard海外手机号"></a><strong>步骤1：获取Wildcard海外手机号</strong></h3><ol>
+<li>点击注册教程链接访问：<a href="https://bewildcard.com/i/UPGPT">wildcard使用教程？如何用wildcard订阅国外服务？</a></li>
+<li>根据教程提示注册账户</li>
+<li>进入网站，点击我的服务-&gt;下滑找到右下角海外手机号-&gt;点击使用-&gt;申请后就可以接码了（最下图是已经申请成功的界面）</li>
+</ol>
+<p><img src="https://pic2.zhimg.com/80/v2-1bf1ef2d9b99c561fcceb2a10a185815_720w.webp" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-7b2c2b4c3195dd7cf8fbba4e7ec31c60_720w.webp" alt="img"></p>
+<ol>
+<li>每个账号有三次免费申请的机会，而且网站说<strong>即使你用了虚拟手机号，可能会有失败的</strong>。不过你可以多试1～2次，我差不多是第2次才成功注册的。</li>
+</ol>
+<h3 id="步骤2：使用获取的手机号注册Claude3"><a href="#步骤2：使用获取的手机号注册Claude3" class="headerlink" title="步骤2：使用获取的手机号注册Claude3"></a><strong>步骤2：使用获取的手机号注册Claude3</strong></h3><ol>
+<li>打开Claude3注册（<a href="https://www.anthropic.com/claude">Claude \ Anthropic</a>）页面，先填写邮箱等信息。</li>
+</ol>
+<p><img src="https://pic2.zhimg.com/80/v2-163c3cb06ef5149f6aa9b759f785b039_720w.webp" alt="img"></p>
+<ol>
+<li>然后填入你从Wildcard获得的海外手机号。</li>
+<li>点击发送验证码。</li>
+</ol>
+<h3 id="步骤3：接收并输入验证码"><a href="#步骤3：接收并输入验证码" class="headerlink" title="步骤3：接收并输入验证码"></a><strong>步骤3：接收并输入验证码</strong></h3><ol>
+<li>回到你的Wildcard的界面。</li>
+<li>检查你的虚拟手机号收件箱，查看来自Claude3的验证码。</li>
+<li>最后将验证码输入到Claude3的注册页面中，完成验证。</li>
+</ol>
+<p>Wildcard的平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，官方是通过邀请制注册的，如果你没有邀请码的情况下，可以填写官方字段：<strong>UPGPT 。（它还可以优惠2美刀～）</strong></p>
+<p><strong>（PS：这个虚拟卡还可以升级订阅GPT-4～</strong></p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>Claude3注册与升级教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2024最新 onlyfans国内虚拟卡订阅教程-Onlyfans 注册、充值全流程</title>
     <url>/onlyfans-tech/</url>
     <content><![CDATA[<h2 id="onlyfans-如何使用虚拟卡进入充值，一文教你订阅订阅博主（最新图文教程）"><a href="#onlyfans-如何使用虚拟卡进入充值，一文教你订阅订阅博主（最新图文教程）" class="headerlink" title="onlyfans 如何使用虚拟卡进入充值，一文教你订阅订阅博主（最新图文教程）"></a>onlyfans 如何使用虚拟卡进入充值，一文教你订阅订阅博主（最新图文教程）</h2><p>大家好，本文教大家如何在 Onlyfans 订阅和支付（虚拟信用卡）。</p>
@@ -114,35 +186,36 @@
   <entry>
     <title>2024年最新 OnlyFans支付教程，手把手使用虚拟信用卡订阅 Onlyfans（保姆级教程）</title>
     <url>/onlyfans/</url>
-    <content><![CDATA[<h2 id="onlyfans怎么国内支付？"><a href="#onlyfans怎么国内支付？" class="headerlink" title="onlyfans怎么国内支付？"></a>onlyfans怎么国内支付？</h2><p>onlyfans不支持国内银行开的普通卡，需要使用特定的虚拟卡进行订阅。</p>
-<p>下面我们来看下社交平台onlyfans虚拟信用卡订阅教程。</p>
+    <content><![CDATA[<h1 id="Onlyfans是如何在国内支付呢？"><a href="#Onlyfans是如何在国内支付呢？" class="headerlink" title="Onlyfans是如何在国内支付呢？"></a>Onlyfans是如何在国内支付呢？</h1><p><strong>因为国内的卡是无法使用的</strong>，需要使用<strong>visa和master</strong>国际类型的的卡呀，但是国内很少有这类型的卡。不过呢，你也可以通过<a href="https://www.zhihu.com/search?q=%E8%99%9A%E6%8B%9F%E5%8D%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22answer%22,%22sourceId%22:3424435817%7D">虚拟卡</a>呀，大部分都是开一张<strong>虚拟卡</strong>的，比其他方式简单多了。</p>
+<p>下面我们来看下社交平台onlyfans虚拟卡订阅教程。</p>
 <p>（PS：本文教程永久有效，可以放心使用~</p>
+<h2 id="Onlyfans是什么？"><a href="#Onlyfans是什么？" class="headerlink" title="Onlyfans是什么？"></a>Onlyfans是什么？</h2><p>OnlyFans是一个不断增长的内容订阅服务平台，为创作者提供了直接从粉丝那里获得收入的机会。这个平台吸引了许多出色的博主和创作者，比如 hongkongdoll（玩偶姐姐） 之类的 嘿嘿。</p>
+<p>本文将教你如何使用虚拟卡在OnlyFans上充值和订阅博主。<strong>（最新图文教程）</strong></p>
 <span id="more"></span>
 
-<h2 id="一、注册"><a href="#一、注册" class="headerlink" title="一、注册"></a>一、注册</h2><h3 id="1-1-注册链接："><a href="#1-1-注册链接：" class="headerlink" title="1.1 注册链接："></a>1.1 注册链接：</h3><p><a href="https://onlyfans.com/">https://onlyfans.com/</a><br>使用国内邮箱、qq、163 等邮箱即可注册</p>
+<h1 id="一、注册"><a href="#一、注册" class="headerlink" title="一、注册"></a>一、注册</h1><h2 id="1-1-官方注册链接："><a href="#1-1-官方注册链接：" class="headerlink" title="1.1 官方注册链接："></a>1.1 官方注册链接：</h2><p><a href="https://onlyfans.com/">https://onlyfans.com/</a><br>你可以使用国内邮箱、qq、163 等邮箱进行注册onlyfans的账号哈</p>
 <p><img src="https://cdn.how2cs.cn/csguide/142120.png" alt="onlyfans"></p>
-<h3 id="1-2-邮箱验证"><a href="#1-2-邮箱验证" class="headerlink" title="1.2 邮箱验证"></a>1.2 邮箱验证</h3><p>然后进行邮箱验证，我们这里点击发送会收到一封onlyfans的验证邮件，将收到的链接在登录的浏览器里复制粘贴打开即可验证成功。</p>
+<h2 id="1-2-验证邮箱"><a href="#1-2-验证邮箱" class="headerlink" title="1.2 验证邮箱"></a>1.2 验证邮箱</h2><p>接着进行邮箱验证，这里点击发送会收到一封onlyfans的验证邮件，将收到的链接在登录的浏览器里复制粘贴打开即可验证成功。</p>
+<p>这些步骤，估计大家都会，我就不详细讲啦～</p>
 <p><img src="https://cdn.how2cs.cn/csguide/142312.png" alt="邮箱验证onlyfans"></p>
-<h2 id="二、支付"><a href="#二、支付" class="headerlink" title="二、支付"></a>二、支付</h2><h3 id="2-1-不建议大家去某宝某鱼店铺买"><a href="#2-1-不建议大家去某宝某鱼店铺买" class="headerlink" title="2.1 不建议大家去某宝某鱼店铺买"></a>2.1 不建议大家去某宝某鱼店铺买</h3><p>某宝店铺的开卡费很贵，并且是一次性使用！！！</p>
-<p>踩过坑的都知道，买一次 30 美元，实际汇率只需要 220 元左右，但是收了 280，最最关键的是这个卡只能用一次，而且还是临时的！！！！</p>
+<h1 id="二、支付方式"><a href="#二、支付方式" class="headerlink" title="二、支付方式"></a>二、支付方式</h1><h2 id="2-1-不建议大家去某宝某鱼店铺买"><a href="#2-1-不建议大家去某宝某鱼店铺买" class="headerlink" title="2.1 不建议大家去某宝某鱼店铺买"></a>2.1 不建议大家去某宝某鱼店铺买</h2><p>某宝店铺的开卡费贵得很啊！而且只是一次性使用！！！</p>
+<p>相信踩过坑的伙伴都知道，买一次 30 usd 美元，实际汇率只需要 220 RMB左右，但是收了 280 RMB啊，最最最关键的是这个卡只能用一次，而且还是临时的！！！！</p>
 <p><img src="https://cdn.how2cs.cn/csguide/152529.jpg" alt="img"></p>
-<h3 id="2-2-推荐长期稳定的虚拟卡平台："><a href="#2-2-推荐长期稳定的虚拟卡平台：" class="headerlink" title="2.2 推荐长期稳定的虚拟卡平台："></a>2.2 推荐长期稳定的虚拟卡平台：</h3><p>比如：</p>
-<p><a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> ( 使用这个链接复制到浏览器打开，2分钟即可搞定开卡，还可享受88折扣优惠~)</p>
-<p>用这个链接还可以享受开卡88折优惠，开卡费总共100元左右，<strong>开的卡有效期达2年</strong>，后续每次消费只需要充值你需要的美元金额即可，直接银行卡就能支付入账，超级方便，冲多了还可以提现回来。</p>
-<p><em><strong>*它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈*</strong></em></p>
+<h2 id="2-2-推荐长期稳定的虚拟卡平台："><a href="#2-2-推荐长期稳定的虚拟卡平台：" class="headerlink" title="2.2 推荐长期稳定的虚拟卡平台："></a>2.2 推荐长期稳定的虚拟卡平台：</h2><p>比如：</p>
+<p><a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> ( 使用这个链接复制到浏览器打开，2分钟即可搞定开卡，还可享受88折扣优惠~)，需要邀请码的话，可以填写官方字段：<strong>UPGPT</strong></p>
+<p>用上面这条链接是可以长期享受开卡88折优惠（便宜2美元），开卡费总共100元左右，<strong>开的卡有效期达2年</strong>，后续每次消费只需要充值你需要的美元金额就行了哈，直接支付宝就能进行支付入账，超级方便，<strong>冲多了还可以提现回来</strong>。</p>
 <p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
-<h2 id="三、-开好卡后，如何使用"><a href="#三、-开好卡后，如何使用" class="headerlink" title="三、 开好卡后，如何使用"></a>三、 开好卡后，如何使用</h2><p>首先往卡里充值订阅博主付费内容需要的金额即可（建议多充1-2美元，防止扣款失败）</p>
-<p>然后去onlyfans绑定虚拟卡，<a href="https://onlyfans.com/my/payments/add_card%EF%BC%9A">https://onlyfans.com/my/payments/add_card：</a></p>
+<h1 id="三、-开完卡之后，如何使用："><a href="#三、-开完卡之后，如何使用：" class="headerlink" title="三、 开完卡之后，如何使用："></a>三、 开完卡之后，如何使用：</h1><p><strong>第一，需要往卡里充值订阅博主付费内容需要的金额即可</strong>（建议多充1美元，防止扣款失败的情况～）</p>
+<p><img src="https://pic4.zhimg.com/80/v2-f9a4f5fbe2a8378619359554121b136b_720w.webp" alt="img"></p>
+<p><strong>接着就可以去onlyfans绑定虚拟卡，点击此链接</strong>：<a href="https://onlyfans.com/my/payments/add_card">https://onlyfans.com/my/payments/add_card</a>：</p>
+<p>按着里面的步骤进行操作就可以。</p>
 <p><img src="https://cdn.how2cs.cn/csguide/152542.png" alt="虚拟卡"></p>
-<p>上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接复制过去即可：</p>
+<p>上面需要的每一项信息，都可以<strong>直接在从虚拟卡网页上</strong>看到，直接复制粘贴过去就完事：</p>
 <p><img src="https://cdn.how2cs.cn/csguide/143711.png" alt="onlyfans绑定卡方式"></p>
-<p>绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如 hongkongdoll（玩偶姐姐） 之类的，，是不是很快捷：</p>
+<p>最后绑定支付信用卡后，就可以去订阅喜欢的博主啦，比如（玩偶姐姐） Hong Kong· Doll之类的，是不是很方便呢？</p>
 <p><img src="https://cdn.how2cs.cn/csguide/152556.png" alt="onlyfans绑定卡"></p>
-<h2 id="四、END"><a href="#四、END" class="headerlink" title="四、END"></a>四、END</h2><p><a href="https://openssora.com/onlyfans-tech/">onlyfans 如何使用虚拟卡进入充值，一文教你订阅订阅博主（最新图文教程）</a></p>
+<h1 id="四、END"><a href="#四、END" class="headerlink" title="四、END"></a>四、END</h1><p><a href="https://openssora.com/onlyfans-tech/">onlyfans 如何使用虚拟卡进入充值，一文教你订阅订阅博主（最新图文教程）</a></p>
 <img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" />
-
-
-<p><strong>声明：</strong>本站所有文章，如无特殊说明或标注，均为本站原创发布。任何个人或组织，在未征得本站同意时，禁止复制、盗用、采集、发布本站内容到任何网站、书籍等各类媒体平台。如若本站内容侵犯了原著者的合法权益，可联系我们进行处理。</p>
 ]]></content>
       <tags>
         <tag>OnlyFans支付教程最新方法（2024）</tag>
@@ -481,8 +554,15 @@
 <p><strong>这个方法就是通过办理一张虚拟的美国信用卡</strong>，不过需要支付额外的开卡费。</p>
 <p>如果上面的免费升级的方法不能使用，就只能选择这个方法了。<strong>此方法的劣势就是，额外需要9.9$的开卡费用，其他就没有了。</strong> 我在某宝查找过代充和账户购买，但是这种不安全，不推荐，账户不是自己的，代充也只能充一次，而且费用还高。</p>
 <p>相对下来，这种方法的话，优势是提供了专业技术支持，可以快速一键升级，提供美国家庭网络环境之类的。</p>
-<h3 id="方法："><a href="#方法：" class="headerlink" title="方法："></a><strong>方法：</strong></h3><p><strong>进入这个网址：</strong><a href="https://bewildcard.com/i/UPGPT"><strong>https://bewildcard.com/i/UPGPT</strong></a> <strong>，填写个人信息后，会跳到支付宝进行身份验证，通过之后，就需要支付9.9$的费用开一个虚拟信用卡。</strong><br><strong>它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
+<h3 id="方法："><a href="#方法：" class="headerlink" title="方法："></a><strong>方法：</strong></h3><p><strong>进入这个网址：</strong><a href="https://bewildcard.com/i/UPGPT"><strong>https://bewildcard.com/i/UPGPT</strong></a> <strong>，填写个人信息后，会跳到支付宝进行身份验证，通过之后，就需要支付9.9$的费用开一个虚拟信用卡。</strong>（<strong>可以填写官方邀请码：UPGPT  可以优惠2美刀～</strong>）<br><strong>它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
 <p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
+<p><strong>不建议使用拼车功能</strong>，这个<strong>虚拟卡最大的用处是可以用来订阅国外各种平台。比如升级GPT-4、Claude 3 Opus、订阅Only Fans、Midjourney</strong>等国外服务。</p>
+<p><strong>如果你需要账号的话，你可以这么操作，进行一个充值，然后退款提现。可以薅羊毛啦，可以获得一个Open AI账号，也就是GPT账号，永久无限次使用。</strong></p>
+<p><strong>1. 另外，你可以通过充值，然后再提现，就可以白嫖一个Open AI的账号啦～</strong></p>
+<p><img src="https://pic4.zhimg.com/80/v2-f9a4f5fbe2a8378619359554121b136b_720w.webp" alt="img"></p>
+<p><strong>2. 然后再进行退款，提现</strong>：</p>
+<p><img src="https://pic3.zhimg.com/80/v2-26940616856086dc430ba4af4bc432a2_720w.webp" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-56babf28b242b7753710e09ede9340a4_720w.webp" alt="img"></p>
 <p>下面是我最近开的一张虚拟信用卡，这个卡还可以在其他海外平台需要信用卡支付的时候使用。</p>
 <p><img src="https://pica.zhimg.com/80/v2-9e369d0e13a5bf5f285d7b93408dff31_1440w.png?source=d16d100b" alt="img"></p>
 <p>重要的是，你可以获得一个详细的账单地址，这个地址信息就是你在升级ChatGPT-4的时候需要填写的。</p>
@@ -494,6 +574,21 @@
 <p>然后支付需要绑卡的页面上，填入对应的信息。</p>
 <p><img src="https://picx.zhimg.com/80/v2-522bdf302833051656ebb1bf867af97b_1440w.png?source=d16d100b" alt="img"></p>
 <p>最后点击升级订阅，基本就完成升级GPT-4了哈。</p>
+<h2 id="一键升级方式："><a href="#一键升级方式：" class="headerlink" title="一键升级方式："></a>一键升级方式：</h2><p><strong>申请之后，你可以看到里面有个功能，是一键升级GPT-4的。点它：</strong></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-01.webp" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/80/v2-ea362ca5581311bf50404281a53518ba_720w.webp" alt="img"></p>
+<p><strong>点了之后，升级前，还会提醒你</strong>，之前用其他国外邮箱注册的账号容易被封的情况，以免白白升级，你可以直接免费申请一个新的国外邮箱，<strong>直接继续薅这个平台的免费服务</strong>。（<strong>薅羊毛之前，记得先充值后提现哦～</strong>）</p>
+<p><img src="https://pic1.zhimg.com/v2-c7060735186b9d782d1cd77efec85250_r.jpg" alt="img"></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-02.webp" alt="img"></p>
+<p><strong>符合的同学，直接下一步就行了，选择你要的Plus，个人订阅。</strong></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-03.webp" alt="img"></p>
+<p>下一步之后，直接给你提供保姆级的图片和教程，如下图：</p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-04.webp" alt="img"></p>
+<p>你登陆chat-gpt账号后，点击升级，然后把升级付款的链接，直接复制到输入框，点击支付提交。3分钟内就搞定了，而且这是自己独立虚拟卡升级到，几乎不会被封号。我也推荐大家使用这种方式去升级，安全还独立。</p>
+<p><a href="https://bewildcard.com/i/UPGPT">一键直通GPT升级地址</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
+<p>填入邀请码可以减免2美元的开卡费～，没有邀请码的同学，需要邀请码的话可以填官方字段：<strong>UPGPT</strong></p>
+<h2 id="GPT-4免排队升级通道，直接进入升级支付"><a href="#GPT-4免排队升级通道，直接进入升级支付" class="headerlink" title="GPT-4免排队升级通道，直接进入升级支付"></a><strong>GPT-4免排队升级通道，直接进入升级支付</strong></h2><p>- 登录ChatGPT后，在同一浏览器新开一个标签页。</p>
+<p>- 点击以下链接直接进入升级页面：<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
 <p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
 ]]></content>
   </entry>
@@ -513,6 +608,53 @@
 <p>虚拟卡可以用这个平台： <a href="https://bewildcard.com/i/UPGPT">wildcard</a></p>
 <p>需要新手直接升级的GPT4.0的教程可以看这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">openssora.com&#x2F;upgrade-chatgpt-to-plus</a></p>
 <h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>通过上述方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以扩展到国外其他应用的充值，极大地丰富了国内用户的选择和便利。虚拟卡作为一种安全、便捷的支付工具，在今后的数字化生活中将发挥越来越重要的作用。希望本文能帮助到有需要的读者，让我们一起拥抱技术，享受未来。</p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</title>
+    <url>/upgrade-chatgpt/</url>
+    <content><![CDATA[<p>前段时间，注册了Chat GPT的账号，现在账号注册直接用邮箱注册即可，都不需要用手机号码接验证码什么的。方便好多，于是注册了个账号试试官网的Chat GPT的效果。</p>
+<p>但是主要的是3.5已经无法满足我的需求了，因为很多时候，3.5的回答并不是你想要的，还不够精确。于是我就去找<strong>升级Chat GPT-4.0</strong>的方法。找了好久，发现有一个教程非常的方便，<strong>可以用支付宝就可以直接升级</strong>。</p>
+<p>之前去<strong>某宝</strong>看到的代升级都要200RMB左右，真的贵，而且<strong>只能代充一次</strong>。一个月之后，如果想继续代充就要被继续收多几十块的手续费。废话不多说了，直接上教程。</p>
+<h1 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a><strong>一、准备工作</strong></h1><p>需要支付宝账号、已经开通好的chat GPT账号。（<strong>可以看下面的教程，也可以通过下面的方法申请一个ChatGPT账号</strong>）</p>
+<span id="more"></span>
+
+<h1 id="二、申请国内虚拟卡"><a href="#二、申请国内虚拟卡" class="headerlink" title="二、申请国内虚拟卡"></a><strong>二、申请国内虚拟卡</strong></h1><p>申请一张属于自己的<strong>独立虚拟卡</strong>，后续自己想充值什么都可以，同时你也可以自己去代充吧，但是个人<strong>不建议去给人代充</strong>。  <strong>因为代充的源头就是下面这个虚拟卡呀</strong>！（现在是直接把源头，告诉你，不用给某宝，某鱼手续费～）</p>
+<p>下面就推荐一款国内的 <a href="https://bewildcard.com/i/UPGPT">wildcard</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，这款对小白来说非常的友好，其他我不敢推荐，这个他充值后是可以退款的。 <strong>（官方是通过邀请制注册的，如果需要邀请码可以使用官方字段：UPGPT， 可以优惠折扣8.8折，也就是减 2 美元～）</strong></p>
+<p><strong>它的优势：去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
+<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
+<p><strong>不建议使用拼车功能</strong>，这个<strong>虚拟卡最大的用处</strong>是可以用来<strong>订阅国外各种平台</strong>。比如<strong>升级GPT-4</strong>、<strong>Claude 3 Opus</strong>、<strong>订阅Only Fans、Midjourney</strong>等国外服务。</p>
+<p><strong>如果你需要账号的话，你可以这么操作，进行一个充值，然后退款提现。可以薅羊毛啦，可以获得一个Open AI账号，也就是GPT账号，永久无限次使用。</strong></p>
+<p><strong>1. 另外，你可以通过充值，然后再提现，就可以白嫖一个Open AI的账号啦～</strong></p>
+<p><img src="https://pic4.zhimg.com/80/v2-f9a4f5fbe2a8378619359554121b136b_720w.webp" alt="img"></p>
+<p><strong>2. 然后再进行退款，提现</strong>：</p>
+<p><img src="https://pic3.zhimg.com/80/v2-26940616856086dc430ba4af4bc432a2_720w.webp" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-56babf28b242b7753710e09ede9340a4_720w.webp" alt="img"></p>
+<p><strong>申请之后，你可以看到里面有个功能，是一键升级GPT-4的。点它：</strong></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-01.webp" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/80/v2-ea362ca5581311bf50404281a53518ba_720w.webp" alt="img"></p>
+<p><strong>点了之后，升级前，还会提醒你</strong>，之前用其他国外邮箱注册的账号容易被封的情况，以免白白升级，你可以直接免费申请一个新的国外邮箱，<strong>直接继续薅这个平台的免费服务</strong>。（<strong>薅羊毛之前，记得先充值后提现哦～</strong>）</p>
+<p><img src="https://pic1.zhimg.com/v2-c7060735186b9d782d1cd77efec85250_r.jpg" alt="img"></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-02.webp" alt="img"></p>
+<p><strong>符合的同学，直接下一步就行了，选择你要的Plus，个人订阅。</strong></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-03.webp" alt="img"></p>
+<p>下一步之后，这个虚拟卡交互很好啊，直接给你提供保姆级的图片和教程，如下图：</p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-04.webp" alt="img"></p>
+<p>你登陆chat-gpt账号后，点击升级，然后把升级付款的链接，直接复制到输入框，点击支付提交。3分钟内就搞定了，而且这是自己独立虚拟卡升级到，几乎不会被封号。我也推荐大家使用这种方式去升级，安全还独立。</p>
+<p><a href="https://bewildcard.com/i/UPGPT">一键直通GPT升级地址</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
+<p>填入邀请码可以减免2美元的开卡费～，没有邀请码的同学，需要邀请码的话可以填官方字段：<strong>UPGPT</strong></p>
+<h3 id="GPT-4免排队升级通道，直接进入升级支付"><a href="#GPT-4免排队升级通道，直接进入升级支付" class="headerlink" title="GPT-4免排队升级通道，直接进入升级支付"></a>GPT-4免排队升级通道，直接进入升级支付</h3><ul>
+<li><p>登录ChatGPT后，在同一浏览器新开一个标签页。</p>
+</li>
+<li><p>点击以下链接直接进入升级页面：<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
+</li>
+</ul>
+<h1 id="三、额外的惊喜"><a href="#三、额外的惊喜" class="headerlink" title="三、额外的惊喜"></a><strong>三、额外的惊喜</strong></h1><p>这个虚拟卡还可以充值其他国外的东西，比如only fans，你懂的吧</p>
+<p>其他升级教程可以看这个：<a href="https://openssora.com/onlyfans-tech/">通过wildcard订阅only fans教程</a></p>
 <p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
 ]]></content>
       <tags>
@@ -581,105 +723,6 @@
 ]]></content>
       <tags>
         <tag>美区-apple-id-注册和绑卡教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>最新Claude 3的注册升级教程！解决如何注册升级Cluade3的问题以及防封号经验</title>
-    <url>/how-register-claude3-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7Cluade3/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h2><p>OpenAI的GPT-4不可战胜的神话，已经被打破了。</p>
-<p><strong>最近Claude 3发布的新模型</strong>，榜单性能跑分超越GPT-4，成为首个全面超越GPT-4的产品，成为了新一代的LLM模型标准。</p>
-<p><img src="https://pic1.zhimg.com/80/v2-ec965ee43d976c82d4f361c42c178630_720w.webp" alt="img"></p>
-<p>但是，相信各位都在注册Claude 3时遇到了一些阻碍，比如手机验证码无法使用，需要国外的手机号码，而且手机号码也是需要官方支持的150几个国家&#x2F;地区的：<a href="https://www.anthropic.com/claude-ai-locations">Supported countries and regions: Claude.ai</a></p>
-<p><img src="https://pic4.zhimg.com/80/v2-69e5facbf70a2346df982c1d0597124f_720w.webp" alt="img"></p>
-<p><img src="https://pic2.zhimg.com/80/v2-60e41b29a0a6a888562e360c632ee541_720w.webp" alt="img"></p>
-<p>经过多次的实验之后，也被封过2次号，最终也找到了方法。其中重要的三要素：</p>
-<ul>
-<li><strong>谷歌账号</strong></li>
-<li><strong>验证手机号</strong></li>
-<li><strong>网络</strong></li>
-</ul>
-<p><strong>这三者必须统一。</strong></p>
-<p>如果你不满足上面的条件的话，你可以通过这个平台去注册一张国外虚拟卡：</p>
-<p><a href="https://bewildcard.com/i/UPGPT">WildCard | 一分钟注册，轻松订阅海外软件服务bewildcard.com&#x2F;i&#x2F;UPGPT</a></p>
-<p><em><strong>*它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈*</strong></em></p>
-<p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
-<p><strong>另外建议使用wildcard平台去升级自己的GPT-4哈，不推荐使用拼车功能！！！</strong></p>
-<p><strong>里面有免费的三次英国的手机号码：</strong></p>
-<p><img src="https://pic1.zhimg.com/80/v2-7e89d23c91da48077f6c47d2e3633ab8_720w.webp" alt="img"></p>
-<p><strong>也提供你需要的网络以及邮箱账号等功能：</strong></p>
-<p><img src="https://pic1.zhimg.com/80/v2-c7060735186b9d782d1cd77efec85250_720w.webp" alt="img"></p>
-<h2 id="一-哪些地区可以使用Claude？"><a href="#一-哪些地区可以使用Claude？" class="headerlink" title="一. 哪些地区可以使用Claude？"></a><strong>一. 哪些地区可以使用Claude？</strong></h2><p>Opus 和 Sonnet 目前已集成到 Anthropic 的 Claude.ai 和 Claude API 中，覆盖了 159 个国家&#x2F;地区。Haiku 将很快推出。此外，Sonnet 也可以通过亚马逊云科技的 Bedrock 服务以及谷歌云 Vertex AI Model Garden 的私人预览渠道获得，而 Opus 和 Haiku 也将在不久后登陆这两个平台。</p>
-<h2 id="二、Claude3目前的优势和特点"><a href="#二、Claude3目前的优势和特点" class="headerlink" title="二、Claude3目前的优势和特点"></a><strong>二、Claude3目前的优势和特点</strong></h2><ol>
-<li>多样化模型选择:包括Claude 3 Haiku、Claude 3 Sonnet和Claudle 3 Opus三个模型，分别针对不同的性能需求和成本效益。</li>
-<li>行业领先性能: Opus模型在多个AI系统评估基准上超越同行，包括专家知识、专家推理和基础数学等。</li>
-<li>增强的多语言能力:所有Claude 3模型在非英语语言（如西班牙语、日语和法语)的对话中表现出色。</li>
-<li>快速响应能力:Haiku模型在处理信息密集型研究论文时速度极快，Sonnet模型在大多数工作负载中速度是前代模型的两倍。</li>
-<li>强大的视觉处理能力:Claude 3模型能够处理各种视觉格式，包括照片、图表、图形和技术图示。</li>
-<li>减少不必要的拒绝:新模型在理解上下文和处理提示词方面更加细致，减少了不必要的拒绝。</li>
-<li>提高准确性:Opus模型在处理复杂、开放式问题时，正确答案的比例提高了两倍，错误答案减少。</li>
-<li>长上下文和近乎完美的回忆:Claude 3模型能够处理长达200K的上下文窗口，并且能够准确回忆大量数据中的信息。</li>
-<li>负责任的设计:模型开发考虑了安全性和透明度，包括减少偏见、保护隐私和遵守负责任扩展政策。</li>
-<li>易于使用:Claude 3模型更擅长遵循复杂指令，适应品牌声音和响应指南，以及生成结构化输出。</li>
-<li>模型可用性: Opus和Sonnet模型现已通过API提供，Haiku模型即将推出。Sonnet模型支持claude.ai的免费体验，Opus模型为Claude Pro订阅者提供。</li>
-<li>持续更新和功能增强:计划在未来几个月内频繁更新Claude 3模型家族，并推出新功能，如工具使用、交互式编码和更高级的代理能力。</li>
-<li>安全防护措施:随着AI能力的扩展，Anthropic致力于确保安全防护措施与性能提升同步，以引导AI发展朝着积极的社会结果。</li>
-</ol>
-<h2 id="三、Claude3注册教程"><a href="#三、Claude3注册教程" class="headerlink" title="三、Claude3注册教程"></a><strong>三、Claude3注册教程</strong></h2><h3 id="步骤1：获取Wildcard海外手机号"><a href="#步骤1：获取Wildcard海外手机号" class="headerlink" title="步骤1：获取Wildcard海外手机号"></a><strong>步骤1：获取Wildcard海外手机号</strong></h3><ol>
-<li>点击注册教程链接访问：<a href="https://bewildcard.com/i/UPGPT">wildcard使用教程？如何用wildcard订阅国外服务？</a></li>
-<li>根据教程提示注册账户</li>
-<li>进入网站，点击我的服务-&gt;下滑找到右下角海外手机号-&gt;点击使用-&gt;申请后就可以接码了（最下图是已经申请成功的界面）</li>
-</ol>
-<p><img src="https://pic2.zhimg.com/80/v2-1bf1ef2d9b99c561fcceb2a10a185815_720w.webp" alt="img"></p>
-<p><img src="https://pic1.zhimg.com/80/v2-7b2c2b4c3195dd7cf8fbba4e7ec31c60_720w.webp" alt="img"></p>
-<ol>
-<li>每个账号有三次免费申请的机会，而且网站说<strong>即使你用了虚拟手机号，可能会有失败的</strong>。不过你可以多试1～2次，我差不多是第2次才成功注册的。</li>
-</ol>
-<h3 id="步骤2：使用获取的手机号注册Claude3"><a href="#步骤2：使用获取的手机号注册Claude3" class="headerlink" title="步骤2：使用获取的手机号注册Claude3"></a><strong>步骤2：使用获取的手机号注册Claude3</strong></h3><ol>
-<li>打开Claude3注册（<a href="https://www.anthropic.com/claude">Claude \ Anthropic</a>）页面，先填写邮箱等信息。</li>
-</ol>
-<p><img src="https://pic2.zhimg.com/80/v2-163c3cb06ef5149f6aa9b759f785b039_720w.webp" alt="img"></p>
-<ol>
-<li>然后填入你从Wildcard获得的海外手机号。</li>
-<li>点击发送验证码。</li>
-</ol>
-<h3 id="步骤3：接收并输入验证码"><a href="#步骤3：接收并输入验证码" class="headerlink" title="步骤3：接收并输入验证码"></a><strong>步骤3：接收并输入验证码</strong></h3><ol>
-<li>回到你的Wildcard的界面。</li>
-<li>检查你的虚拟手机号收件箱，查看来自Claude3的验证码。</li>
-<li>最后将验证码输入到Claude3的注册页面中，完成验证。</li>
-</ol>
-<p>Wildcard的平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，官方是通过邀请制注册的，如果你没有邀请码的情况下，可以填写官方字段：<strong>UPGPT 。（它还可以优惠2美刀～）</strong></p>
-<p><strong>（PS：这个虚拟卡还可以升级订阅GPT-4～</strong></p>
-<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
-]]></content>
-      <tags>
-        <tag>Claude3注册与升级教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</title>
-    <url>/upgrade-chatgpt/</url>
-    <content><![CDATA[<p>前段时间，注册了Chat GPT的账号，现在账号注册直接用邮箱注册即可，都不需要用手机号码接验证码什么的。方便好多，于是注册了个账号试试官网的Chat GPT的效果。3.5的效果跟平时用的套壳网站的差不多。</p>
-<p>但是主要的是3.5已经无法满足我的需求了，因为很多时候，3.5的回答并不是你想要的，还不够精确。于是我就去找升级Chat GPT-4.0的方法。找了好久，发现有一个教程非常的方便，可以用支付宝就可以直接升级。</p>
-<p>之前去某宝看到的代升级都要200RMB左右，真的贵，而且只能代充一次。一个月之后，如果想继续代充就要被继续收多几十块的手续费。废话不多说了，直接上教程。</p>
-<h1 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a><strong>一、准备工作</strong></h1><p>需要支付宝账号、已经开通好的chat GPT账号。</p>
-<span id="more"></span>
-<h1 id="二、申请国内虚拟卡"><a href="#二、申请国内虚拟卡" class="headerlink" title="二、申请国内虚拟卡"></a><strong>二、申请国内虚拟卡</strong></h1><p>申请一张属于自己的独立虚拟卡，后续自己想充值什么都可以，同时你也可以自己去代充吧，但是个人不建议去给人代充。 下面就推荐一款国内的 <a href="https://bewildcard.com/i/UPGPT">wildcard</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，这款对小白来说非常的友好，其他我不敢推荐，这个他充值后是可以退款的。 我看的教程是这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">通过wildcard升级Chat GPT4.0 Plus教程</a></p>
-<p>申请之后，你可以看到里面有个功能，是一键升级的。点它：</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-01.webp" alt="img"></p>
-<p>点了之后，升级前，还会提醒你，之前用其他国外邮箱注册的账号容易被封的情况，以免白白升级，你可以直接免费申请一个新的国外邮箱，直接注册个Google邮箱就好了，这个很简单，相信你应该会的。注册Google邮箱是不需要手机号码的。</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-02.webp" alt="img"></p>
-<p>符合的同学，直接下一步就行了，选择你要的Plus，个人订阅。</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-03.webp" alt="img"></p>
-<p>下一步之后，这个虚拟卡交互很好啊，直接给你提供保姆级的图片和教程，如下图：</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-04.webp" alt="img"></p>
-<p>你登陆chat-gpt账号后，点击升级，然后把升级付款的链接，直接复制到输入框，点击支付提交。3分钟内就搞定了，而且这是自己独立虚拟卡升级到，几乎不会被封号。我也推荐大家使用这种方式去升级，安全还独立。</p>
-<p><a href="https://bewildcard.com/i/UPGPT">一键直通GPT升级地址</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
-<p>填入邀请码可以减免2美元的开卡费～，没有邀请码的同学，需要邀请码的话可以填官方字段：<strong>UPGPT</strong></p>
-<h1 id="三、额外的惊喜"><a href="#三、额外的惊喜" class="headerlink" title="三、额外的惊喜"></a><strong>三、额外的惊喜</strong></h1><p>这个虚拟卡还可以充值其他国外的东西，比如only fans，你懂的吧 [坏笑]</p>
-<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
-]]></content>
-      <tags>
-        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
       </tags>
   </entry>
 </search>
