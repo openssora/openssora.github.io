@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://openssora.com/how-register-claude3-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7Cluade3/</loc>
+    
+    <lastmod>2024-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://openssora.com/upgrade-chatgpt-to-plus/</loc>
     
-    <lastmod>2024-03-09</lastmod>
+    <lastmod>2024-03-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -53,15 +62,6 @@
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://openssora.com/how-register-claude3-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7Cluade3/</loc>
-    
-    <lastmod>2024-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   
   <url>
@@ -175,7 +175,7 @@
 
   <url>
     <loc>https://openssora.com/</loc>
-    <lastmod>2024-03-09</lastmod>
+    <lastmod>2024-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
