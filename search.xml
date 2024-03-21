@@ -52,6 +52,8 @@
     <url>/figure-01-openai-robot/</url>
     <content><![CDATA[<p>获得<strong>OpenAI、英伟达、微软</strong>等巨头投资等Figure公司，在短短的半个月内的合作下，发布了融合了OpenAI技术的AI机器人-<strong>figure 01</strong>。OpenAI技术提供了<strong>高级视觉和语言智能功能</strong>，Figure的<strong>神经网络</strong>则支持快速、低级且灵巧的机器人动作。</p>
 <p><img src="https://pic1.zhimg.com/80/v2-73a07c4afc23189667ddc39077295cb4_1440w.webp" alt="img"></p>
+<span id="more"></span>
+
 <p><img src="https://pic3.zhimg.com/80/v2-53c77c5a65868ff0d64150a600cad19a_1440w.webp" alt="img"></p>
 <p>官方称：接入了OpenAI，figure 01现在可以与人进行完整的对话</p>
 <ul>
@@ -59,8 +61,6 @@
 <li>图神经网络提供快速、低级、灵巧的机器人动作</li>
 </ul>
 <p>而目前这个视频中的机器人都只是使用了一个神经网络。</p>
-<span id="more"></span>
-
 <p>相关视频已经双语翻译，需要观看完整的视频，可以看这个文章：</p>
 <p><a href="https://zhuanlan.zhihu.com/p/687240836">我爱算法：Figure 首发 OpenAI 机器人（融合了ChatGPT），可以与人类全面对话。（内附双语翻译视频）2 赞同 · 0 评论文章</a></p>
 <p>现在的机器人接入AI技术后，相信这次的机器人可能会发生不一样的变化。不再是普通的工业机器人，而是一个注入了更多灵魂的机器人，现在也只是开始。未来可能会出现更加未来的机器人了。</p>
@@ -219,6 +219,7 @@
 <p><strong>这两种方法，适用于GPT-5、GPT-4、Claude 3、OnlyFans等。</strong></p>
 <h2 id="一、介绍一下升级GPT的准备"><a href="#一、介绍一下升级GPT的准备" class="headerlink" title="一、介绍一下升级GPT的准备"></a>一、介绍一下升级GPT的准备</h2><p>在升级之前，你需要先有一个GPT-3.5 的账户，<strong>GPT-3.5免费使用</strong>的，不需要升级的。要升级为GPT-4或者GPT-5的伙伴，大部分都是想使用它更高级的功能，如：<strong>DALL·E的绘画功能</strong>，<strong>语音对话，自定义指令机器人</strong>，还有就是<strong>创作GPTs应用</strong>，可以上线到GPT Store。</p>
 <p>GPT4的升级费用，估计后续的GPT5大概是一样的价格：每月需要订阅费用20$，OpenAI官方收取，可以按月订阅。下图是我升级前后的截图：</p>
+<span id="more"></span>
 <p><img src="https://pic4.zhimg.com/80/v2-a8f3a42ef6bb97dae386c285060a176f_1440w.webp" alt="img"></p>
 <p>升级之后，3.5和4可以切换使用，不过现在GPT-4版本每3小时只能处理40条信息，但是在日常使用中已经足够了。</p>
 <p><img src="https://pic1.zhimg.com/80/v2-bedd0b9779b5cc5d0eb12d565b2ad448_1440w.webp" alt="img"></p>
@@ -410,6 +411,66 @@
       </tags>
   </entry>
   <entry>
+    <title>openai-api-绑卡及-key-申请教程</title>
+    <url>/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>OpenAI API 绑卡及 Key 申请教程</p>
+<h1 id="1-注意事项"><a href="#1-注意事项" class="headerlink" title="1. 注意事项"></a>1. 注意事项</h1><p>请您在OpenAI绑卡前，一定要保证卡上至少有5美元的余额，否则会绑卡失败。</p>
+<p>另外请您务必使用我们提供的美国家庭网络环境，使用普通代理也会导致绑卡不成功。</p>
+<h1 id="2-安装浏览器插件"><a href="#2-安装浏览器插件" class="headerlink" title="2. 安装浏览器插件"></a>2. 安装浏览器插件</h1><h2 id="具体浏览器插件教程点击这里-。-https-bewildcard-com-i-UPGPT"><a href="#具体浏览器插件教程点击这里-。-https-bewildcard-com-i-UPGPT" class="headerlink" title="具体浏览器插件教程点击这里: 。 https://bewildcard.com/i/UPGPT"></a>具体浏览器插件教程<a href="https://help.bewildcard.com/zh-CN/articles/8689913-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%B5%B7%E5%A4%96%E4%BB%A3%E7%90%86%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6">点击这里</a>: 。 <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></h2><span id="more"></span>
+
+<p><a href="https://downloads.intercomcdn.com/i/o/917349700/fa16eb6e8daa8aebb53282dd/screenshot-20231224-151803.png"><img src="https://downloads.intercomcdn.com/i/o/917349700/fa16eb6e8daa8aebb53282dd/screenshot-20231224-151803.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/970799518/b0fea665c6cb1285bc3345a4/%E6%88%AA%E5%B1%8F2024-02-22+21_09_45.png"><img src="https://downloads.intercomcdn.com/i/o/970799518/b0fea665c6cb1285bc3345a4/%E6%88%AA%E5%B1%8F2024-02-22+21_09_45.png" alt="img"></a></p>
+<h1 id="3-登录-OpenAI-platform"><a href="#3-登录-OpenAI-platform" class="headerlink" title="3. 登录 OpenAI platform"></a>3. 登录 OpenAI platform</h1><p>在浏览器地址栏输入 <a href="https://platform.openai.com/">platform.openai.com</a>，然后输入你的OpenAI帐号和密码(也就是你的ChatGPT帐号)</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/880039782/94aab35235bfde7162148126/screenshot-20231110-175219.png"><img src="https://downloads.intercomcdn.com/i/o/880039782/94aab35235bfde7162148126/screenshot-20231110-175219.png" alt="img"></a></p>
+<p><a href="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785392254/b8442f1b542692666ede036a/signin.png"><img src="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785392254/b8442f1b542692666ede036a/signin.png" alt="img"></a></p>
+<h1 id="4-绑定付款方式"><a href="#4-绑定付款方式" class="headerlink" title="4. 绑定付款方式"></a>4. 绑定付款方式</h1><p>登录以后，点击左边栏的  Settings - &gt; billing ，就可以进入充值入口，点击 Add payment details。</p>
+<p>或者直接访问这个地址：<a href="https://platform.openai.com/account/billing/overview">https://platform.openai.com/account/billing/overview</a><br>​</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890064282/d010cf5e36d9c9e1f4ea2280/1.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890064282/d010cf5e36d9c9e1f4ea2280/1.jpeg" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890064533/030f2dd66fde0fdef7dc3157/2.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890064533/030f2dd66fde0fdef7dc3157/2.jpeg" alt="img"></a></p>
+<p>点击“Set up paid account”，选择是个人使用还是公司：</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/838847785/f59c6670ba89fcd91f8ebdcd/screenshot-20230926-131606.png"><img src="https://downloads.intercomcdn.com/i/o/838847785/f59c6670ba89fcd91f8ebdcd/screenshot-20230926-131606.png" alt="img"></a></p>
+<p>输入卡号，有效期、CVV以及邮编，下面输入姓名、WildCard 提供的帐单地址，然后点“continue“</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/876874955/453a02c948f113b6089ebd15/OpenAI+API+%E5%A6%82%E4%BD%95%E7%BB%91%E5%8D%A1.png"><img src="https://downloads.intercomcdn.com/i/o/876874955/453a02c948f113b6089ebd15/OpenAI+API+%E5%A6%82%E4%BD%95%E7%BB%91%E5%8D%A1.png" alt="img"></a></p>
+<p>绑卡结束后，会让你选择充值金额，可以是5美元到50美元之间的任意金额，充值任意金额之后，就可以直接使用 GPT-4 的API。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890064729/66e02133521525e667fc7d20/5.png"><img src="https://downloads.intercomcdn.com/i/o/890064729/66e02133521525e667fc7d20/5.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890065228/139a758017dca5e05af2a2b0/6.png"><img src="https://downloads.intercomcdn.com/i/o/890065228/139a758017dca5e05af2a2b0/6.png" alt="img"></a></p>
+<p> 还可以设置自动充值，设置余额低于一个特定值就自动充值。设置的是，如果余额低于 5 美元，就从你绑定的卡里面自动扣费来充值10美元。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/838849088/4808076d90221b8c21f6c6f2/%E6%88%AA%E5%B1%8F2023-09-26+13.23.18.png"><img src="https://downloads.intercomcdn.com/i/o/838849088/4808076d90221b8c21f6c6f2/%E6%88%AA%E5%B1%8F2023-09-26+13.23.18.png" alt="img"></a></p>
+<h1 id="5-申请-API-Key"><a href="#5-申请-API-Key" class="headerlink" title="5. 申请 API Key"></a>5. 申请 API Key</h1><p>点击菜单中的“API Keys”就可以看到已经创建的API Keys以及添加API Key的按钮，你也可以直接输入这个链接创建API Keys：<a href="https://platform.openai.com/api-keys">https://platform.openai.com/api-keys</a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890065467/e54fad886e1fcf3d7c91a10d/1.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890065467/e54fad886e1fcf3d7c91a10d/1.jpeg" alt="img"></a></p>
+<p>然后点击 Start verification，需要验证一下海外手机号<br>​</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890066795/4967be77826b0326b2090690/2.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890066795/4967be77826b0326b2090690/2.jpeg" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890066879/638bc9a21c233024a246b973/3.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890066879/638bc9a21c233024a246b973/3.jpeg" alt="img"></a></p>
+<p><strong>登录 WildCard：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，在页面里面找到「海外手机号」服务，点击「申请手机号」，</strong></p>
+<p>申请成功之后，复制分配的手机号。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/816778075/18bc4cea70a667f7801433e6/image.png"><img src="https://downloads.intercomcdn.com/i/o/816778075/18bc4cea70a667f7801433e6/image.png" alt="img"></a></p>
+<p>国家请选择 🇬🇧 英国 United Kindom，然后将号码粘贴到OpenAI的注册页面输入框里，点击下方的“<strong>发送验证码</strong>”按钮。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/816779980/9be7a26840e5f311dd96f6eb/%E6%88%AA%E5%B1%8F2023-08-28+12.54.09.png"><img src="https://downloads.intercomcdn.com/i/o/816779980/9be7a26840e5f311dd96f6eb/%E6%88%AA%E5%B1%8F2023-08-28+12.54.09.png" alt="img"></a></p>
+<p><strong>在 WildCard 页面: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，点击刷新按钮，看到6位数验证码已经显示在网页上了，复制然后回到 OpenAI 填写，就可以完成OpenAI注册过程。</strong></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/816782040/aa37ad41d88c553ff9d6fba1/screenshot-20230828-125924.png"><img src="https://downloads.intercomcdn.com/i/o/816782040/aa37ad41d88c553ff9d6fba1/screenshot-20230828-125924.png" alt="img"></a></p>
+<p>把这个验证码填入就行了<br>​</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890067621/6c5a26dac9bc08586c55f8c7/7.jpg"><img src="https://downloads.intercomcdn.com/i/o/890067621/6c5a26dac9bc08586c55f8c7/7.jpg" alt="img"></a></p>
+<p>如果没收到验证码，或者遇到手机号码已经被注册的提示，就申请新手机号，一般3个号码能稳定收到至少1个验证码。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/816781016/41ef78b00b992c5fc0b13fa1/%E6%88%AA%E5%B1%8F2023-08-28+12.57.16.png"><img src="https://downloads.intercomcdn.com/i/o/816781016/41ef78b00b992c5fc0b13fa1/%E6%88%AA%E5%B1%8F2023-08-28+12.57.16.png" alt="img"></a></p>
+<p>验证成功之后会有提示，这里请注意，每个海外手机号可以验证两个 API，如果第二次使用这个手机号验证，会提示这个手机号已经绑定了一个 API，这个没有影响，可以正常使用，无需担心。<br>​</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890067759/fffaaf3b603471d96ff42eb8/8.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890067759/fffaaf3b603471d96ff42eb8/8.jpeg" alt="img"></a></p>
+<p>然后正常创建和复制 api key 就行了</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890068412/b0882e18ae520a8453972875/9.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890068412/b0882e18ae520a8453972875/9.jpeg" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890068445/390e33cb728c1ba151ff940b/10.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890068445/390e33cb728c1ba151ff940b/10.jpeg" alt="img"></a></p>
+<h1 id="5-API-消费额度和扣费"><a href="#5-API-消费额度和扣费" class="headerlink" title="5. API 消费额度和扣费"></a>5. API 消费额度和扣费</h1><p>OpenAI 会根据你充值的金额，对你进行消费限额，比如你充值了5美元，调用 API 也最多消费 5 美元。</p>
+<p>如果连续2次扣费失败（比如遇到卡内余额不足），OpenAI 就会封禁这个开发者帐户和对应的卡号。</p>
+<p>开发者用户可以在<a href="https://platform.openai.com/usage">这里</a>实时查看 API 调用的消费情况。</p>
+<p>在<a href="https://platform.openai.com/account/limits">这里</a>查看，您的调用额度限制，和支持的模型（GPT-3.5&#x2F;GPT-4）<br>​</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/800419272/9679fd84264c908eeeda3358/%E6%88%AA%E5%B1%8F2023-08-04+20.54.10.png"><img src="https://downloads.intercomcdn.com/i/o/800419272/9679fd84264c908eeeda3358/%E6%88%AA%E5%B1%8F2023-08-04+20.54.10.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890069213/200a52d8c57a2de0c08ae985/Screenshot+2023-11-22+at+12.22.23.png"><img src="https://downloads.intercomcdn.com/i/o/890069213/200a52d8c57a2de0c08ae985/Screenshot+2023-11-22+at+12.22.23.png" alt="img"></a></p>
+<p><strong>上面的wildcard平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></strong>, 如果官方需要邀请码的话，可以使用官方字段： **UPGPT **，因为官方是通过邀请制开卡的。</p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
+      <tags>
+        <tag>openai-api-绑卡及-key-申请教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</title>
     <url>/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/</url>
     <content><![CDATA[<p>OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办？</p>
@@ -429,33 +490,6 @@
       <tags>
         <tag>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>国内最新 ChatGPT Plus 升级订阅教程</title>
-    <url>/subscribe-to-chatgpt-plus/</url>
-    <content><![CDATA[<p>ChatGPT Plus 订阅教程</p>
-<h1 id="1-登录-chat-openai-com"><a href="#1-登录-chat-openai-com" class="headerlink" title="1. 登录 chat.openai.com"></a>1. 登录 chat.openai.com</h1><p>依次点击 Login ，输入邮箱和密码</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png"><img src="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png" alt="img"></a></p>
-<span id="more"></span>
-
-<p><a href="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png"><img src="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png" alt="img"></a></p>
-<h1 id="2-点击升级-Upgrade"><a href="#2-点击升级-Upgrade" class="headerlink" title="2. 点击升级 Upgrade"></a>2. 点击升级 Upgrade</h1><p>登录自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan。</p>
-<p>如果升级入口无法点击，那就访问这个网址，<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
-<p>进入支付页面。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png"><img src="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png"><img src="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png" alt="img"></a></p>
-<h1 id="3-复制支付页面网址"><a href="#3-复制支付页面网址" class="headerlink" title="3. 复制支付页面网址"></a>3. 复制支付页面网址</h1><p>在支付页面，复制现在的付款页网址 URL，这一段 <strong>pay.openai.com</strong> 开头的全部网址，进入我们「一键升级 ChatGPT Plus」页面，提交就可以了。请<strong>不要在支付页面填写任何信息</strong>，如果填写过，请返回上一步，重新进入这个页面再复制网址。<br>​</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png"><img src="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png" alt="img"></a></p>
-<h1 id="4-使用-WildCard-一键升级-ChatGPT-Plus"><a href="#4-使用-WildCard-一键升级-ChatGPT-Plus" class="headerlink" title="4. 使用 WildCard 一键升级 ChatGPT Plus"></a>4. <a href="https://bewildcard.com/i/UPGPT">使用 WildCard 一键升级 ChatGPT Plus</a></h1><p><a href="https://bewildcard.com/i/UPGPT">登录 wildcard， 点击一键升级</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png"><img src="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png" alt="img"></a></p>
-<p>在输入框，粘贴刚刚复制的支付页面的网址，然后点击确定支付并升级。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png"><img src="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png"><img src="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png" alt="img"></a></p>
-<p> 然后按步骤选择要支付的卡片，一路走下去就可以了。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png"><img src="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png" alt="img"></a></p>
-<p>wildcard平台，通过这个链接<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> 进入可以减免2美元的开卡费～ 需要邀请码的话，也可以填写官方字段： <strong>UPGPT</strong></p>
-<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
-]]></content>
   </entry>
   <entry>
     <title>openai-账号免费注册教程</title>
@@ -499,6 +533,33 @@
       <tags>
         <tag>openai-账号免费注册教程</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>国内最新 ChatGPT Plus 升级订阅教程</title>
+    <url>/subscribe-to-chatgpt-plus/</url>
+    <content><![CDATA[<p>ChatGPT Plus 订阅教程</p>
+<h1 id="1-登录-chat-openai-com"><a href="#1-登录-chat-openai-com" class="headerlink" title="1. 登录 chat.openai.com"></a>1. 登录 chat.openai.com</h1><p>依次点击 Login ，输入邮箱和密码</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png"><img src="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png" alt="img"></a></p>
+<span id="more"></span>
+
+<p><a href="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png"><img src="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png" alt="img"></a></p>
+<h1 id="2-点击升级-Upgrade"><a href="#2-点击升级-Upgrade" class="headerlink" title="2. 点击升级 Upgrade"></a>2. 点击升级 Upgrade</h1><p>登录自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan。</p>
+<p>如果升级入口无法点击，那就访问这个网址，<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
+<p>进入支付页面。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png"><img src="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png"><img src="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png" alt="img"></a></p>
+<h1 id="3-复制支付页面网址"><a href="#3-复制支付页面网址" class="headerlink" title="3. 复制支付页面网址"></a>3. 复制支付页面网址</h1><p>在支付页面，复制现在的付款页网址 URL，这一段 <strong>pay.openai.com</strong> 开头的全部网址，进入我们「一键升级 ChatGPT Plus」页面，提交就可以了。请<strong>不要在支付页面填写任何信息</strong>，如果填写过，请返回上一步，重新进入这个页面再复制网址。<br>​</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png"><img src="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png" alt="img"></a></p>
+<h1 id="4-使用-WildCard-一键升级-ChatGPT-Plus"><a href="#4-使用-WildCard-一键升级-ChatGPT-Plus" class="headerlink" title="4. 使用 WildCard 一键升级 ChatGPT Plus"></a>4. <a href="https://bewildcard.com/i/UPGPT">使用 WildCard 一键升级 ChatGPT Plus</a></h1><p><a href="https://bewildcard.com/i/UPGPT">登录 wildcard， 点击一键升级</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png"><img src="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png" alt="img"></a></p>
+<p>在输入框，粘贴刚刚复制的支付页面的网址，然后点击确定支付并升级。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png"><img src="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png"><img src="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png" alt="img"></a></p>
+<p> 然后按步骤选择要支付的卡片，一路走下去就可以了。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png"><img src="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png" alt="img"></a></p>
+<p>wildcard平台，通过这个链接<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> 进入可以减免2美元的开卡费～ 需要邀请码的话，也可以填写官方字段： <strong>UPGPT</strong></p>
+<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
+]]></content>
   </entry>
   <entry>
     <title>国内订阅 Midjourney 教程</title>
@@ -636,8 +697,6 @@
 <p><img src="https://picx.zhimg.com/80/v2-d7b833f55f7df949b387adc97cb2dead_1440w.png?source=d16d100b" alt="img"></p>
 <p>平时用DALL绘画是比较少的，因为大部分还是会用SD进行绘画。GPT-4最大的作用就是平时工作上的帮助，平时写代码的活，比如增删改查的SQL语句都让它处理了。在工作上真的非常提效，之后就可以摸鱼啦。不过平时发了一些特殊的问题给GPT-4，然后分享出来后，有很多朋友咨询怎么用GPT-4，如何使用指令什么的，不过最多的还是3.5的用户问怎么升级GPT-4。</p>
 <p>今天有空就整理了两个升级GPT-4的方法，如果有C友有升级的需求可以试一下哈。</p>
-<span id="more"></span>
-
 <h2 id="一、介绍一下升级GPT的准备"><a href="#一、介绍一下升级GPT的准备" class="headerlink" title="一、介绍一下升级GPT的准备"></a>一、介绍一下升级GPT的准备</h2><p>在升级之前，你需要先有一个GPT-3.5 的账户，<strong>GPT-3.5免费使用</strong>的，不需要升级的。要升级为GPT-4的伙伴，大部分都是想使用它更高级的功能，如：<strong>DALL·E的绘画功能</strong>，<strong>自定义指令机器人</strong>，还有就是<strong>创作GPTs应用</strong>，可以上线到GPT Store。</p>
 <p>GPT4的升级费用：每月需要订阅费用20$，OpenAI官方收取，可以按月订阅。下图是我升级前后的截图：</p>
 <p><img src="https://pic1.zhimg.com/80/v2-4fd95f2b62cc12ba689742c6161613f4_1440w.png?source=d16d100b" alt="img"></p>
@@ -744,52 +803,6 @@
       </tags>
   </entry>
   <entry>
-    <title>国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</title>
-    <url>/upgrade-chatgpt/</url>
-    <content><![CDATA[<p>前段时间，注册了Chat GPT的账号，现在账号注册直接用邮箱注册即可，都不需要用手机号码接验证码什么的。方便好多，于是注册了个账号试试官网的Chat GPT的效果。</p>
-<p>但是主要的是3.5已经无法满足我的需求了，因为很多时候，3.5的回答并不是你想要的，还不够精确。于是我就去找<strong>升级Chat GPT-4.0</strong>的方法。找了好久，发现有一个教程非常的方便，<strong>可以用支付宝就可以直接升级</strong>。</p>
-<p>之前去<strong>某宝</strong>看到的代升级都要200RMB左右，真的贵，而且<strong>只能代充一次</strong>。一个月之后，如果想继续代充就要被继续收多几十块的手续费。废话不多说了，直接上教程。</p>
-<h1 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a><strong>一、准备工作</strong></h1><p>需要支付宝账号、已经开通好的chat GPT账号。（<strong>可以看下面的教程，也可以通过下面的方法申请一个ChatGPT账号</strong>）</p>
-<span id="more"></span>
-
-<h1 id="二、申请国内虚拟卡"><a href="#二、申请国内虚拟卡" class="headerlink" title="二、申请国内虚拟卡"></a><strong>二、申请国内虚拟卡</strong></h1><p>申请一张属于自己的<strong>独立虚拟卡</strong>，后续自己想充值什么都可以，同时你也可以自己去代充吧，但是个人<strong>不建议去给人代充</strong>。  <strong>因为代充的源头就是下面这个虚拟卡呀</strong>！（现在是直接把源头，告诉你，不用给某宝，某鱼手续费～）</p>
-<p>下面就推荐一款国内的 <a href="https://bewildcard.com/i/UPGPT">wildcard</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，这款对小白来说非常的友好，其他我不敢推荐，这个他充值后是可以退款的。 <strong>（官方是通过邀请制注册的，如果需要邀请码可以使用官方字段：UPGPT， 可以优惠折扣8.8折，也就是减 2 美元～）</strong></p>
-<p><strong>它的优势：去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
-<p><img src="https://pic3.zhimg.com/80/v2-2db84ebccfa57e849db3b209097785de_1440w.webp" alt="img"><br><img src="https://pic2.zhimg.com/80/v2-79c7541329a39fed8ee9af8ca98cbe81_1440w.webp" alt="img"></p>
-<p><strong>不建议使用拼车功能</strong>，这个<strong>虚拟卡最大的用处</strong>是可以用来<strong>订阅国外各种平台</strong>。比如<strong>升级GPT-4</strong>、<strong>Claude 3 Opus</strong>、<strong>订阅Only Fans、Midjourney</strong>等国外服务。</p>
-<p><strong>如果你需要账号的话，你可以这么操作，进行一个充值，然后退款提现。可以薅羊毛啦，可以获得一个Open AI账号，也就是GPT账号，永久无限次使用。</strong></p>
-<p><strong>1. 另外，你可以通过充值，然后再提现，就可以白嫖一个Open AI的账号啦～</strong></p>
-<p><img src="https://pic4.zhimg.com/80/v2-f9a4f5fbe2a8378619359554121b136b_720w.webp" alt="img"></p>
-<p><strong>2. 然后再进行退款，提现</strong>：</p>
-<p><img src="https://pic3.zhimg.com/80/v2-26940616856086dc430ba4af4bc432a2_720w.webp" alt="img"></p>
-<p><img src="https://pic1.zhimg.com/80/v2-56babf28b242b7753710e09ede9340a4_720w.webp" alt="img"></p>
-<p><strong>申请之后，你可以看到里面有个功能，是一键升级GPT-4的。点它：</strong></p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-01.webp" alt="img"></p>
-<p><img src="https://pic3.zhimg.com/80/v2-ea362ca5581311bf50404281a53518ba_720w.webp" alt="img"></p>
-<p><strong>点了之后，升级前，还会提醒你</strong>，之前用其他国外邮箱注册的账号容易被封的情况，以免白白升级，你可以直接免费申请一个新的国外邮箱，<strong>直接继续薅这个平台的免费服务</strong>。（<strong>薅羊毛之前，记得先充值后提现哦～</strong>）</p>
-<p><img src="https://pic1.zhimg.com/v2-c7060735186b9d782d1cd77efec85250_r.jpg" alt="img"></p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-02.webp" alt="img"></p>
-<p><strong>符合的同学，直接下一步就行了，选择你要的Plus，个人订阅。</strong></p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-03.webp" alt="img"></p>
-<p>下一步之后，这个虚拟卡交互很好啊，直接给你提供保姆级的图片和教程，如下图：</p>
-<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-04.webp" alt="img"></p>
-<p>你登陆chat-gpt账号后，点击升级，然后把升级付款的链接，直接复制到输入框，点击支付提交。3分钟内就搞定了，而且这是自己独立虚拟卡升级到，几乎不会被封号。我也推荐大家使用这种方式去升级，安全还独立。</p>
-<p><a href="https://bewildcard.com/i/UPGPT">一键直通GPT升级地址</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
-<p>填入邀请码可以减免2美元的开卡费～，没有邀请码的同学，需要邀请码的话可以填官方字段：<strong>UPGPT</strong></p>
-<h3 id="GPT-4免排队升级通道，直接进入升级支付"><a href="#GPT-4免排队升级通道，直接进入升级支付" class="headerlink" title="GPT-4免排队升级通道，直接进入升级支付"></a>GPT-4免排队升级通道，直接进入升级支付</h3><ul>
-<li><p>登录ChatGPT后，在同一浏览器新开一个标签页。</p>
-</li>
-<li><p>点击以下链接直接进入升级页面：<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
-</li>
-</ul>
-<h1 id="三、额外的惊喜"><a href="#三、额外的惊喜" class="headerlink" title="三、额外的惊喜"></a><strong>三、额外的惊喜</strong></h1><p>这个虚拟卡还可以充值其他国外的东西，比如only fans，你懂的吧</p>
-<p>其他升级教程可以看这个：<a href="https://openssora.com/onlyfans-tech/">通过wildcard订阅only fans教程</a></p>
-<h1 id="关注公众号，获取更多最新消息："><a href="#关注公众号，获取更多最新消息：" class="headerlink" title="关注公众号，获取更多最新消息："></a>关注公众号，获取更多最新消息：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
-      <tags>
-        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>美区-apple-id-注册和绑卡教程</title>
     <url>/%E7%BE%8E%E5%8C%BA-apple-id-%E6%B3%A8%E5%86%8C%E5%92%8C%E7%BB%91%E5%8D%A1%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>美区 Apple ID 注册和绑卡教程</p>
@@ -854,63 +867,49 @@
       </tags>
   </entry>
   <entry>
-    <title>openai-api-绑卡及-key-申请教程</title>
-    <url>/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>OpenAI API 绑卡及 Key 申请教程</p>
-<h1 id="1-注意事项"><a href="#1-注意事项" class="headerlink" title="1. 注意事项"></a>1. 注意事项</h1><p>请您在OpenAI绑卡前，一定要保证卡上至少有5美元的余额，否则会绑卡失败。</p>
-<p>另外请您务必使用我们提供的美国家庭网络环境，使用普通代理也会导致绑卡不成功。</p>
-<h1 id="2-安装浏览器插件"><a href="#2-安装浏览器插件" class="headerlink" title="2. 安装浏览器插件"></a>2. 安装浏览器插件</h1><h2 id="具体浏览器插件教程点击这里-。-https-bewildcard-com-i-UPGPT"><a href="#具体浏览器插件教程点击这里-。-https-bewildcard-com-i-UPGPT" class="headerlink" title="具体浏览器插件教程点击这里: 。 https://bewildcard.com/i/UPGPT"></a>具体浏览器插件教程<a href="https://help.bewildcard.com/zh-CN/articles/8689913-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%B5%B7%E5%A4%96%E4%BB%A3%E7%90%86%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6">点击这里</a>: 。 <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></h2><span id="more"></span>
+    <title>国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</title>
+    <url>/upgrade-chatgpt/</url>
+    <content><![CDATA[<p>前段时间，注册了Chat GPT的账号，现在账号注册直接用邮箱注册即可，都不需要用手机号码接验证码什么的。方便好多，于是注册了个账号试试官网的Chat GPT的效果。</p>
+<p>但是主要的是3.5已经无法满足我的需求了，因为很多时候，3.5的回答并不是你想要的，还不够精确。于是我就去找<strong>升级Chat GPT-4.0</strong>的方法。找了好久，发现有一个教程非常的方便，<strong>可以用支付宝就可以直接升级</strong>。</p>
+<p>之前去<strong>某宝</strong>看到的代升级都要200RMB左右，真的贵，而且<strong>只能代充一次</strong>。一个月之后，如果想继续代充就要被继续收多几十块的手续费。废话不多说了，直接上教程。</p>
+<h1 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a><strong>一、准备工作</strong></h1><p>需要支付宝账号、已经开通好的chat GPT账号。（<strong>可以看下面的教程，也可以通过下面的方法申请一个ChatGPT账号</strong>）</p>
+<span id="more"></span>
 
-<p><a href="https://downloads.intercomcdn.com/i/o/917349700/fa16eb6e8daa8aebb53282dd/screenshot-20231224-151803.png"><img src="https://downloads.intercomcdn.com/i/o/917349700/fa16eb6e8daa8aebb53282dd/screenshot-20231224-151803.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/970799518/b0fea665c6cb1285bc3345a4/%E6%88%AA%E5%B1%8F2024-02-22+21_09_45.png"><img src="https://downloads.intercomcdn.com/i/o/970799518/b0fea665c6cb1285bc3345a4/%E6%88%AA%E5%B1%8F2024-02-22+21_09_45.png" alt="img"></a></p>
-<h1 id="3-登录-OpenAI-platform"><a href="#3-登录-OpenAI-platform" class="headerlink" title="3. 登录 OpenAI platform"></a>3. 登录 OpenAI platform</h1><p>在浏览器地址栏输入 <a href="https://platform.openai.com/">platform.openai.com</a>，然后输入你的OpenAI帐号和密码(也就是你的ChatGPT帐号)</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/880039782/94aab35235bfde7162148126/screenshot-20231110-175219.png"><img src="https://downloads.intercomcdn.com/i/o/880039782/94aab35235bfde7162148126/screenshot-20231110-175219.png" alt="img"></a></p>
-<p><a href="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785392254/b8442f1b542692666ede036a/signin.png"><img src="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785392254/b8442f1b542692666ede036a/signin.png" alt="img"></a></p>
-<h1 id="4-绑定付款方式"><a href="#4-绑定付款方式" class="headerlink" title="4. 绑定付款方式"></a>4. 绑定付款方式</h1><p>登录以后，点击左边栏的  Settings - &gt; billing ，就可以进入充值入口，点击 Add payment details。</p>
-<p>或者直接访问这个地址：<a href="https://platform.openai.com/account/billing/overview">https://platform.openai.com/account/billing/overview</a><br>​</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890064282/d010cf5e36d9c9e1f4ea2280/1.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890064282/d010cf5e36d9c9e1f4ea2280/1.jpeg" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890064533/030f2dd66fde0fdef7dc3157/2.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890064533/030f2dd66fde0fdef7dc3157/2.jpeg" alt="img"></a></p>
-<p>点击“Set up paid account”，选择是个人使用还是公司：</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/838847785/f59c6670ba89fcd91f8ebdcd/screenshot-20230926-131606.png"><img src="https://downloads.intercomcdn.com/i/o/838847785/f59c6670ba89fcd91f8ebdcd/screenshot-20230926-131606.png" alt="img"></a></p>
-<p>输入卡号，有效期、CVV以及邮编，下面输入姓名、WildCard 提供的帐单地址，然后点“continue“</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/876874955/453a02c948f113b6089ebd15/OpenAI+API+%E5%A6%82%E4%BD%95%E7%BB%91%E5%8D%A1.png"><img src="https://downloads.intercomcdn.com/i/o/876874955/453a02c948f113b6089ebd15/OpenAI+API+%E5%A6%82%E4%BD%95%E7%BB%91%E5%8D%A1.png" alt="img"></a></p>
-<p>绑卡结束后，会让你选择充值金额，可以是5美元到50美元之间的任意金额，充值任意金额之后，就可以直接使用 GPT-4 的API。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890064729/66e02133521525e667fc7d20/5.png"><img src="https://downloads.intercomcdn.com/i/o/890064729/66e02133521525e667fc7d20/5.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890065228/139a758017dca5e05af2a2b0/6.png"><img src="https://downloads.intercomcdn.com/i/o/890065228/139a758017dca5e05af2a2b0/6.png" alt="img"></a></p>
-<p> 还可以设置自动充值，设置余额低于一个特定值就自动充值。设置的是，如果余额低于 5 美元，就从你绑定的卡里面自动扣费来充值10美元。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/838849088/4808076d90221b8c21f6c6f2/%E6%88%AA%E5%B1%8F2023-09-26+13.23.18.png"><img src="https://downloads.intercomcdn.com/i/o/838849088/4808076d90221b8c21f6c6f2/%E6%88%AA%E5%B1%8F2023-09-26+13.23.18.png" alt="img"></a></p>
-<h1 id="5-申请-API-Key"><a href="#5-申请-API-Key" class="headerlink" title="5. 申请 API Key"></a>5. 申请 API Key</h1><p>点击菜单中的“API Keys”就可以看到已经创建的API Keys以及添加API Key的按钮，你也可以直接输入这个链接创建API Keys：<a href="https://platform.openai.com/api-keys">https://platform.openai.com/api-keys</a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890065467/e54fad886e1fcf3d7c91a10d/1.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890065467/e54fad886e1fcf3d7c91a10d/1.jpeg" alt="img"></a></p>
-<p>然后点击 Start verification，需要验证一下海外手机号<br>​</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890066795/4967be77826b0326b2090690/2.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890066795/4967be77826b0326b2090690/2.jpeg" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890066879/638bc9a21c233024a246b973/3.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890066879/638bc9a21c233024a246b973/3.jpeg" alt="img"></a></p>
-<p><strong>登录 WildCard：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，在页面里面找到「海外手机号」服务，点击「申请手机号」，</strong></p>
-<p>申请成功之后，复制分配的手机号。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/816778075/18bc4cea70a667f7801433e6/image.png"><img src="https://downloads.intercomcdn.com/i/o/816778075/18bc4cea70a667f7801433e6/image.png" alt="img"></a></p>
-<p>国家请选择 🇬🇧 英国 United Kindom，然后将号码粘贴到OpenAI的注册页面输入框里，点击下方的“<strong>发送验证码</strong>”按钮。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/816779980/9be7a26840e5f311dd96f6eb/%E6%88%AA%E5%B1%8F2023-08-28+12.54.09.png"><img src="https://downloads.intercomcdn.com/i/o/816779980/9be7a26840e5f311dd96f6eb/%E6%88%AA%E5%B1%8F2023-08-28+12.54.09.png" alt="img"></a></p>
-<p><strong>在 WildCard 页面: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，点击刷新按钮，看到6位数验证码已经显示在网页上了，复制然后回到 OpenAI 填写，就可以完成OpenAI注册过程。</strong></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/816782040/aa37ad41d88c553ff9d6fba1/screenshot-20230828-125924.png"><img src="https://downloads.intercomcdn.com/i/o/816782040/aa37ad41d88c553ff9d6fba1/screenshot-20230828-125924.png" alt="img"></a></p>
-<p>把这个验证码填入就行了<br>​</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890067621/6c5a26dac9bc08586c55f8c7/7.jpg"><img src="https://downloads.intercomcdn.com/i/o/890067621/6c5a26dac9bc08586c55f8c7/7.jpg" alt="img"></a></p>
-<p>如果没收到验证码，或者遇到手机号码已经被注册的提示，就申请新手机号，一般3个号码能稳定收到至少1个验证码。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/816781016/41ef78b00b992c5fc0b13fa1/%E6%88%AA%E5%B1%8F2023-08-28+12.57.16.png"><img src="https://downloads.intercomcdn.com/i/o/816781016/41ef78b00b992c5fc0b13fa1/%E6%88%AA%E5%B1%8F2023-08-28+12.57.16.png" alt="img"></a></p>
-<p>验证成功之后会有提示，这里请注意，每个海外手机号可以验证两个 API，如果第二次使用这个手机号验证，会提示这个手机号已经绑定了一个 API，这个没有影响，可以正常使用，无需担心。<br>​</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890067759/fffaaf3b603471d96ff42eb8/8.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890067759/fffaaf3b603471d96ff42eb8/8.jpeg" alt="img"></a></p>
-<p>然后正常创建和复制 api key 就行了</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890068412/b0882e18ae520a8453972875/9.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890068412/b0882e18ae520a8453972875/9.jpeg" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890068445/390e33cb728c1ba151ff940b/10.jpeg"><img src="https://downloads.intercomcdn.com/i/o/890068445/390e33cb728c1ba151ff940b/10.jpeg" alt="img"></a></p>
-<h1 id="5-API-消费额度和扣费"><a href="#5-API-消费额度和扣费" class="headerlink" title="5. API 消费额度和扣费"></a>5. API 消费额度和扣费</h1><p>OpenAI 会根据你充值的金额，对你进行消费限额，比如你充值了5美元，调用 API 也最多消费 5 美元。</p>
-<p>如果连续2次扣费失败（比如遇到卡内余额不足），OpenAI 就会封禁这个开发者帐户和对应的卡号。</p>
-<p>开发者用户可以在<a href="https://platform.openai.com/usage">这里</a>实时查看 API 调用的消费情况。</p>
-<p>在<a href="https://platform.openai.com/account/limits">这里</a>查看，您的调用额度限制，和支持的模型（GPT-3.5&#x2F;GPT-4）<br>​</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/800419272/9679fd84264c908eeeda3358/%E6%88%AA%E5%B1%8F2023-08-04+20.54.10.png"><img src="https://downloads.intercomcdn.com/i/o/800419272/9679fd84264c908eeeda3358/%E6%88%AA%E5%B1%8F2023-08-04+20.54.10.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890069213/200a52d8c57a2de0c08ae985/Screenshot+2023-11-22+at+12.22.23.png"><img src="https://downloads.intercomcdn.com/i/o/890069213/200a52d8c57a2de0c08ae985/Screenshot+2023-11-22+at+12.22.23.png" alt="img"></a></p>
-<p><strong>上面的wildcard平台地址：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></strong>, 如果官方需要邀请码的话，可以使用官方字段： **UPGPT **，因为官方是通过邀请制开卡的。</p>
-<p>有疑问可以咨询楼主：<br><img src="/image/wechat-zxx.jpg" alt="微信号：zxx_1408" style="zoom:50%;" /></p>
-]]></content>
+<h1 id="二、申请国内虚拟卡"><a href="#二、申请国内虚拟卡" class="headerlink" title="二、申请国内虚拟卡"></a><strong>二、申请国内虚拟卡</strong></h1><p>申请一张属于自己的<strong>独立虚拟卡</strong>，后续自己想充值什么都可以，同时你也可以自己去代充吧，但是个人<strong>不建议去给人代充</strong>。  <strong>因为代充的源头就是下面这个虚拟卡呀</strong>！（现在是直接把源头，告诉你，不用给某宝，某鱼手续费～）</p>
+<p>下面就推荐一款国内的 <a href="https://bewildcard.com/i/UPGPT">wildcard</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a>，这款对小白来说非常的友好，其他我不敢推荐，这个他充值后是可以退款的。 <strong>（官方是通过邀请制注册的，如果需要邀请码可以使用官方字段：UPGPT， 可以优惠折扣8.8折，也就是减 2 美元～）</strong></p>
+<p><strong>它的优势：去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈</strong></p>
+<p><img src="https://pic3.zhimg.com/80/v2-2db84ebccfa57e849db3b209097785de_1440w.webp" alt="img"><br><img src="https://pic2.zhimg.com/80/v2-79c7541329a39fed8ee9af8ca98cbe81_1440w.webp" alt="img"></p>
+<p><strong>不建议使用拼车功能</strong>，这个<strong>虚拟卡最大的用处</strong>是可以用来<strong>订阅国外各种平台</strong>。比如<strong>升级GPT-4</strong>、<strong>Claude 3 Opus</strong>、<strong>订阅Only Fans、Midjourney</strong>等国外服务。</p>
+<p><strong>如果你需要账号的话，你可以这么操作，进行一个充值，然后退款提现。可以薅羊毛啦，可以获得一个Open AI账号，也就是GPT账号，永久无限次使用。</strong></p>
+<p><strong>1. 另外，你可以通过充值，然后再提现，就可以白嫖一个Open AI的账号啦～</strong></p>
+<p><img src="https://pic4.zhimg.com/80/v2-f9a4f5fbe2a8378619359554121b136b_720w.webp" alt="img"></p>
+<p><strong>2. 然后再进行退款，提现</strong>：</p>
+<p><img src="https://pic3.zhimg.com/80/v2-26940616856086dc430ba4af4bc432a2_720w.webp" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-56babf28b242b7753710e09ede9340a4_720w.webp" alt="img"></p>
+<p><strong>申请之后，你可以看到里面有个功能，是一键升级GPT-4的。点它：</strong></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-01.webp" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/80/v2-ea362ca5581311bf50404281a53518ba_720w.webp" alt="img"></p>
+<p><strong>点了之后，升级前，还会提醒你</strong>，之前用其他国外邮箱注册的账号容易被封的情况，以免白白升级，你可以直接免费申请一个新的国外邮箱，<strong>直接继续薅这个平台的免费服务</strong>。（<strong>薅羊毛之前，记得先充值后提现哦～</strong>）</p>
+<p><img src="https://pic1.zhimg.com/v2-c7060735186b9d782d1cd77efec85250_r.jpg" alt="img"></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-02.webp" alt="img"></p>
+<p><strong>符合的同学，直接下一步就行了，选择你要的Plus，个人订阅。</strong></p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-03.webp" alt="img"></p>
+<p>下一步之后，这个虚拟卡交互很好啊，直接给你提供保姆级的图片和教程，如下图：</p>
+<p><img src="/image/upgrade-chatgpt/upgrade-chatgpt-04.webp" alt="img"></p>
+<p>你登陆chat-gpt账号后，点击升级，然后把升级付款的链接，直接复制到输入框，点击支付提交。3分钟内就搞定了，而且这是自己独立虚拟卡升级到，几乎不会被封号。我也推荐大家使用这种方式去升级，安全还独立。</p>
+<p><a href="https://bewildcard.com/i/UPGPT">一键直通GPT升级地址</a>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
+<p>填入邀请码可以减免2美元的开卡费～，没有邀请码的同学，需要邀请码的话可以填官方字段：<strong>UPGPT</strong></p>
+<h3 id="GPT-4免排队升级通道，直接进入升级支付"><a href="#GPT-4免排队升级通道，直接进入升级支付" class="headerlink" title="GPT-4免排队升级通道，直接进入升级支付"></a>GPT-4免排队升级通道，直接进入升级支付</h3><ul>
+<li><p>登录ChatGPT后，在同一浏览器新开一个标签页。</p>
+</li>
+<li><p>点击以下链接直接进入升级页面：<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
+</li>
+</ul>
+<h1 id="三、额外的惊喜"><a href="#三、额外的惊喜" class="headerlink" title="三、额外的惊喜"></a><strong>三、额外的惊喜</strong></h1><p>这个虚拟卡还可以充值其他国外的东西，比如only fans，你懂的吧</p>
+<p>其他升级教程可以看这个：<a href="https://openssora.com/onlyfans-tech/">通过wildcard订阅only fans教程</a></p>
+<h1 id="关注公众号，获取更多最新消息："><a href="#关注公众号，获取更多最新消息：" class="headerlink" title="关注公众号，获取更多最新消息："></a>关注公众号，获取更多最新消息：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
       <tags>
-        <tag>openai-api-绑卡及-key-申请教程</tag>
+        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
       </tags>
   </entry>
 </search>
