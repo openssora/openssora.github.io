@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://openssora.com/chatgpt-oops/</loc>
+    <loc>https://openssora.com/chatgpt-upgrade-plus-gpt/</loc>
     
     <lastmod>2024-04-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://openssora.com/chatgpt-upgrade-plus-gpt/</loc>
+    <loc>https://openssora.com/chatgpt-oops/</loc>
     
     <lastmod>2024-04-03</lastmod>
     
@@ -242,6 +242,13 @@
   </url>
   
   <url>
+    <loc>https://openssora.com/tags/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://openssora.com/tags/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -250,13 +257,6 @@
   
   <url>
     <loc>https://openssora.com/tags/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/</loc>
-    <lastmod>2024-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://openssora.com/tags/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-04-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
