@@ -152,6 +152,8 @@
 </li>
 <li><p><a href="https://openssora.com/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/">openai-api-绑卡及-key-申请教程</a></p>
 </li>
+<li><p><a href="https://openssora.com/how-chatgpt-banned-refund-appeal/">chatgpt被封号了如何申诉和退费（内附详细教程）</a></p>
+</li>
 </ol>
 <h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
       <tags>
@@ -184,6 +186,80 @@
 <h1 id="另外两个方法："><a href="#另外两个方法：" class="headerlink" title="另外两个方法："></a>另外两个方法：</h1><ol>
 <li>换其他的浏览器登录使用</li>
 <li>把中文切换到英文！</li>
+</ol>
+<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
+      <tags>
+        <tag>ChatGPT问题集</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT被封号了怎么办？如何申诉及退费退款（内附详细教程）</title>
+    <url>/how-chatgpt-banned-refund-appeal/</url>
+    <content><![CDATA[<p><strong>本文会手把手教你如何解决，chatgpt被封了，如何解封，</strong> chatgpt怎么退款退费呢？chatgpt如何发邮件申诉呢等问题。<br><strong>如果最近出现的chatgpt收到违反了使用政策或从不受支持的位置访问ChatGPT服务邮件后被封号的话，本文也许对你有所帮助。</strong> 另外chatgpt突然oops了，也是可以退款的，下图应该是普遍大家都见过，这个是常见的场景。没有收到邮件的，可以登录自己的邮箱查看。</p>
+<span id="more"></span>
+
+<p><img src="https://picx.zhimg.com/80/v2-4086a6e62f26286c7d36d4fc9ece6e29_1440w.png?source=d16d100b" alt="img"></p>
+<h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p><strong>遇到封号的情况时，</strong>首先，您需要了解账号被封禁的原因。通常，封号可能由于违反服务条款、IP地址问题、账号被盗或密码错误、系统误伤、作弊行为等引起。确认原因后，您可以更有针对性地准备申诉材料。（下文会提供一下模版）</p>
+<p>比如，上文的图，就是IP地址的问题，我们翻译之后是如下图：</p>
+<p><img src="https://pic1.zhimg.com/80/v2-b429ea8b651cde73d0835d0e70fc9928_1440w.png?source=d16d100b" alt="img"></p>
+<p>ChatGPT账号近期又出现大规模封禁现象，影响广泛，无论用户地区或账号类型如何，均存在被封禁的情况。目前封禁标准尚不明确，因此一些用户尝试向官方申诉以解除封禁。<strong>然而，并非所有申诉都能成功解封</strong>。</p>
+<p><strong>官方邮件内容都是一致：判定账号违反了使用政策或从不受支持的位置访问ChatGPT服务。</strong></p>
+<h2 id="注意："><a href="#注意：" class="headerlink" title="注意："></a><strong>注意：</strong></h2><p>1、大家不要随意切IP，亚洲区是封号重区，不要多个地方同时登，很容易被判一号多用，不要滥用API KEY，影响平台稳定性。</p>
+<p>2、另外请遵守平台规范，确保自己发布的内容合规，避免涉及政治、暴力、色情等敏感话题，降低被封禁的风险。</p>
+<h2 id="一、申诉步骤："><a href="#一、申诉步骤：" class="headerlink" title="一、申诉步骤："></a><strong>一、申诉步骤：</strong></h2><p>1、如果你的号确实非常重要，里面有很重要的信息和数据，而且你认为账号是误封，你可以向平台发起申诉</p>
+<p>2、申诉的途径是向OpenAI官方发送邮件（<strong>记住不要用国内的邮箱发送比如QQ、163邮箱等，最好是你ChatGPT登录的邮箱来发送邮件</strong>）</p>
+<p>3、邮件地址是<strong><a href="mailto:&#115;&#x75;&#112;&#x70;&#x6f;&#114;&#x74;&#x40;&#x6f;&#x70;&#101;&#110;&#97;&#x69;&#46;&#99;&#x6f;&#109;">&#115;&#x75;&#112;&#x70;&#x6f;&#114;&#x74;&#x40;&#x6f;&#x70;&#101;&#110;&#97;&#x69;&#46;&#99;&#x6f;&#109;</a></strong></p>
+<p> 申诉的内容主要是表明你这个号非常珍贵，里面有很多数据对你很重要，账号可能被盗用，然后说明你没有干什么坏事，以后也不会干，希望给予解封，以后一定会遵守平台规则… 具体详细内容就看大家个人发挥了。</p>
+<p><strong>记得一定要用英文来描述，如果发中文可能他们的支持团队压根就不看，因为本来就没对国内开放。</strong></p>
+<p>这里直接给个<strong>英文的参考模板</strong>，请不要千篇一律地直接复制：</p>
+<p>Subject: Urgent Appeal for Account Unban: Unauthorized Access and Misuse of My ChatGPT Account</p>
+<p>Dear ChatGPT Support Team,</p>
+<p>I hope this email finds you well. My name is [ Your Name ], and I am writing to appeal for the removal of the ban on my ChatGPT account (username: [ Your Username] ). I believe that my account has been mistakenly flagged and banned due to suspicious activities, which I suspect were the result of unauthorized access and misuse.</p>
+<p>I recently discovered that my account was compromised, and I have reason to believe that it was accessed and misused by someone else without my knowledge or consent. I deeply regret any inconvenience or disruption this may have caused to the ChatGPT community and would like to assure you that I had no part in the activities that led to the ban.</p>
+<p>To resolve this issue and restore my account, I have already taken the necessary steps to secure my account by changing my password and enabling two-factor authentication. I kindly request that you investigate my account to verify my claims and consider lifting the ban.</p>
+<p>I have always valued and respected the ChatGPT community guidelines and have strived to maintain a positive and constructive presence. I understand the importance of maintaining a safe and enjoyable environment for all users and sincerely apologize for any trouble this situation may have caused.</p>
+<p>Please let me know if there is any additional information or action required from my end to facilitate the investigation and resolution of this issue. I am more than willing to cooperate with any further inquiries you may have</p>
+<p>Thank you for your time and consideration. I eagerly await your response and hope that my account can be reinstated as soon as possible.</p>
+<p>Best regards,</p>
+<p>[您的称呼]</p>
+<p>[您的账号]</p>
+<p>[您的电子邮件地址]</p>
+<p>虽然不一定能找回，至少有一丝希望，往往你多去争取一下，平台可能会给你次机会。截止到2024年4月申诉成功的概率越来越低。但是发送申诉邮件不需要花太多的精力，我们可以尝试。</p>
+<p><strong>账号申诉回复时效一般是3个工作日，但是退款处理时效一般是当天。</strong></p>
+<p>ChatGPT账号封禁后<strong>所绑定的信用卡，大概率不能二次订阅成功</strong>。<strong>需要更换新的卡片</strong>。国内目前就两个卡片平台：</p>
+<ol>
+<li>wildcard：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></li>
+<li>fomepay：<a href="https://gpt.fomepay.com/#/pages/login/index?d=1IEPR8">https://gpt.fomepay.com/#/pages/login/index?d=1IEPR8</a></li>
+</ol>
+<p><strong>wildcard相对于小白比较友好，fomepay的话少了一些功能，交互上比较差一些。但是都是可以进行订阅升级GPT。</strong></p>
+<h2 id="二、账号封禁后如何申请退回月费？"><a href="#二、账号封禁后如何申请退回月费？" class="headerlink" title="二、账号封禁后如何申请退回月费？"></a>二、账号封禁后如何申请退回月费？</h2><p>1、首先打开OpenAI帮助中心：help.openai.com。   </p>
+<p><img src="https://pica.zhimg.com/80/v2-fe8447ffe354188e951d28dde3d9d224_1440w.png?source=d16d100b" alt="img"></p>
+<p>2、然后找到右下角消息图标 ,Message（如下图所示） <strong>如果空白，那你就耐心等一下，会出现的。</strong></p>
+<p><img src="https://picx.zhimg.com/80/v2-a0b3ab38787f43713eb5381fd95f9891_1440w.png?source=d16d100b" alt="img"></p>
+<p>3、最后打开对话框“get more help” 一直要求“get more help”转人工客服后发消息给客服，说明ChatGPT账号被封了，要求退回支付的20美元月费。</p>
+<p><img src="https://picx.zhimg.com/80/v2-f0966bf20ce00c88ecde82504ccc8eed_1440w.png?source=d16d100b" alt="img"></p>
+<p><img src="https://picx.zhimg.com/80/v2-b94a01dfaaeac2e15f57619076c87721_1440w.png?source=d16d100b" alt="img"></p>
+<p>4、<a href="https://bewildcard.com/i/UPGPT">申诉成功后钱会直接退回到原支付的信用卡里。</a></p>
+<p><strong>账号申诉要求恢复的处理时效是3个工作日左右，申诉成功概率低！</strong></p>
+<p><strong>要求退回支付月费成功概率高，且处理时效快！</strong>大家可以发送完毕申诉邮件后，进入帮助中心及时申请退回支付的月费。</p>
+<p>ChatGPT账号封禁后，该账户所绑定的美元信用卡，大概率也不能二次订阅成功。可以尝试换其他虚拟卡平台进行订阅：<a href="https://openssora.com/chatgpt-upgrade-plus-gpt/"><strong>（内附详细教程2024&#x2F;4月最新）国内的gpt4暂停升级，GPT4、GPT4.0、GPT3.5 升级教程，ChatGPT Plus无法开通升级的教程</strong></a></p>
+<p>对了，这句话很关键：<strong>账号申诉回复时效一般是3个工作日，但是退款处理时效一般是当天。</strong></p>
+<p>很多人反馈没有退回，一半的情况是过了退款处理时效了。另一半是代充的，没有绑卡。</p>
+<h2 id="其他问题"><a href="#其他问题" class="headerlink" title="其他问题"></a>其他问题</h2><ol>
+<li><p><a href="https://openssora.com/chatgpt-upgrade-plus-gpt/">gpt oops怎么回事？GPT账号被封了？OpenAI大面积封ChatGPT-4账号的原因，有这几点！</a></p>
+</li>
+<li><p><a href="https://openssora.com/how-ChatGPT-%E6%B6%88%E6%81%AF%E5%8F%91%E4%B8%8D%E5%87%BA%E5%8E%BB%E4%BA%86/">手把手教你如何解决ChatGPT消息发不出去了，怎么解决GPT消息无法发出的问题|ChatGPT 点击无响应｜ChatGPT无法使用</a></p>
+</li>
+<li><p><a href="https://openssora.com/how-register-gpt5-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7chatgpt5/">（内附详细图文步骤）教你如何解决ChatGPT-5的升级，怎么注册升级GPT-5或者CPT-4的问题教程</a></p>
+</li>
+<li><p><a href="https://openssora.com/how-register-claude3-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7Cluade3/">最新Claude 3的注册升级教程！解决如何注册升级Cluade3的问题以及防封号经验</a></p>
+</li>
+<li><p><a href="https://openssora.com/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/">openai-账号免费注册教程</a></p>
+</li>
+<li><p><a href="https://openssora.com/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/">openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</a></p>
+</li>
+<li><p><a href="https://openssora.com/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/">openai-api-绑卡及-key-申请教程</a></p>
+</li>
 </ol>
 <h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
       <tags>
@@ -465,48 +541,6 @@
       </tags>
   </entry>
   <entry>
-    <title>openai-账号免费注册教程</title>
-    <url>/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>OpenAI 账号免费注册教程</p>
-<h1 id="1-申请海外邮箱-forwards-link"><a href="#1-申请海外邮箱-forwards-link" class="headerlink" title="1. 申请海外邮箱 forwards.link"></a>1. 申请<strong>海外邮箱 forwards.link</strong></h1><p>国内的邮箱都不再允许注册，建议在我们平台申请一个海外邮箱 forwards.link</p>
-<p> 来注册，其他海外邮箱，如 Gmail 也可以，但 outlook&#x2F;hotmail&#x2F;live 这类微软账户不行，基本上升级就会被封。如果您有自己的海外邮箱，可以跳过这步，直接去看第二步。</p>
-<p>我们发现近期有很多 Outlook 或 hotmail 等微软账户注册的 OpenAI 账户，平时使用一点问题都没有。</p>
-<p> 但一旦升级到 GPT Plus 或 绑定 API 就会被封，猜测是微软给 OpenAI 提供了邮箱的注册国家信息，为了不必要的损失，请您尽量不要用Outlook&#x2F;微软账户的邮箱升级 Plus 或绑定 API 。</p>
-<h2 id="1-1-申请海外邮箱"><a href="#1-1-申请海外邮箱" class="headerlink" title="1.1 申请海外邮箱"></a>1.1 申请海外邮箱</h2><p>在我的卡片工具箱下拉，找到海外邮箱，点击申请</p>
-<span id="more"></span>
-
-<p><a href="https://downloads.intercomcdn.com/i/o/933390050/ebd4989d2f827d5bf811c48c/image.png"><img src="https://downloads.intercomcdn.com/i/o/933390050/ebd4989d2f827d5bf811c48c/image.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933391802/8193367846d5cbf1793d296d/image.png"><img src="https://downloads.intercomcdn.com/i/o/933391802/8193367846d5cbf1793d296d/image.png" alt="img"></a></p>
-<h2 id="1-2-填写海外邮箱前缀"><a href="#1-2-填写海外邮箱前缀" class="headerlink" title="1.2 填写海外邮箱前缀"></a>1.2 填写海外邮箱前缀</h2><p>在输入框填写自己想要申请的邮箱前缀，邮箱前缀要求至少5位的字母或数字，填写之后点击确认申请，等待海外邮箱申请</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933392117/59d6b7735d5bb29c0a3972d0/image.png"><img src="https://downloads.intercomcdn.com/i/o/933392117/59d6b7735d5bb29c0a3972d0/image.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933392939/c05e1f10d49c12e3ebf35e9d/image.png"><img src="https://downloads.intercomcdn.com/i/o/933392939/c05e1f10d49c12e3ebf35e9d/image.png" alt="img"></a></p>
-<h2 id="1-3-申请成功"><a href="#1-3-申请成功" class="headerlink" title="1.3 申请成功"></a>1.3 申请成功</h2><p>申请成功之后，点击复制，即可去 OpenAi 官网注册账号</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933397690/e2c9510701a3c2171318bb4a/image.png"><img src="https://downloads.intercomcdn.com/i/o/933397690/e2c9510701a3c2171318bb4a/image.png" alt="img"></a></p>
-<h1 id="2-使用远程环境"><a href="#2-使用远程环境" class="headerlink" title="2. 使用远程环境"></a>2. 使用远程环境</h1><p><a href="https://downloads.intercomcdn.com/i/o/917350974/e3a0b8cfd55c89cbcc72747b/screenshot-20231224-151803.png"><img src="https://downloads.intercomcdn.com/i/o/917350974/e3a0b8cfd55c89cbcc72747b/screenshot-20231224-151803.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/917350983/a1285b9dc85d7b608ff0d456/screenshot-20231224-151905.png"><img src="https://downloads.intercomcdn.com/i/o/917350983/a1285b9dc85d7b608ff0d456/screenshot-20231224-151905.png" alt="img"></a></p>
-<h1 id="3-申请OpenAI账号"><a href="#3-申请OpenAI账号" class="headerlink" title="3. 申请OpenAI账号"></a>3. 申请OpenAI账号</h1><p>建议使用我们的远程环境来登录注册 OpenAI.<br>​</p>
-<p>首先打开 <a href="https://platform.openai.com/signup">OpenAI</a> 的账户注册页面，输入邮箱。</p>
-<p><a href="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785427440/289bb339db4830393b460876/chatgpt-3.png"><img src="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785427440/289bb339db4830393b460876/chatgpt-3.png" alt="image.png"></a></p>
-<p>首先验证邮箱，在 我的卡片-工具箱栏找到海外邮箱，点击邮箱收件记录，查看邮件详情，点击「Verify email address」即可。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933408659/05ddb79ecfc2075f754d056a/image.png"><img src="https://downloads.intercomcdn.com/i/o/933408659/05ddb79ecfc2075f754d056a/image.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933411440/9886a9d05ac5bf77e6319dc5/image.png"><img src="https://downloads.intercomcdn.com/i/o/933411440/9886a9d05ac5bf77e6319dc5/image.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933410861/538dfc44520de5c77d4f6154/image.png"><img src="https://downloads.intercomcdn.com/i/o/933410861/538dfc44520de5c77d4f6154/image.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/933411969/3ad41d5d798304db2bad57dc/image.png"><img src="https://downloads.intercomcdn.com/i/o/933411969/3ad41d5d798304db2bad57dc/image.png" alt="img"></a></p>
-<p>然后提供你的名和姓及生日，并点击继续</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/838845488/7197c3aed39a11c6f7f55201/%E6%88%AA%E5%B1%8F2023-09-26+12.23.19.png"><img src="https://downloads.intercomcdn.com/i/o/838845488/7197c3aed39a11c6f7f55201/%E6%88%AA%E5%B1%8F2023-09-26+12.23.19.png" alt="img"></a></p>
-<p>然后选择您创建 API 还是 ChatGPT账户即可。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/890061104/aa5fde7fae042b7c094bcbca/Screenshot+2023-11-22+at+11.57.54.png"><img src="https://downloads.intercomcdn.com/i/o/890061104/aa5fde7fae042b7c094bcbca/Screenshot+2023-11-22+at+11.57.54.png" alt="img"></a></p>
-<p>Openai 的用户体系分成两大类：<strong>ChatGPT 用户</strong>和<strong>API开发者用户，两个体系是相互独立的，用户名密码是一致的，但是访问入口和支付都是独立的</strong>：</p>
-<p>ChatGPT 用户的登录入口是 <a href="https://chat.openai.com/">https://chat.openai.com</a><br>API 开发者用户的登录入口是 <a href="https://platform.openai.com/">https://platform.openai.com</a></p>
-<p>ChatGPT 用户获取 GPT-4 的使用权限，是通过购买 GPT Plus 会员，会员的收费标准是 20 美元&#x2F;每月。购买 GPT Plus 会员后，可以在 Chat 界面选择 GPT4 进行聊天。购买教程在<a href="https://openssora.com/upgrade-chatgpt-to-plus">这里</a>。</p>
-<p>API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户，升级付费帐户的教程在<a href="https://openssora.com/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/">这里</a>。然后需要预充值5美元以上，才能开通GPT-4的访问权限。</p>
-<p><strong>上面的平台用的是wildcard</strong>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> ,如果需要填写验证码的话，可以填写官方的字段：<strong>UPGPT</strong>  可以减免2美刀的费用～</p>
-<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
-      <tags>
-        <tag>openai-账号免费注册教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>openai-api-绑卡及-key-申请教程</title>
     <url>/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>OpenAI API 绑卡及 Key 申请教程</p>
@@ -583,6 +617,48 @@
 <h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
       <tags>
         <tag>openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>openai-账号免费注册教程</title>
+    <url>/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>OpenAI 账号免费注册教程</p>
+<h1 id="1-申请海外邮箱-forwards-link"><a href="#1-申请海外邮箱-forwards-link" class="headerlink" title="1. 申请海外邮箱 forwards.link"></a>1. 申请<strong>海外邮箱 forwards.link</strong></h1><p>国内的邮箱都不再允许注册，建议在我们平台申请一个海外邮箱 forwards.link</p>
+<p> 来注册，其他海外邮箱，如 Gmail 也可以，但 outlook&#x2F;hotmail&#x2F;live 这类微软账户不行，基本上升级就会被封。如果您有自己的海外邮箱，可以跳过这步，直接去看第二步。</p>
+<p>我们发现近期有很多 Outlook 或 hotmail 等微软账户注册的 OpenAI 账户，平时使用一点问题都没有。</p>
+<p> 但一旦升级到 GPT Plus 或 绑定 API 就会被封，猜测是微软给 OpenAI 提供了邮箱的注册国家信息，为了不必要的损失，请您尽量不要用Outlook&#x2F;微软账户的邮箱升级 Plus 或绑定 API 。</p>
+<h2 id="1-1-申请海外邮箱"><a href="#1-1-申请海外邮箱" class="headerlink" title="1.1 申请海外邮箱"></a>1.1 申请海外邮箱</h2><p>在我的卡片工具箱下拉，找到海外邮箱，点击申请</p>
+<span id="more"></span>
+
+<p><a href="https://downloads.intercomcdn.com/i/o/933390050/ebd4989d2f827d5bf811c48c/image.png"><img src="https://downloads.intercomcdn.com/i/o/933390050/ebd4989d2f827d5bf811c48c/image.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933391802/8193367846d5cbf1793d296d/image.png"><img src="https://downloads.intercomcdn.com/i/o/933391802/8193367846d5cbf1793d296d/image.png" alt="img"></a></p>
+<h2 id="1-2-填写海外邮箱前缀"><a href="#1-2-填写海外邮箱前缀" class="headerlink" title="1.2 填写海外邮箱前缀"></a>1.2 填写海外邮箱前缀</h2><p>在输入框填写自己想要申请的邮箱前缀，邮箱前缀要求至少5位的字母或数字，填写之后点击确认申请，等待海外邮箱申请</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933392117/59d6b7735d5bb29c0a3972d0/image.png"><img src="https://downloads.intercomcdn.com/i/o/933392117/59d6b7735d5bb29c0a3972d0/image.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933392939/c05e1f10d49c12e3ebf35e9d/image.png"><img src="https://downloads.intercomcdn.com/i/o/933392939/c05e1f10d49c12e3ebf35e9d/image.png" alt="img"></a></p>
+<h2 id="1-3-申请成功"><a href="#1-3-申请成功" class="headerlink" title="1.3 申请成功"></a>1.3 申请成功</h2><p>申请成功之后，点击复制，即可去 OpenAi 官网注册账号</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933397690/e2c9510701a3c2171318bb4a/image.png"><img src="https://downloads.intercomcdn.com/i/o/933397690/e2c9510701a3c2171318bb4a/image.png" alt="img"></a></p>
+<h1 id="2-使用远程环境"><a href="#2-使用远程环境" class="headerlink" title="2. 使用远程环境"></a>2. 使用远程环境</h1><p><a href="https://downloads.intercomcdn.com/i/o/917350974/e3a0b8cfd55c89cbcc72747b/screenshot-20231224-151803.png"><img src="https://downloads.intercomcdn.com/i/o/917350974/e3a0b8cfd55c89cbcc72747b/screenshot-20231224-151803.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/917350983/a1285b9dc85d7b608ff0d456/screenshot-20231224-151905.png"><img src="https://downloads.intercomcdn.com/i/o/917350983/a1285b9dc85d7b608ff0d456/screenshot-20231224-151905.png" alt="img"></a></p>
+<h1 id="3-申请OpenAI账号"><a href="#3-申请OpenAI账号" class="headerlink" title="3. 申请OpenAI账号"></a>3. 申请OpenAI账号</h1><p>建议使用我们的远程环境来登录注册 OpenAI.<br>​</p>
+<p>首先打开 <a href="https://platform.openai.com/signup">OpenAI</a> 的账户注册页面，输入邮箱。</p>
+<p><a href="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785427440/289bb339db4830393b460876/chatgpt-3.png"><img src="https://wildcard-b0518949163b.intercom-attachments-1.com/i/o/785427440/289bb339db4830393b460876/chatgpt-3.png" alt="image.png"></a></p>
+<p>首先验证邮箱，在 我的卡片-工具箱栏找到海外邮箱，点击邮箱收件记录，查看邮件详情，点击「Verify email address」即可。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933408659/05ddb79ecfc2075f754d056a/image.png"><img src="https://downloads.intercomcdn.com/i/o/933408659/05ddb79ecfc2075f754d056a/image.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933411440/9886a9d05ac5bf77e6319dc5/image.png"><img src="https://downloads.intercomcdn.com/i/o/933411440/9886a9d05ac5bf77e6319dc5/image.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933410861/538dfc44520de5c77d4f6154/image.png"><img src="https://downloads.intercomcdn.com/i/o/933410861/538dfc44520de5c77d4f6154/image.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/933411969/3ad41d5d798304db2bad57dc/image.png"><img src="https://downloads.intercomcdn.com/i/o/933411969/3ad41d5d798304db2bad57dc/image.png" alt="img"></a></p>
+<p>然后提供你的名和姓及生日，并点击继续</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/838845488/7197c3aed39a11c6f7f55201/%E6%88%AA%E5%B1%8F2023-09-26+12.23.19.png"><img src="https://downloads.intercomcdn.com/i/o/838845488/7197c3aed39a11c6f7f55201/%E6%88%AA%E5%B1%8F2023-09-26+12.23.19.png" alt="img"></a></p>
+<p>然后选择您创建 API 还是 ChatGPT账户即可。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/890061104/aa5fde7fae042b7c094bcbca/Screenshot+2023-11-22+at+11.57.54.png"><img src="https://downloads.intercomcdn.com/i/o/890061104/aa5fde7fae042b7c094bcbca/Screenshot+2023-11-22+at+11.57.54.png" alt="img"></a></p>
+<p>Openai 的用户体系分成两大类：<strong>ChatGPT 用户</strong>和<strong>API开发者用户，两个体系是相互独立的，用户名密码是一致的，但是访问入口和支付都是独立的</strong>：</p>
+<p>ChatGPT 用户的登录入口是 <a href="https://chat.openai.com/">https://chat.openai.com</a><br>API 开发者用户的登录入口是 <a href="https://platform.openai.com/">https://platform.openai.com</a></p>
+<p>ChatGPT 用户获取 GPT-4 的使用权限，是通过购买 GPT Plus 会员，会员的收费标准是 20 美元&#x2F;每月。购买 GPT Plus 会员后，可以在 Chat 界面选择 GPT4 进行聊天。购买教程在<a href="https://openssora.com/upgrade-chatgpt-to-plus">这里</a>。</p>
+<p>API 开发者用户获取 GPT-4 API的使用权限，是通过升级付费帐户，升级付费帐户的教程在<a href="https://openssora.com/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/">这里</a>。然后需要预充值5美元以上，才能开通GPT-4的访问权限。</p>
+<p><strong>上面的平台用的是wildcard</strong>: <a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a> ,如果需要填写验证码的话，可以填写官方的字段：<strong>UPGPT</strong>  可以减免2美刀的费用～</p>
+<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
+      <tags>
+        <tag>openai-账号免费注册教程</tag>
       </tags>
   </entry>
   <entry>
@@ -834,6 +910,27 @@
       </tags>
   </entry>
   <entry>
+    <title>2024年如何通过虚拟卡升级Chat-GPT4.0 plus</title>
+    <url>/upgrade-chatgpt-wildcard/</url>
+    <content><![CDATA[<p>在今天这个信息爆炸的时代，掌握先进的技术和工具已成为提升个人和企业竞争力的重要手段。人工智能技术的飞速发展，尤其是OpenAI推出的Chat-GPT系列，已经引起了全球范围内的广泛关注。Chat-GPT4.0 plus作为这一系列中的最新成员，以其更加强大的语言理解和生成能力，成为了许多用户追求的目标。然而，对于国内用户来说，直接访问并使用Chat-GPT4.0 plus可能会遇到一些困难。本文旨在提供一个简单的解决方案——通过开通国内虚拟卡的方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以为国外的其他应用充值，比如onlyfans等。<br>一键升级的教程可以参考这个教程：<a href="https://openssora.com/upgrade-chatgpt/">3分钟快速升级ChatGPT4.0 Plus教程</a></p>
+<span id="more"></span>
+<h1 id="虚拟卡简介"><a href="#虚拟卡简介" class="headerlink" title="虚拟卡简介"></a>虚拟卡简介</h1><p>在深入了解如何通过虚拟卡升级Chat-GPT4.0 plus之前，让我们先来了解一下什么是虚拟卡。虚拟卡，顾名思义，是一种不以实体形式存在的银行卡。它具有与实体银行卡相同的功能，包括一个卡号、有效期和安全码。用户可以通过国内的银行或者第三方支付平台申请虚拟卡，并将其绑定到自己的账户上。使用虚拟卡的好处在于，它可以提供一个额外的安全层次，因为它是独立于用户的主要银行账户的，且可以随时生成和销毁，大大减少了在线交易的风险。</p>
+<h1 id="如何通过虚拟卡升级Chat-GPT4-0-plus"><a href="#如何通过虚拟卡升级Chat-GPT4-0-plus" class="headerlink" title="如何通过虚拟卡升级Chat-GPT4.0 plus"></a>如何通过虚拟卡升级Chat-GPT4.0 plus</h1><p>下面，我们将详细介绍如何通过国内虚拟卡升级和使用Chat-GPT4.0 plus。</p>
+<p>选择合适的虚拟卡服务提供商：首先，你需要选择一个可靠的虚拟卡服务提供商。国内许多银行和第三方支付平台都提供虚拟卡服务，如支付宝、微信支付等。选择时，请考虑其安全性、费用、充值和提现的便利性。</p>
+<p>申请并激活虚拟卡：根据所选服务提供商的指引完成虚拟卡的申请。通常，这一过程包括验证身份。申请成功后，你将获得一张具有独立卡号和安全码的虚拟卡。</p>
+<p>充值虚拟卡：通过你的账户或其他支付方式为虚拟卡充值。请注意，充值时可能需要考虑汇率变化和相关手续费。</p>
+<p>使用虚拟卡升级Chat-GPT4.0 plus：登录到Chat-GPT的官方网站，选择升级到4.0 plus的选项，并在支付环节选择信用卡支付方式。输入你的虚拟卡信息进行支付即可完成升级。</p>
+<p>享受Chat-GPT4.0 plus带来的便利：升级成功后，你将能够享受到Chat-GPT4.0 plus更加强大的语言理解和生成能力，无论是进行学术研究、市场分析还是日常娱乐，都将为你带来前所未有的体验。</p>
+<h1 id="使用虚拟卡充值国外应用"><a href="#使用虚拟卡充值国外应用" class="headerlink" title="使用虚拟卡充值国外应用"></a>使用虚拟卡充值国外应用</h1><p>除了升级Chat-GPT4.0 plus，国内虚拟卡还可以用于充值国外的其他应用。这一过程与上述升级Chat-GPT4.0 plus类似，主要区别在于支付时选择的应用平台不同。例如，如果你想要充值onlyfans，只需登录onlyfans的官方网站，选择需要的服务或订阅，然后在支付选项中使用你的虚拟卡信息进行支付即可。</p>
+<p>虚拟卡可以用这个平台： <a href="https://bewildcard.com/i/UPGPT">wildcard</a></p>
+<p>需要新手直接升级的GPT4.0的教程可以看这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">openssora.com&#x2F;upgrade-chatgpt-to-plus</a></p>
+<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>通过上述方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以扩展到国外其他应用的充值，极大地丰富了国内用户的选择和便利。虚拟卡作为一种安全、便捷的支付工具，在今后的数字化生活中将发挥越来越重要的作用。希望本文能帮助到有需要的读者，让我们一起拥抱技术，享受未来。</p>
+<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
+      <tags>
+        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>国内最新3分钟快速升级ChatGPT4.0 Plus的方法【适合小白】</title>
     <url>/upgrade-chatgpt/</url>
     <content><![CDATA[<p>前段时间，注册了Chat GPT的账号，现在账号注册直接用邮箱注册即可，都不需要用手机号码接验证码什么的。方便好多，于是注册了个账号试试官网的Chat GPT的效果。</p>
@@ -873,27 +970,6 @@
 </ul>
 <h1 id="三、额外的惊喜"><a href="#三、额外的惊喜" class="headerlink" title="三、额外的惊喜"></a><strong>三、额外的惊喜</strong></h1><p>这个虚拟卡还可以充值其他国外的东西，比如only fans，你懂的吧</p>
 <p>其他升级教程可以看这个：<a href="https://openssora.com/onlyfans-tech/">通过wildcard订阅only fans教程</a></p>
-<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
-      <tags>
-        <tag>ChatGPT4.0 Plus 最新升级方法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024年如何通过虚拟卡升级Chat-GPT4.0 plus</title>
-    <url>/upgrade-chatgpt-wildcard/</url>
-    <content><![CDATA[<p>在今天这个信息爆炸的时代，掌握先进的技术和工具已成为提升个人和企业竞争力的重要手段。人工智能技术的飞速发展，尤其是OpenAI推出的Chat-GPT系列，已经引起了全球范围内的广泛关注。Chat-GPT4.0 plus作为这一系列中的最新成员，以其更加强大的语言理解和生成能力，成为了许多用户追求的目标。然而，对于国内用户来说，直接访问并使用Chat-GPT4.0 plus可能会遇到一些困难。本文旨在提供一个简单的解决方案——通过开通国内虚拟卡的方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以为国外的其他应用充值，比如onlyfans等。<br>一键升级的教程可以参考这个教程：<a href="https://openssora.com/upgrade-chatgpt/">3分钟快速升级ChatGPT4.0 Plus教程</a></p>
-<span id="more"></span>
-<h1 id="虚拟卡简介"><a href="#虚拟卡简介" class="headerlink" title="虚拟卡简介"></a>虚拟卡简介</h1><p>在深入了解如何通过虚拟卡升级Chat-GPT4.0 plus之前，让我们先来了解一下什么是虚拟卡。虚拟卡，顾名思义，是一种不以实体形式存在的银行卡。它具有与实体银行卡相同的功能，包括一个卡号、有效期和安全码。用户可以通过国内的银行或者第三方支付平台申请虚拟卡，并将其绑定到自己的账户上。使用虚拟卡的好处在于，它可以提供一个额外的安全层次，因为它是独立于用户的主要银行账户的，且可以随时生成和销毁，大大减少了在线交易的风险。</p>
-<h1 id="如何通过虚拟卡升级Chat-GPT4-0-plus"><a href="#如何通过虚拟卡升级Chat-GPT4-0-plus" class="headerlink" title="如何通过虚拟卡升级Chat-GPT4.0 plus"></a>如何通过虚拟卡升级Chat-GPT4.0 plus</h1><p>下面，我们将详细介绍如何通过国内虚拟卡升级和使用Chat-GPT4.0 plus。</p>
-<p>选择合适的虚拟卡服务提供商：首先，你需要选择一个可靠的虚拟卡服务提供商。国内许多银行和第三方支付平台都提供虚拟卡服务，如支付宝、微信支付等。选择时，请考虑其安全性、费用、充值和提现的便利性。</p>
-<p>申请并激活虚拟卡：根据所选服务提供商的指引完成虚拟卡的申请。通常，这一过程包括验证身份。申请成功后，你将获得一张具有独立卡号和安全码的虚拟卡。</p>
-<p>充值虚拟卡：通过你的账户或其他支付方式为虚拟卡充值。请注意，充值时可能需要考虑汇率变化和相关手续费。</p>
-<p>使用虚拟卡升级Chat-GPT4.0 plus：登录到Chat-GPT的官方网站，选择升级到4.0 plus的选项，并在支付环节选择信用卡支付方式。输入你的虚拟卡信息进行支付即可完成升级。</p>
-<p>享受Chat-GPT4.0 plus带来的便利：升级成功后，你将能够享受到Chat-GPT4.0 plus更加强大的语言理解和生成能力，无论是进行学术研究、市场分析还是日常娱乐，都将为你带来前所未有的体验。</p>
-<h1 id="使用虚拟卡充值国外应用"><a href="#使用虚拟卡充值国外应用" class="headerlink" title="使用虚拟卡充值国外应用"></a>使用虚拟卡充值国外应用</h1><p>除了升级Chat-GPT4.0 plus，国内虚拟卡还可以用于充值国外的其他应用。这一过程与上述升级Chat-GPT4.0 plus类似，主要区别在于支付时选择的应用平台不同。例如，如果你想要充值onlyfans，只需登录onlyfans的官方网站，选择需要的服务或订阅，然后在支付选项中使用你的虚拟卡信息进行支付即可。</p>
-<p>虚拟卡可以用这个平台： <a href="https://bewildcard.com/i/UPGPT">wildcard</a></p>
-<p>需要新手直接升级的GPT4.0的教程可以看这个：<a href="https://openssora.com/upgrade-chatgpt-to-plus/">openssora.com&#x2F;upgrade-chatgpt-to-plus</a></p>
-<h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>通过上述方法，不仅可以轻松升级和使用Chat-GPT4.0 plus，还可以扩展到国外其他应用的充值，极大地丰富了国内用户的选择和便利。虚拟卡作为一种安全、便捷的支付工具，在今后的数字化生活中将发挥越来越重要的作用。希望本文能帮助到有需要的读者，让我们一起拥抱技术，享受未来。</p>
 <h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
       <tags>
         <tag>ChatGPT4.0 Plus 最新升级方法</tag>
