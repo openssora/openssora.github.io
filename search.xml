@@ -208,7 +208,7 @@
 <p>2、另外请遵守平台规范，确保自己发布的内容合规，避免涉及政治、暴力、色情等敏感话题，降低被封禁的风险。</p>
 <h2 id="一、申诉步骤："><a href="#一、申诉步骤：" class="headerlink" title="一、申诉步骤："></a><strong>一、申诉步骤：</strong></h2><p>1、如果你的号确实非常重要，里面有很重要的信息和数据，而且你认为账号是误封，你可以向平台发起申诉</p>
 <p>2、申诉的途径是向OpenAI官方发送邮件（<strong>记住不要用国内的邮箱发送比如QQ、163邮箱等，最好是你ChatGPT登录的邮箱来发送邮件</strong>）</p>
-<p>3、邮件地址是<strong><a href="mailto:&#115;&#117;&#x70;&#112;&#x6f;&#x72;&#x74;&#64;&#x6f;&#x70;&#101;&#110;&#97;&#x69;&#46;&#99;&#111;&#x6d;">&#115;&#117;&#x70;&#112;&#x6f;&#x72;&#x74;&#64;&#x6f;&#x70;&#101;&#110;&#97;&#x69;&#46;&#99;&#111;&#x6d;</a></strong></p>
+<p>3、邮件地址是<strong><a href="mailto:&#x73;&#117;&#112;&#x70;&#111;&#114;&#x74;&#64;&#111;&#x70;&#x65;&#110;&#97;&#105;&#x2e;&#99;&#111;&#x6d;">&#x73;&#117;&#112;&#x70;&#111;&#114;&#x74;&#64;&#111;&#x70;&#x65;&#110;&#97;&#105;&#x2e;&#99;&#111;&#x6d;</a></strong></p>
 <p> 申诉的内容主要是表明你这个号非常珍贵，里面有很多数据对你很重要，账号可能被盗用，然后说明你没有干什么坏事，以后也不会干，希望给予解封，以后一定会遵守平台规则… 具体详细内容就看大家个人发挥了。</p>
 <p><strong>记得一定要用英文来描述，如果发中文可能他们的支持团队压根就不看，因为本来就没对国内开放。</strong></p>
 <p>这里直接给个<strong>英文的参考模板</strong>，请不要千篇一律地直接复制：</p>
@@ -385,6 +385,72 @@
       </tags>
   </entry>
   <entry>
+    <title>(2024教程）ChatGPT、OnlyFans、Claude、Poe、GitHub等信用卡银行卡无法绑定，无法支付等问题解决方法</title>
+    <url>/how-subscribe-chatgpt-onlyfans-claude-poe-github/</url>
+    <content><![CDATA[<h2 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h2><p>相信大家在使用各种海外软件时，都遇到了很多绑定卡问题。之前因为使用 ChatGPT 接触到了一些海外支付问题，所以淋过雨，现在给大家撑伞。下面是Claude 的绑卡流程，<strong>几乎海外服务的绑卡流程都是一致的，参考下方即可</strong>。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-fffc0921facbbe9bc0607e0539a4279e_720w.png" alt="img"></p>
+<p>OnlyFans、Patreon、ChatGPT Plus、Claude Pro、Luma、Poe、Coze、GitHub 等这种订阅性质的网站等不支持中国内地借记卡、信用卡给海外服务支付，可以借助 Fomecard 虚拟卡解决。</p>
+<span id="more"></span>
+
+<h2 id="二、Fomecard-是什么？"><a href="#二、Fomecard-是什么？" class="headerlink" title="二、Fomecard 是什么？"></a>二、Fomecard 是什么？</h2><p>Fomecard 是发行 VISA 和 Master 卡的数字货币钱包，支持 USDT、微信、支付宝充值到 VISA 卡和 Master 卡，使用 Fomecard 可在世界范围内消费，绑定支付宝微信 PayPal 等支付工具，让你直接可用消费 USDT，用 USDT 即可进行日常开销，对于币圈人士，避免 OTC 风险。 <strong>不用担心信息安全，它只是一张虚拟卡！！！</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-1690894698a3da8fbb460a26e9eea7d3_720w.png" alt="img"></p>
+<h2 id="三、FomeCard-的一些使用场景"><a href="#三、FomeCard-的一些使用场景" class="headerlink" title="三、FomeCard 的一些使用场景"></a>三、FomeCard 的一些使用场景</h2><ol>
+<li>FomeCard 的 Master、 Visa 卡支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等。</li>
+<li>支持 Stripe 商户、google play 商店、YouTube premium、Paypal 商户、美区苹果商店、和支持非 3DS 卡的电商网站。</li>
+<li>支持国内苹果官网直接绑卡购买 iPhone 和 Mac，可能会打电话问询，直接说即可。</li>
+<li>428813 卡段支持苹果支付 APPLE PAY 和谷歌 PAY。</li>
+</ol>
+<h2 id="四、注册开通-Fomecard"><a href="#四、注册开通-Fomecard" class="headerlink" title="四、注册开通 Fomecard"></a>四、注册开通 Fomecard</h2><p>首先是<strong>Fomecard 官网地址：</strong><a href="https://chat.fomecard.top/">https://chat.fomecard.top</a></p>
+<p>不需要什么邀请码，直接使用邮箱注册就行。如果你需要注册 fomecard 的话，你可以领取<strong>官方大额优惠卡</strong>，可以直接减免 2 刀。<strong>口令是：GPT（注意，Fomecard礼品卡口令领取后需要 48 小时内使用）</strong></p>
+<p><img src="https://picx.zhimg.com/80/v2-d59f6cdaa99039cd3cc241799bee973f_720w.png" alt="img"></p>
+<p>另外，开卡之前需要充值，你可以<strong>选择 USDT 或者 RMB 支付</strong>。上面的优惠卡，是可以在开卡时，进行一个抵扣的。</p>
+<p><img src="https://pica.zhimg.com/80/v2-9c3aadd531f041599531a088892f3930_720w.png" alt="img"></p>
+<p><strong>卡内的余额在不用的情况下，可以直接提现的。</strong></p>
+<p><img src="https://picx.zhimg.com/80/v2-242f7769c502050227411fc56861648a_720w.png" alt="img"></p>
+<p><strong>！！⚠️ 注意：如果扫码无法支付时，可能是不同网络的原因，可以复制官网链接直接在手机端网页登录后进行充值。或者复制链接打开微信进行扫码支付。</strong></p>
+<p><strong>开卡时，建议选择 534786 卡段，比较通用。</strong></p>
+<ul>
+<li><strong>无需 AVS 验证 无需 3DS</strong></li>
+<li>ChatGPT、Open AI、Midjourney、Onlyfans、Patreon 优选</li>
+<li>支持: FaceBook, Google, Amazon, PayPal, Shopify, Tiktok, Alibaba, AliExpress… Alipay、AppStore、GooglePlay</li>
+<li>特点：支持面广、综合性强、使用流畅、性价比高。</li>
+</ul>
+<p><img src="https://pic1.zhimg.com/80/v2-24d9bd50cd8c976ccc47248c6a9abf44_720w.jpeg" alt="img"></p>
+<p>开完卡之后，就可以得到对应的卡片信息。复制对应的信息，就可以去绑定对应的服务等，比如 ChatGPT、OnlyFans、Poe、Midjourney、Claude Pro 等服务。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-64a75b5777752174c4be99f24d981d8a_720w.jpeg" alt="img"></p>
+<p>另外也有一个叫<strong>FomePay 虚拟卡的跟这个是一样的</strong>，对应官网：<a href="https://chat.fomepay.org/"><strong>https://chat.fomepay.org</strong></a></p>
+<p><strong>（这个的话，充值时间只能是 7:00-23：59）根据个人选择 FomeCard 还是 FomePay</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-c1ae7851d3765e9cc43dbd92dd15037c_720w.png" alt="img"></p>
+<p><img src="https://pica.zhimg.com/80/v2-72328d0674bc3b4b96830a16e6753cf3_720w.png" alt="img"></p>
+<h2 id="六、其他注意事项"><a href="#六、其他注意事项" class="headerlink" title="六、其他注意事项"></a><strong>六、其他注意事项</strong></h2><ol>
+<li>不要向任何人暴露你的卡号，一些地方可以直接使用卡号小额消费，不验证 CVV</li>
+<li>支持 ChatGPT PLUS 会员扣费，需要你的支付环境，IP 要原生 IP，如果不行开无痕模式切换 IP 或者找在线客服</li>
+<li>往 Fomecard 充值，要大于 5U，少于 5U 不到账，到账时间大概 5 分钟~10 分钟</li>
+<li>绑卡时候，国内的应用填自己的国内地址；国外的应用，搜索找个海外的地址。</li>
+<li>无法支付充值时，是因为不同网络的原因，可以复制官网链接在手机上或者微信内登录</li>
+</ol>
+<h2 id="其他教程"><a href="#其他教程" class="headerlink" title="其他教程"></a>其他教程</h2><ol>
+<li><p><a href="https://openssora.com/how-ChatGPT-%E6%B6%88%E6%81%AF%E5%8F%91%E4%B8%8D%E5%87%BA%E5%8E%BB%E4%BA%86/">手把手教你如何解决ChatGPT消息发不出去了，怎么解决GPT消息无法发出的问题|ChatGPT 点击无响应｜ChatGPT无法使用</a></p>
+</li>
+<li><p><a href="https://openssora.com/how-register-gpt5-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7chatgpt5/">（内附详细图文步骤）教你如何解决ChatGPT-5的升级，怎么注册升级GPT-5或者CPT-4的问题教程</a></p>
+</li>
+<li><p><a href="https://openssora.com/how-register-claude3-%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8C%E5%8D%87%E7%BA%A7Cluade3/">最新Claude 3的注册升级教程！解决如何注册升级Cluade3的问题以及防封号经验</a></p>
+</li>
+<li><p><a href="https://openssora.com/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/">openai-账号免费注册教程</a></p>
+</li>
+<li><p><a href="https://openssora.com/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/">openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</a></p>
+</li>
+<li><p><a href="https://openssora.com/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/">openai-api-绑卡及-key-申请教程</a></p>
+</li>
+<li><p><a href="https://openssora.com/how-chatgpt-banned-refund-appeal/">chatgpt被封号了如何申诉和退费（内附详细教程）</a></p>
+</li>
+</ol>
+<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
+      <tags>
+        <tag>FomeCard海外支付解决方法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【保姆级教程】如何订阅OnlyFans？如何在OnlyFans上面支付？OnlyFans虚拟卡订阅教程</title>
     <url>/how-subscribe-to-onlyfans/</url>
     <content><![CDATA[<h2 id="【必看】开通步骤简述"><a href="#【必看】开通步骤简述" class="headerlink" title="【必看】开通步骤简述"></a><strong>【必看】开通步骤简述</strong></h2><p>订阅OnlyFans的步骤<strong>简要总结</strong>如下：</p>
@@ -495,6 +561,38 @@
 ]]></content>
       <tags>
         <tag>ChatGPT4.0 Plus 最新升级方法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>教你如何开启gpt-4o-mini功能，怎么开启gpt-4omini模型（gpt3.5已下线）</title>
+    <url>/how-to-use-gpt-4o-mini/</url>
+    <content><![CDATA[<p>昨天7月18号，OpenAI发布了新的LLM大模型：<strong>gpt-4o mini</strong>。gpt-3.5现在已经取消掉了，用gpt-4o mini代替，且<strong>gpt-4o mini是免费的</strong>。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-c4fa60481d0d20a2120c0a1b358cc82b_1440w.png"></p>
+<blockquote>
+<p>自 2024 年 7 月起，应使用 gpt-4o-mini 代替 gpt-3.5-turbo ，因为它更便宜、功能更强大、多模式且速度同样快。 gpt-3.5-turbo 仍然可以在 API 中使用。</p>
+</blockquote>
+<h2 id="（1）如何开启gpt-4o-mini呢？"><a href="#（1）如何开启gpt-4o-mini呢？" class="headerlink" title="（1）如何开启gpt-4o mini呢？"></a>（1）如何开启gpt-4o mini呢？</h2><span id="more"></span>
+
+<p>如果你是免费用户，还没有升级的情况下，是无法跟付费用户一样的选择。也就是下面这种情况：</p>
+<p><img src="https://pic1.zhimg.com/80/v2-a95622b9a4f2ca0e3047f32b9ed72c04_1440w.webp" alt="img"></p>
+<p>默认选中的是ChatGPT，GPT-3.5已经在web页面上下线了。现在是默认使用gpt-4o，如果需要使用gpt-4o mini的话，有两种方式：</p>
+<h3 id="1-1-在地址上加上-mode-gpt-4o或者-mode-gpt-4o-mini"><a href="#1-1-在地址上加上-mode-gpt-4o或者-mode-gpt-4o-mini" class="headerlink" title="1.1 在地址上加上?mode&#x3D;gpt-4o或者?mode&#x3D;gpt-4o-mini"></a>1.1 在地址上加上?mode&#x3D;gpt-4o或者?mode&#x3D;gpt-4o-mini</h3><p>直接<strong>加上这个query参数，然后按回车</strong>，就可以跟付费用户一样切换到对应的模型。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-557043b9ec406e06272b78954d53ae12_1440w.webp" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/80/v2-4dfb2aa60298ec5b77e169560d6fc13e_1440w.webp" alt="img"></p>
+<h3 id="1-2-在回答的问题上直接切换"><a href="#1-2-在回答的问题上直接切换" class="headerlink" title="1.2 在回答的问题上直接切换"></a>1.2 在回答的问题上直接切换</h3><p>另一个方法，就是你在问问题时，默认使用了gpt-4o模型的，你只需要在<strong>回答的下方直接切换</strong>你想要的模型。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-722af149bffbc1f94ad0f2d8f6991480_1440w.webp" alt="img"></p>
+<p>对于ChatGPT Plus 付费用户，就可以直接在自己的模型上进行一个切换：</p>
+<p><img src="https://pic1.zhimg.com/80/v2-290cc2ae35e6d51183e22cfdccd794d8_1440w.webp" alt="img"></p>
+<p><strong>另外，如果你想要升级ChatGPT Plus用户时，可以参考下方的教程，可以解决你海外一切需要绑卡支付的问题</strong>。</p>
+<h2 id="其他教程"><a href="#其他教程" class="headerlink" title="其他教程"></a>其他教程</h2><ol>
+<li><a href="https://upchatgpt.cn/">如何升级ChatGPT Plus，怎么升级ChatGPT Plus（内附详细图文教程）</a></li>
+<li><a href="https://upchatgpt.cn/%E5%9B%BD%E5%86%85claude3%E5%8D%87%E7%BA%A7%E4%B8%8E%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/">最新Claude 3的注册升级教程！解决如何注册升级Cluade3的问题以及防封号经验</a></li>
+<li><a href="https://upchatgpt.cn/%E3%80%902024%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B%E3%80%91chatgpt%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7open-api%E5%92%8C%E7%BB%91%E5%AE%9Aapikey%E6%95%99%E7%A8%8B/">openai-账号免费注册教程</a></li>
+<li><a href="https://upchatgpt.cn/openai-your-card-has-been-declined">openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</a></li>
+</ol>
+<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
+      <tags>
+        <tag>ChatGPT问题集</tag>
       </tags>
   </entry>
   <entry>
