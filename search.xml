@@ -1395,4 +1395,27 @@
         <tag>美区-apple-id-注册和绑卡教程</tag>
       </tags>
   </entry>
+  <entry>
+    <title>chatgpt-502-badgateway</title>
+    <url>/chatgpt-502-badgateway/</url>
+    <content><![CDATA[<p>今天用chatgpt，用到一半，挂了。去status看了一下，错误大量上升中。几乎炸了，大家访问直接都bad gateway了。放心，当前chatgpt的502 bad gateway是因为官网挂了，不是账号封了。</p>
+<p><strong>Investigating</strong>-We are currently investigating elevated error rates on ChatGPT.</p>
+<p><img src="https://picx.zhimg.com/80/v2-ed9f2fb52961f15e57aab2b0ce16dc80_720w.png" alt="img"></p>
+<p>也就你一登录，就会出现下面这个Bad gateway的画面，放心，不是封了，而且官方挂了，正在调查中。希望明天起来就恢复吧，现在很多东西都用到ChatGPT了。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-70ba0acb35aa70d1d221024679df5a46_720w.png" alt="img"></p>
+<p>另外，最近fomepay跑路了，大家使用过的，记得避坑哦！记得检查和消费掉余额吧！</p>
+<p><strong>有些朋友还需要订阅和升级ChatGPT或者海外服务的话，可以参考这个平替方案，比较稳定：</strong></p>
+<p><a href="https://openssora.com/how-subscribe-chatgpt-onlyfans-claude-poe-github/">https://openssora.com/how-subscribe-chatgpt-onlyfans-claude-poe-github/</a></p>
+<span id="more"></span>
+
+<h2 id="如何升级订阅"><a href="#如何升级订阅" class="headerlink" title="如何升级订阅"></a>如何升级订阅</h2><p>对于订阅升级海外服务，国内用户都会面临无法绑卡和无法支付的情况。因为海外软件需要<strong>visa、master 这类国际银行卡</strong>。正常国内用户没有办理这类型的卡。</p>
+<p><strong>对于国内用户，最流行和常见的就是使用虚拟卡进行订阅海外服务</strong>。</p>
+<p><strong>（别用 fomepay 和 fomecard 这些国外的虚拟卡服务，容易跑路）相对来说，wildcard 是国内的一个虚拟卡，比较稳定，安全。</strong></p>
+<p>也可以参考部分博主的教程：<strong>使用 wildcard 进行订阅</strong>：<a href="https://wildcard.com.cn/i/UPGPT">https://wildcard.com.cn/i/UPGPT</a></p>
+<p><img src="https://pic1.zhimg.com/80/v2-de00eb1fddc289fb6c904084dfc8f92d_720w.jpg" alt="img"></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT问题汇总</tag>
+      </tags>
+  </entry>
 </search>
