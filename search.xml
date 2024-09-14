@@ -272,7 +272,7 @@
 <p>2、另外请遵守平台规范，确保自己发布的内容合规，避免涉及政治、暴力、色情等敏感话题，降低被封禁的风险。</p>
 <h2 id="一、申诉步骤："><a href="#一、申诉步骤：" class="headerlink" title="一、申诉步骤："></a><strong>一、申诉步骤：</strong></h2><p>1、如果你的号确实非常重要，里面有很重要的信息和数据，而且你认为账号是误封，你可以向平台发起申诉</p>
 <p>2、申诉的途径是向OpenAI官方发送邮件（<strong>记住不要用国内的邮箱发送比如QQ、163邮箱等，最好是你ChatGPT登录的邮箱来发送邮件</strong>）</p>
-<p>3、邮件地址是<strong><a href="mailto:&#x73;&#x75;&#x70;&#x70;&#x6f;&#x72;&#116;&#x40;&#111;&#112;&#x65;&#110;&#x61;&#105;&#46;&#99;&#x6f;&#x6d;">&#x73;&#x75;&#x70;&#x70;&#x6f;&#x72;&#116;&#x40;&#111;&#112;&#x65;&#110;&#x61;&#105;&#46;&#99;&#x6f;&#x6d;</a></strong></p>
+<p>3、邮件地址是<strong><a href="mailto:&#x73;&#117;&#x70;&#x70;&#111;&#x72;&#x74;&#x40;&#111;&#112;&#x65;&#x6e;&#x61;&#105;&#x2e;&#x63;&#111;&#109;">&#x73;&#117;&#x70;&#x70;&#111;&#x72;&#x74;&#x40;&#111;&#112;&#x65;&#x6e;&#x61;&#105;&#x2e;&#x63;&#111;&#109;</a></strong></p>
 <p> 申诉的内容主要是表明你这个号非常珍贵，里面有很多数据对你很重要，账号可能被盗用，然后说明你没有干什么坏事，以后也不会干，希望给予解封，以后一定会遵守平台规则… 具体详细内容就看大家个人发挥了。</p>
 <p><strong>记得一定要用英文来描述，如果发中文可能他们的支持团队压根就不看，因为本来就没对国内开放。</strong></p>
 <p>这里直接给个<strong>英文的参考模板</strong>，请不要千篇一律地直接复制：</p>
@@ -328,6 +328,62 @@
 <h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
       <tags>
         <tag>ChatGPT问题集</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>(最新教程)教你如何开启访问使用OpenAI o1模型，o1预览版和o1-mini，升级ChatGPT Plus 会员</title>
+    <url>/how-open-o1-use-o1-preview-o1-mini-gptplus/</url>
+    <content><![CDATA[<h2 id="如何访问使用OpenAI-o1-模型"><a href="#如何访问使用OpenAI-o1-模型" class="headerlink" title="如何访问使用OpenAI o1 模型"></a>如何访问使用OpenAI o1 模型</h2><p>目前，o1模型已经逐步向所有ChatGPT Plus和 Team用户开放，未来会考虑对免费用户开放。</p>
+<p>分为两个模型，<strong>o1预览版</strong> 和 <strong>o1 mini</strong>，o1-mini就是更快更小更便宜，推理啥的都不错，极度适合数学和代码，就是世界知识会差很多，适用于需要推理但不需要广泛世界知识的场景。</p>
+<p><img src="https://pica.zhimg.com/80/v2-c5d1aab2306af6d3d68909bbae699190_1440w.webp" alt="img"></p>
+<p><strong>o1预览版使用限制30条&#x2F;每周，o1-mini的50条&#x2F;每周。</strong></p>
+<span id="more"></span>
+
+<p>从次数的限制来看，o1的成本比GPT-4o贵了整整N倍，GPT-4o是80条&#x2F;3小时。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-987c3cdfd47476e23f2c47342a470b48_1440w.webp" alt="img"></p>
+<p><strong>对于个人用户</strong>，访问使用的话，直接在右上角切换模型就行，但是o1只给ChatGPT Plus会员推送。</p>
+<blockquote>
+<p><strong>如果你不知道怎么升级订阅ChatGPT Plus 会员的话，可以参考教程：</strong> <a href="https://upchatgpt.cn/how-upgrade-chatgpt-plus/">https://upchatgpt.cn/how-upgrade-chatgpt-plus/</a></p>
+</blockquote>
+<blockquote>
+<p>或者自己<strong>开通一张虚拟卡进行升级ChatGPT Plus</strong>也行，使用<strong>wildcard虚拟卡</strong>就可以：<a href="https://wildcard.com.cn/i/UPGPT">https://wildcard.com.cn/i/UPGPT</a></p>
+</blockquote>
+<p>你也可以直接在url上拼接o1模型：</p>
+<p><img src="https://picx.zhimg.com/80/v2-c6504cd03a475be216cb3ef10f3b4683_1440w.webp" alt="img"></p>
+<p><strong>对于开发者的话</strong>，只给 <strong>5级 API 用户</strong>推出 o1-mini，价格比 OpenAI o1-preview 便宜 80%。 ChatGPT Plus、Team、Enterprise 和 Edu 用户可以使用 o1-mini 作为 o1-preview 的替代品，具有更高的速率限制和更低的延迟。</p>
+<p>关于API等级的说明：</p>
+<p><img src="https://pica.zhimg.com/80/v2-877bf7df31f8a2dd4d26a2f1fa8041aa_1440w.webp" alt="img"></p>
+<p>5级 API 用户,也就是说要消费到1000刀才能满足！</p>
+<p><strong>o1-preview和o1-mini的区别：</strong></p>
+<ul>
+<li><strong>o1-preview:</strong> 旨在解决跨领域难题的推理模型</li>
+<li><strong>o1-mini:</strong> 更快、更便宜的推理模型，特别擅长编码、数学和科学。</li>
+</ul>
+<p>模型的训练日期截止，和模型的上下文支持长度：</p>
+<p><img src="https://pica.zhimg.com/80/v2-5a7503d08d866544ebc32ea772f0d8b8_1440w.webp" alt="img"></p>
+<h2 id="如何使用支付宝升级订阅ChatGPT-Plus-会员"><a href="#如何使用支付宝升级订阅ChatGPT-Plus-会员" class="headerlink" title="如何使用支付宝升级订阅ChatGPT Plus 会员"></a>如何使用支付宝升级订阅ChatGPT Plus 会员</h2><p>（1）首先进入wildcard虚拟卡官网之后，选择 <strong>『立即开通』</strong>，这个才是虚拟卡，旁边的是套壳服务，有兴趣的可以体验。</p>
+<p><img src="https://picx.zhimg.com/80/v2-0eba30c808e1aa1b9b0ad9d4c712890c_720w.png" alt="img"></p>
+<p>（2）选择 『立即开通』 之后，就可以跳到 『我的卡片』 页面，进行开通虚拟卡就行，选择2年的就可以。 输入邀请码 <strong>UPGPT</strong> 是可以优惠开卡的，有很多朋友不知道这个邀请码，所以比较贵了！</p>
+<p><img src="https://picx.zhimg.com/80/v2-96b806d80a86c09cfeae701c8963bcd6_720w.png" alt="img"></p>
+<p>支付时，是使用支付宝的方式，同时需要你实名开卡，这也是避免其他坏人用来xi钱！</p>
+<p>（3）开完虚拟卡之后，就会得到跟下面一样的卡片，这个卡片就可以用来绑定海外的服务进行支付。</p>
+<p><img src="https://picx.zhimg.com/80/v2-f3e4e131e0dfaede60b6bc064414bde5_720w.png" alt="img"></p>
+<p>（4）有了卡片之后，就可以使用『支付服务』了，选择自己需要支付的服务，然后点击下一步，下一步其实就是往你的虚拟卡上充值金额。</p>
+<p><img src="https://picx.zhimg.com/80/v2-500945a529d2780e104a266495367011_720w.png" alt="img"></p>
+<p>（5）比如升级ChatGPT需要20刀，那就充20刀，不过建议充值21刀，因为部分服务绑定虚拟卡时是需要扣除0.01刀费用，然后再退回的。</p>
+<p><img src="https://picx.zhimg.com/80/v2-ffcb5fc782c76cabdfa8c32cb71dbe43_720w.webp" alt="img"></p>
+<p>（6）充值之后，就可以拿卡片的信息，到海外的服务进行进行绑卡消费啦！如果还不知道怎么操作，可以联系客服！</p>
+<p><img src="https://pica.zhimg.com/80/v2-65ea8e0b9dd9ae5360df0d95fbe24b1b_720w.webp" alt="img"></p>
+<p>「另外，卡片余额可以直接秒提现到支付宝！」</p>
+<h2 id="参考文献："><a href="#参考文献：" class="headerlink" title="参考文献："></a>参考文献：</h2><ol>
+<li><a href="https://openssora.com/how-subscribe-chatgpt-onlyfans-claude-poe-github/">https://openssora.com/how-subscribe-chatgpt-onlyfans-claude-poe-github/</a></li>
+<li><a href="https://upchatgpt.cn/what-is-wildcard/">wildcard 虚拟信用卡是什么？wildCard 靠谱吗？Wildcard 如何使用？</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>ChatGPT最新升级方法</tag>
+        <tag>OpenAI</tag>
+        <tag>OpenAI o1</tag>
       </tags>
   </entry>
   <entry>
@@ -998,6 +1054,34 @@
       </tags>
   </entry>
   <entry>
+    <title>国内最新 ChatGPT Plus 升级订阅教程</title>
+    <url>/subscribe-to-chatgpt-plus/</url>
+    <content><![CDATA[<p>ChatGPT Plus 订阅教程</p>
+<h1 id="1-登录-chat-openai-com"><a href="#1-登录-chat-openai-com" class="headerlink" title="1. 登录 chat.openai.com"></a>1. 登录 chat.openai.com</h1><p>依次点击 Login ，输入邮箱和密码</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png"><img src="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png" alt="img"></a></p>
+<span id="more"></span>
+
+<p><a href="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png"><img src="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png" alt="img"></a></p>
+<h1 id="2-点击升级-Upgrade"><a href="#2-点击升级-Upgrade" class="headerlink" title="2. 点击升级 Upgrade"></a>2. 点击升级 Upgrade</h1><p>登录自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan。</p>
+<p>如果升级入口无法点击，那就访问这个网址，<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
+<p>进入支付页面。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png"><img src="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png"><img src="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png" alt="img"></a></p>
+<h1 id="3-复制支付页面网址"><a href="#3-复制支付页面网址" class="headerlink" title="3. 复制支付页面网址"></a>3. 复制支付页面网址</h1><p>在支付页面，复制现在的付款页网址 URL，这一段 <strong>pay.openai.com</strong> 开头的全部网址，进入我们「一键升级 ChatGPT Plus」页面，提交就可以了。请<strong>不要在支付页面填写任何信息</strong>，如果填写过，请返回上一步，重新进入这个页面再复制网址。<br>​</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png"><img src="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png" alt="img"></a></p>
+<h1 id="4-使用-WildCard-一键升级-ChatGPT-Plus"><a href="#4-使用-WildCard-一键升级-ChatGPT-Plus" class="headerlink" title="4. 使用 WildCard 一键升级 ChatGPT Plus"></a>4. <a href="https://wildcard.com.cn/i/UPGPT">使用 WildCard 一键升级 ChatGPT Plus</a></h1><p><a href="https://wildcard.com.cn/i/UPGPT">登录 wildcard， 点击一键升级</a>: <a href="https://wildcard.com.cn/i/UPGPT">https://wildcard.com.cn/i/UPGPT</a>。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png"><img src="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png" alt="img"></a></p>
+<p>在输入框，粘贴刚刚复制的支付页面的网址，然后点击确定支付并升级。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png"><img src="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png" alt="img"></a></p>
+<p><a href="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png"><img src="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png" alt="img"></a></p>
+<p> 然后按步骤选择要支付的卡片，一路走下去就可以了。</p>
+<p><a href="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png"><img src="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png" alt="img"></a></p>
+<p>wildcard平台，通过这个链接<a href="https://wildcard.com.cn/i/UPGPT">https://wildcard.com.cn/i/UPGPT</a> 进入可以减免2美元的开卡费～ 需要邀请码的话，也可以填写官方字段： <strong>UPGPT</strong></p>
+<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />
+
+]]></content>
+  </entry>
+  <entry>
     <title>国内订阅 Midjourney 教程</title>
     <url>/subscribe-to-midjourney/</url>
     <content><![CDATA[<p>订阅 Midjourney教程</p>
@@ -1028,34 +1112,6 @@
       <tags>
         <tag>Midjourney订阅教程</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>国内最新 ChatGPT Plus 升级订阅教程</title>
-    <url>/subscribe-to-chatgpt-plus/</url>
-    <content><![CDATA[<p>ChatGPT Plus 订阅教程</p>
-<h1 id="1-登录-chat-openai-com"><a href="#1-登录-chat-openai-com" class="headerlink" title="1. 登录 chat.openai.com"></a>1. 登录 chat.openai.com</h1><p>依次点击 Login ，输入邮箱和密码</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png"><img src="https://downloads.intercomcdn.com/i/o/882689608/f9b0e79bd6f40c4155dd1372/screenshot-20231114-031039.png" alt="img"></a></p>
-<span id="more"></span>
-
-<p><a href="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png"><img src="https://downloads.intercomcdn.com/i/o/882690117/9fdb15158ea20d84ecaf4cbf/screenshot-20231114-031206.png" alt="img"></a></p>
-<h1 id="2-点击升级-Upgrade"><a href="#2-点击升级-Upgrade" class="headerlink" title="2. 点击升级 Upgrade"></a>2. 点击升级 Upgrade</h1><p>登录自己的 OpenAI 帐户后，点击左下角的 Upgrade to Plus，在弹窗中选择 Upgrade plan。</p>
-<p>如果升级入口无法点击，那就访问这个网址，<a href="https://chat.openai.com/invite/accepted">https://chat.openai.com/invite/accepted</a></p>
-<p>进入支付页面。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png"><img src="https://downloads.intercomcdn.com/i/o/882690490/52a458c4246f079d04f47ce9/screenshot-20231114-020527.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png"><img src="https://downloads.intercomcdn.com/i/o/882690668/71e8f284cdec403d9b648dfa/screenshot-20231114-020555.png" alt="img"></a></p>
-<h1 id="3-复制支付页面网址"><a href="#3-复制支付页面网址" class="headerlink" title="3. 复制支付页面网址"></a>3. 复制支付页面网址</h1><p>在支付页面，复制现在的付款页网址 URL，这一段 <strong>pay.openai.com</strong> 开头的全部网址，进入我们「一键升级 ChatGPT Plus」页面，提交就可以了。请<strong>不要在支付页面填写任何信息</strong>，如果填写过，请返回上一步，重新进入这个页面再复制网址。<br>​</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png"><img src="https://downloads.intercomcdn.com/i/o/882694545/682b7cf473d2f88fa949a059/screenshot-20231114-031835.png" alt="img"></a></p>
-<h1 id="4-使用-WildCard-一键升级-ChatGPT-Plus"><a href="#4-使用-WildCard-一键升级-ChatGPT-Plus" class="headerlink" title="4. 使用 WildCard 一键升级 ChatGPT Plus"></a>4. <a href="https://wildcard.com.cn/i/UPGPT">使用 WildCard 一键升级 ChatGPT Plus</a></h1><p><a href="https://wildcard.com.cn/i/UPGPT">登录 wildcard， 点击一键升级</a>: <a href="https://wildcard.com.cn/i/UPGPT">https://wildcard.com.cn/i/UPGPT</a>。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png"><img src="https://downloads.intercomcdn.com/i/o/958252875/12b5da7fc4528a2f174fb8ac/screenshot-20240209-181355.png" alt="img"></a></p>
-<p>在输入框，粘贴刚刚复制的支付页面的网址，然后点击确定支付并升级。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png"><img src="https://downloads.intercomcdn.com/i/o/908576464/5c864dbd36f8e9aa9458fec1/screenshot-20231213-235500.png" alt="img"></a></p>
-<p><a href="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png"><img src="https://downloads.intercomcdn.com/i/o/908579831/8b295e393122050c299ee8e5/screenshot-20231213-235852.png" alt="img"></a></p>
-<p> 然后按步骤选择要支付的卡片，一路走下去就可以了。</p>
-<p><a href="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png"><img src="https://downloads.intercomcdn.com/i/o/908581280/9e9df1ca5c0d17f6e2edd117/screenshot-20231213-235946.png" alt="img"></a></p>
-<p>wildcard平台，通过这个链接<a href="https://wildcard.com.cn/i/UPGPT">https://wildcard.com.cn/i/UPGPT</a> 进入可以减免2美元的开卡费～ 需要邀请码的话，也可以填写官方字段： <strong>UPGPT</strong></p>
-<h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />
-
-]]></content>
   </entry>
   <entry>
     <title>浅谈Sora技术原理分析，影响和未来趋势</title>
