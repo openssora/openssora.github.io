@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?48381b83f8fd4009dc0d8ca22d532c58";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+  <meta charset="utf-8">
+  
+  
+  <title>（小白教程）怎么解决Azure封禁OpenAI Service API服务调用出现了Forbidden 403的问题 | 注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="最近很多使用Azure的OpenAI Service API服务调用出现了Forbidden，原因是Azure封禁了大陆个人开发者调用了。在上个月，很多个人开发者已经收到了 Azure的邮件通知，该邮件信息如下：  Your Azure OpenAI Service will be terminated on 21 October 2024  也就是将要封禁大陆的API调用，时间是2024&amp;#x2">
+<meta property="og:type" content="article">
+<meta property="og:title" content="（小白教程）怎么解决Azure封禁OpenAI Service API服务调用出现了Forbidden 403的问题">
+<meta property="og:url" content="https://openssora.com/how-reslove-Azure-banned-OpenAI-Service/index.html">
+<meta property="og:site_name" content="注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网">
+<meta property="og:description" content="最近很多使用Azure的OpenAI Service API服务调用出现了Forbidden，原因是Azure封禁了大陆个人开发者调用了。在上个月，很多个人开发者已经收到了 Azure的邮件通知，该邮件信息如下：  Your Azure OpenAI Service will be terminated on 21 October 2024  也就是将要封禁大陆的API调用，时间是2024&amp;#x2">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://picx.zhimg.com/80/v2-7cbf026231e586f252ad2074e72d3aff_1440w.webp">
+<meta property="og:image" content="https://picx.zhimg.com/80/v2-2365fecf05cd444a68059ed3316f3893_1440w.webp">
+<meta property="og:image" content="https://pica.zhimg.com/80/v2-1df4c85cceae7714ba37f757de4f9c1c_1440w.webp">
+<meta property="og:image" content="https://pic3.zhimg.com/80/v2-5a1ed34f1e46eb3ccb46ba5d02d25946_1440w.webp">
+<meta property="article:published_time" content="2024-11-11T03:18:14.000Z">
+<meta property="article:modified_time" content="2024-11-11T03:31:48.272Z">
+<meta property="article:author" content="周星星">
+<meta property="article:tag" content="OpenAI API">
+<meta property="article:tag" content="Azure">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://picx.zhimg.com/80/v2-7cbf026231e586f252ad2074e72d3aff_1440w.webp">
+  
+    <link rel="alternate" href="/atom.xml" title="注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/image/favicon.ico">
+  
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<meta name="generator" content="Hexo 7.1.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">我爱算法，拥抱AI</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"><span class="fa fa-bars"></span></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+          <a class="main-nav-link" href="/links">友链</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+        
+          <a class="nav-icon" href="/atom.xml" title="RSS 订阅"><span class="fa fa-rss"></span></a>
+        
+        <a class="nav-icon nav-search-btn" title="搜索"><span class="fa fa-search"></span></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://openssora.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main"><article id="post-how-reslove-Azure-banned-OpenAI-Service" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/how-reslove-Azure-banned-OpenAI-Service/" class="article-date">
+  <time class="dt-published" datetime="2024-11-11T03:18:14.000Z" itemprop="datePublished">2024-11-11</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86%E5%90%88/">ChatGPT问题集合</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      （小白教程）怎么解决Azure封禁OpenAI Service API服务调用出现了Forbidden 403的问题
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p>最近很多使用Azure的OpenAI Service API服务调用出现了Forbidden，原因是Azure封禁了大陆个人开发者调用了。在上个月，很多个人开发者已经收到了 Azure的邮件通知，该邮件信息如下：</p>
+<blockquote>
+<p>Your Azure OpenAI Service will be terminated on 21 October 2024</p>
+</blockquote>
+<p>也就是将要封禁大陆的API调用，时间是2024&#x2F;10&#x2F;21. 但是没有立即封禁，大部分开发者都是在月底才开始被停止调用。停止后，如果调用Open API 时，会有类似下面这个错误：</p>
+<blockquote>
+<p>403: {“error”:{“code”:”Forbidden”,”message”:”Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit <a target="_blank" rel="noopener" href="https://aka.ms/aoaicodeofconduct%22%7D%7D">https://aka.ms/aoaicodeofconduct&quot;}}</a></p>
+</blockquote>
+<h2 id="那么如何解决-Azure-封禁-OpenAI-服务调用的问题呢？"><a href="#那么如何解决-Azure-封禁-OpenAI-服务调用的问题呢？" class="headerlink" title="那么如何解决 Azure 封禁 OpenAI 服务调用的问题呢？"></a>那么如何解决 Azure 封禁 OpenAI 服务调用的问题呢？</h2><p>首先，可以找平替方案，其次就是针对Azure使用不同的认证。</p>
+<p>平替方案可以用这些：<code>openrouter、wildcard、chatgpt to api</code>这几种方式。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>openrouter官网：<a target="_blank" rel="noopener" href="https://openrouter.ai/">https://openrouter.ai/</a></p>
+</blockquote>
+<p>什么是openrouter，你看官方的域名定义应该就可以明白其含义。它就是一个提供多个LLM大模型API的网站，支持OpenAI Service(包括GPT-4o API、Anthropic(Claude3、instant)、LLama2 和PaLM Bison 等等模型)。LLMs的统一开放接口。</p>
+<p><img src="https://picx.zhimg.com/80/v2-7cbf026231e586f252ad2074e72d3aff_1440w.webp"></p>
+<blockquote>
+<p>wildcard官网：<a target="_blank" rel="noopener" href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
+</blockquote>
+<p>wildcard其实是一家虚拟卡商，解决国内需要海外支付问题的，比如GPT4、Claude3、Cursor等订阅。比如上面的openrouter的订阅，可能也需要用到它。</p>
+<p>对于有需要升级OpenAI官方的GPT4 Plus之类的，也可以参考这篇比较详细的教程：<a target="_blank" rel="noopener" href="https://upchatgpt.cn/how-upgrade-chatgpt-plus/">https://upchatgpt.cn/how-upgrade-chatgpt-plus/</a></p>
+<p><img src="https://picx.zhimg.com/80/v2-2365fecf05cd444a68059ed3316f3893_1440w.webp"></p>
+<p>另外就是它也提供了OpenAI 和 Claude API等调用服务。直接申请就可以使用，优势就是国内开发者可以直接调用API服务。<br><img src="https://pica.zhimg.com/80/v2-1df4c85cceae7714ba37f757de4f9c1c_1440w.webp"></p>
+<blockquote>
+<p>chatgpt-to-api是一种特殊方案，因为是chatgpt和claude都是有web版本，也就是网页版，那么就可以实现这些转换成API的方式。</p>
+</blockquote>
+<p>具体的实现，需要在github上找一个适合你语言的开源库就行了。不仅有chatgpt-to-api，也有claude-to-api。<br><img src="https://pic3.zhimg.com/80/v2-5a1ed34f1e46eb3ccb46ba5d02d25946_1440w.webp"></p>
+<p>参考内容：[如何解决Azure封禁OpenAI Service API服务调用的Forbidden问题](<a target="_blank" rel="noopener" href="https://chatgpi/">https://chatgpi</a><br>.cn&#x2F;how-reslove-Azure-OpenAI-Service-Forbidden&#x2F;)</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://openssora.com/how-reslove-Azure-banned-OpenAI-Service/" data-id="cm3chcucm0001c7yyf2epd6r9" data-title="（小白教程）怎么解决Azure封禁OpenAI Service API服务调用出现了Forbidden 403的问题" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Azure/" rel="tag">Azure</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/OpenAI-API/" rel="tag">OpenAI API</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/how-subscribe-gpt4-plus/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">（最新教程）国内如何使用虚拟卡订阅ChatGPT和OnlyFans、Cursor等服务 2024</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">分类</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT/">ChatGPT</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT/Cursor/">Cursor</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT/Cursor/OnlyFans/">OnlyFans</a></li></ul></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86%E5%90%88/">ChatGPT问题集合</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">标签</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Azure/" rel="tag">Azure</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT/" rel="tag">ChatGPT</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT4-0-Plus-%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT4.0 Plus 最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/" rel="tag">ChatGPT问题汇总</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86/" rel="tag">ChatGPT问题集</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude3%E6%B3%A8%E5%86%8C%E4%B8%8E%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/" rel="tag">Claude3注册与升级教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude%E5%8D%87%E7%BA%A7%E6%B3%A8%E5%86%8C/" rel="tag">Claude升级注册</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor/" rel="tag">Cursor</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor%E5%8D%87%E7%BA%A7/" rel="tag">Cursor升级</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Midjourney%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B/" rel="tag">Midjourney订阅教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans/" rel="tag">OnlyFans</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans%E6%94%AF%E4%BB%98%E6%95%99%E7%A8%8B%E6%9C%80%E6%96%B0%E6%96%B9%E6%B3%95%EF%BC%882024%EF%BC%89/" rel="tag">OnlyFans支付教程最新方法（2024）</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI/" rel="tag">OpenAI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-API/" rel="tag">OpenAI API</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-o1/" rel="tag">OpenAI o1</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Sora%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/" rel="tag">Sora的技术分析</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/" rel="tag">openai-api-绑卡及-key-申请教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/" rel="tag">openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/" rel="tag">openai-账号免费注册教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/wildcard%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/" rel="tag">wildcard海外支付解决方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%BE%8E%E5%8C%BA-apple-id-%E6%B3%A8%E5%86%8C%E5%92%8C%E7%BB%91%E5%8D%A1%E6%95%99%E7%A8%8B/" rel="tag">美区-apple-id-注册和绑卡教程</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">归档</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/11/">十一月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/09/">九月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/08/">八月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/07/">七月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/04/">四月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/03/">三月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/02/">二月 2024</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">最新文章</h3>
+    <div class="widget">
+      <ul>
+        
+        
+          <li>
+            <span>（1）</span>
+            <a href="/how-reslove-Azure-banned-OpenAI-Service/">（小白教程）怎么解决Azure封禁OpenAI Service API服务调用出现了Forbidden 403的问题</a>
+          </li>
+          
+        
+          <li>
+            <span>（2）</span>
+            <a href="/how-subscribe-gpt4-plus/">（最新教程）国内如何使用虚拟卡订阅ChatGPT和OnlyFans、Cursor等服务 2024</a>
+          </li>
+          
+        
+          <li>
+            <span>（3）</span>
+            <a href="/how-open-o1-use-o1-preview-o1-mini-gptplus/">(最新教程)教你如何开启访问使用OpenAI o1模型，o1预览版和o1-mini，升级ChatGPT Plus 会员</a>
+          </li>
+          
+        
+          <li>
+            <span>（4）</span>
+            <a href="/how-register-claude-upgrade-pro/">（最新教程）用支付宝注册Claude账号教程，Claude Pro 如何升级订阅教程</a>
+          </li>
+          
+        
+          <li>
+            <span>（5）</span>
+            <a href="/how-subscribe-cursor-pro-plus/">Cursor Pro Plus如何订阅升级教程，国内使用支付宝订阅Cursor Pro Plus</a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2024 周星星<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+    <a href="/links" class="mobile-nav-link">友链</a>
+  
+</nav>
+    
+
+
+<script src="/js/jquery-3.6.4.min.js"></script>
+
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+
+  </div>
+</body>
+</html>
