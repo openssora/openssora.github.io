@@ -1698,7 +1698,10 @@
 <h2 id="什么是服务降级？"><a href="#什么是服务降级？" class="headerlink" title="什么是服务降级？"></a>什么是服务降级？</h2><p>ChatGPT 官方会对一些被判断为高风险的 ip 降级服务，偷偷将模型切换为 4o-mini 或者更差，并且没有任何提示。就算你充值升级为GPT-4 Plus服务，你可能也无法使用GPT-4o的联网搜索等功能。 </p>
 <h2 id="服务降级有什么影响？"><a href="#服务降级有什么影响？" class="headerlink" title="服务降级有什么影响？"></a>服务降级有什么影响？</h2><p>降级后，即便你是充值升级为GPT-4 Plus的用户，在使用 4o 模型时会发现无法使用联网搜索、图片生成等功能，使用 o1 模型时，会发现模型不进行思考直接回答。</p>
 <h2 id="ChatGPT-服务降级检测工具"><a href="#ChatGPT-服务降级检测工具" class="headerlink" title="ChatGPT 服务降级检测工具"></a>ChatGPT 服务降级检测工具</h2><p>由于 ChatGPT 会对某些 ip 进行无提示的服务降级，此脚本用于检测你的 ip 是否被 ChatGPT 判定为高风险。在一定程度上可以用于辅助判断你的 ip 是否遭到服务降级。</p>
-<p>（1）首先安装 tampermonkey（篡改猴）：<a href="https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo">篡改猴Google扩展</a></p>
+<h3 id="方式一：直接安装Chrome扩展程序（推荐）"><a href="#方式一：直接安装Chrome扩展程序（推荐）" class="headerlink" title="方式一：直接安装Chrome扩展程序（推荐）"></a>方式一：直接安装Chrome扩展程序（推荐）</h3><blockquote>
+<p>ChatGPT Degrade Checker 降智监测工具扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm%3Fauthuser%3D0%26hl%3Dzh-CN">https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN</a></p>
+</blockquote>
+<h3 id="方式二：使用tampermonkey（篡改猴）安装脚本："><a href="#方式二：使用tampermonkey（篡改猴）安装脚本：" class="headerlink" title="方式二：使用tampermonkey（篡改猴）安装脚本："></a>方式二：使用tampermonkey（篡改猴）安装脚本：</h3><p>（1）首先安装 tampermonkey（篡改猴）：<a href="https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo">篡改猴Google扩展</a></p>
 <p><img src="https://pic3.zhimg.com/80/v2-8e4aebeae993fbdd934a0806d11afd42_1440w.webp"></p>
 <p>（2）然后点击链接安装本工具：<a href="https://update.greasyfork.org/scripts/516051/ChatGPT%E9%99%8D%E7%BA%A7%E6%A3%80%E6%B5%8B.user.js">点此安装</a></p>
 <p><img src="https://pic1.zhimg.com/80/v2-addb50d0225038a0c3a3da6bda10625e_1440w.webp"></p>
