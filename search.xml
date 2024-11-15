@@ -1723,4 +1723,61 @@
         <tag>ChatGPT问题集</tag>
       </tags>
   </entry>
+  <entry>
+    <title>如何解决ChatGPT4变笨了、被降智了的方法分享，教你怎么解决ChatGPT降智问题！</title>
+    <url>/how-solve-chatgpt-degrade/</url>
+    <content><![CDATA[<p>上次介绍了如何通过PoW信息辅助判断ChatGPT是否被降智后，收到很多伙伴私信需要解除降智。</p>
+<p>下面就先介绍几种方式来解决GPT4的降智吧，都是亲测实践有效的！</p>
+<h2 id="GPT4降智了怎么解决？"><a href="#GPT4降智了怎么解决？" class="headerlink" title="GPT4降智了怎么解决？"></a>GPT4降智了怎么解决？</h2><ol>
+<li>通用的解决方案就是套wrap，如 Cloudflare Warp。</li>
+<li>切换到ChatGPT APP版本</li>
+<li>网页版按F12，进入控制台之后，改为移动端展示，然后刷新页面，就会解除（<code>这个方式，是最快让你解除降智的，但临时方案，不推荐一直这么做</code>）</li>
+<li>切换到比较干净的IP，不要使用共享、便宜的魔法</li>
+</ol>
+<p><strong>被降智之后的Pow信息：</strong></p>
+<span id="more"></span>
+
+<p><img src="https://pic3.zhimg.com/v2-60820ba515c5798d5981fc77f0aca3a6_1440w.jpg" alt="img"></p>
+<p><strong>解除降智之后的Pow信息：</strong></p>
+<p><img src="https://pic4.zhimg.com/v2-6e6178c8df9ce2442d437624e7620cb5_1440w.jpg" alt="img"></p>
+<h2 id="如何检查GPT4是否被降智"><a href="#如何检查GPT4是否被降智" class="headerlink" title="如何检查GPT4是否被降智"></a>如何检查GPT4是否被降智</h2><p>如何检查自己的ChatGPT是否降智的方式，可以通过PoW的信息确认自己的IP是否干净。</p>
+<p><img src="https://pic2.zhimg.com/v2-834a015ec44ff0c18c6004c84973f859_1440w.jpg" alt="img"></p>
+<p>因为上次介绍了如何使用tampermonkey（篡改猴）去安装这个监测工具会比较麻烦和繁琐，<strong>于是我花了5美刀注册了个Google Chrome开发者账号，然后重新封装成Chrome扩展程序并发布了这个GPT降智监测扩展（ChatGPT Degrade Checker），小白就可以直接点击安装即可</strong>。</p>
+<blockquote>
+<p>ChatGPT Degrade Checker 降智监测工具扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm%3Fauthuser%3D0%26hl%3Dzh-CN">https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN</a></p>
+</blockquote>
+<h2 id="ChatGPT-服务降级检测扩展程序"><a href="#ChatGPT-服务降级检测扩展程序" class="headerlink" title="ChatGPT 服务降级检测扩展程序"></a>ChatGPT 服务降级检测扩展程序</h2><p>由于 ChatGPT 会对某些 ip 进行无提示的服务降级，此扩展程序用于检测你的 ip 是否被 ChatGPT 判定为高风险。在一定程度上可以用于辅助判断你的 ip 是否遭到服务降级。</p>
+<p>（1）点击<code>添加至Chrome</code>就安装成功了</p>
+<p><img src="https://pic3.zhimg.com/v2-43168318b1151319e801f90c17e7ae82_1440w.jpg" alt="img"></p>
+<p>（2）然后打开<a href="https://chatgpt.com/">chatgpt</a>就直接可以看到页面上多了一个<code>小绿圈</code>, 鼠标移上去就可以看到当前的<strong>PoW信息</strong>。</p>
+<p><img src="https://pic2.zhimg.com/v2-fa359c8926042c46aadd94e789bd0e07_1440w.jpg" alt="img"></p>
+<p><img src="https://pica.zhimg.com/v2-251de6d59e048d0e85cadc532dc99040_1440w.jpg" alt="img"></p>
+<p><code>如果 PoW 难度的值很低，代表你的 ip 可能被判断为了高风险。</code> 作为参考，这个值在超过 5 位时，一般代表你的ip较为优质，可以正常使用所有服务，如果小于等于 000032，说明你的 ip 被认为有很高的风险。</p>
+<p>你每次登陆或者刷新ChatGPT时，小绿圈都会重新监测当前的pow。每次发现GPT回复消息特别快时，都可以看一下，非常方便的辅助你判断当前的IP环境。</p>
+<ul>
+<li>当IP质量高风险时，小绿圈就被成小红圈。</li>
+<li>当IP质量中风险时，小绿圈就变成小黄圈。</li>
+</ul>
+<h2 id="什么是服务降级？"><a href="#什么是服务降级？" class="headerlink" title="什么是服务降级？"></a>什么是服务降级？</h2><p>ChatGPT 官方会对一些被判断为高风险的 ip 降级服务，偷偷将模型切换为 4o-mini 或者更差，并且没有任何提示。就算你充值升级为GPT-4 Plus服务，你可能也无法使用GPT-4o的联网搜索等功能。</p>
+<h2 id="服务降级有什么影响？"><a href="#服务降级有什么影响？" class="headerlink" title="服务降级有什么影响？"></a>服务降级有什么影响？</h2><p>降级后，即便你是充值升级为GPT-4 Plus的用户，在使用 4o 模型时会发现无法使用联网搜索、图片生成等功能，使用 o1 模型时，会发现模型不进行思考直接回答。</p>
+<h2 id="如何升级ChatGPT-4-Plus"><a href="#如何升级ChatGPT-4-Plus" class="headerlink" title="如何升级ChatGPT-4 Plus"></a>如何升级ChatGPT-4 Plus</h2><p>当你的IP相对干净时，就可以升级你的ChatGPT，不干净的IP不建议使用当前的IP进行升级。</p>
+<p>如果你的IP风险过高时，可以用其他浏览器插件解决，解决方案：可以使用<strong>wildcard虚拟卡平台的浏览器插件</strong> ：<a href="https://bewildcard.com/i/UPGPT">浏览器插件</a>。</p>
+<blockquote>
+<p>wildcard官网：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></p>
+</blockquote>
+<p><img src="https://picx.zhimg.com/v2-a41f4210406ae3dfb488a0f13ec0cf65_1440w.jpg" alt="img"></p>
+<p>小白的话，直接使用一键升级就行了。</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>（1）<a href="https://openssora.com/how-subscribe-gpt4-plus/">国内使用虚拟卡升级ChatGPT的方法</a></p>
+<p>（2）<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm%3Fauthuser%3D0%26hl%3Dzh-CN">chatgpt-degrade-checker扩展程序</a></p>
+<p>（3）<a href="https://chatgpi.cn/how-openai-card-declined/">OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办?</a></p>
+<p>（4）<a href="https://openssora.com/how-chatgpt-degrade-checker/">ChatGPT4降智检查方法，如何检测GPT4降智的方法分享，ChatGPT4降智和封号原因！</a></p>
+]]></content>
+      <categories>
+        <category>ChatGPT问题集合</category>
+      </categories>
+      <tags>
+        <tag>ChatGPT降智</tag>
+        <tag>ChatGPT降智了怎么解除</tag>
+      </tags>
+  </entry>
 </search>
