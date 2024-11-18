@@ -1684,42 +1684,34 @@
     <url>/how-chatgpt-degrade-checker/</url>
     <content><![CDATA[<p>最近，有很多朋友反馈，最近的ChatGPT有点智障了？ 这可能是你的ChatGPT被官方降智了，那么如何解决呢？ChatGPT4降智和封号原因检查方法：</p>
 <p>下方是如何检查自己的ChatGPT是否降智的方式，可以通过PoW的信息确认自己的IP是否干净。</p>
-<p><img src="https://pic3.zhimg.com/80/v2-e3545760595def999acef5b24e4511c4_1440w.webp"></p>
-<p><code>如果 PoW 难度的值很低，代表你的 ip 可能被判断为了高风险。</code> 作为参考，这个值在超过 5 位时，一般代表你的ip较为优质，可以正常使用所有服务，如果小于等于 000032，说明你的 ip 被认为有很高的风险。</p>
-<p>如果 ip 不干净了，ChatGPT 会偷偷把模型换成更笨的。模型变傻了、回复变快了、明明是 4o 却说不会网络搜索、明明是 o1 却不思考就回答，遇到这些情况，就是你被降级了。</p>
-<p>这个降级有两个非常恶心的地方：</p>
-<ol>
-<li>它没有明确提示，依然显示你正在用 o1 或者 4o 模型。</li>
-<li>它对 plus 用户也一样降级。</li>
-</ol>
-<p>也就是说，我花大价钱开个 plus ，就因为 ip 被它认为不干净，所以没有任何提示地把 o1 和 4o 换成了 4o-mini ，也没有提供恢复的措施。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-0f65a6a82455b5236ef3be80f267b0bd_1440w.jpeg" alt="img"></p>
 <span id="more"></span>
-
-<h2 id="什么是服务降级？"><a href="#什么是服务降级？" class="headerlink" title="什么是服务降级？"></a>什么是服务降级？</h2><p>ChatGPT 官方会对一些被判断为高风险的 ip 降级服务，偷偷将模型切换为 4o-mini 或者更差，并且没有任何提示。就算你充值升级为GPT-4 Plus服务，你可能也无法使用GPT-4o的联网搜索等功能。 </p>
-<h2 id="服务降级有什么影响？"><a href="#服务降级有什么影响？" class="headerlink" title="服务降级有什么影响？"></a>服务降级有什么影响？</h2><p>降级后，即便你是充值升级为GPT-4 Plus的用户，在使用 4o 模型时会发现无法使用联网搜索、图片生成等功能，使用 o1 模型时，会发现模型不进行思考直接回答。</p>
-<h2 id="ChatGPT-服务降级检测工具"><a href="#ChatGPT-服务降级检测工具" class="headerlink" title="ChatGPT 服务降级检测工具"></a>ChatGPT 服务降级检测工具</h2><p>由于 ChatGPT 会对某些 ip 进行无提示的服务降级，此脚本用于检测你的 ip 是否被 ChatGPT 判定为高风险。在一定程度上可以用于辅助判断你的 ip 是否遭到服务降级。</p>
-<h3 id="方式一：直接安装Chrome扩展程序（推荐）"><a href="#方式一：直接安装Chrome扩展程序（推荐）" class="headerlink" title="方式一：直接安装Chrome扩展程序（推荐）"></a>方式一：直接安装Chrome扩展程序（推荐）</h3><blockquote>
-<p>ChatGPT Degrade Checker 降智监测工具扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm%3Fauthuser%3D0%26hl%3Dzh-CN">https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN</a></p>
-</blockquote>
-<h3 id="方式二：使用tampermonkey（篡改猴）安装脚本："><a href="#方式二：使用tampermonkey（篡改猴）安装脚本：" class="headerlink" title="方式二：使用tampermonkey（篡改猴）安装脚本："></a>方式二：使用tampermonkey（篡改猴）安装脚本：</h3><p>（1）首先安装 tampermonkey（篡改猴）：<a href="https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo">篡改猴Google扩展</a></p>
-<p><img src="https://pic3.zhimg.com/80/v2-8e4aebeae993fbdd934a0806d11afd42_1440w.webp"></p>
-<p>（2）然后点击链接安装本工具：<a href="https://update.greasyfork.org/scripts/516051/ChatGPT%E9%99%8D%E7%BA%A7%E6%A3%80%E6%B5%8B.user.js">点此安装</a></p>
-<p><img src="https://pic1.zhimg.com/80/v2-addb50d0225038a0c3a3da6bda10625e_1440w.webp"></p>
-<p>（3）安装完成后打开 <a href="https://chatgpt.com/">chatgpt</a>，你可以在屏幕右侧看到一个绿色圆圈，鼠标移上去之后会显示详细信息，如果 PoW 难度的值很低，代表你的 ip 可能被判断为了高风险。</p>
-<h3 id="tampermonkey（篡改猴）是什么？"><a href="#tampermonkey（篡改猴）是什么？" class="headerlink" title="tampermonkey（篡改猴）是什么？"></a>tampermonkey（篡改猴）是什么？</h3><p>有些人也会把篡改猴(Tampermonkey)称作油猴(Greasemonkey)，尽管后者只是一款仅适用于 Firefox 浏览器的浏览器扩展程序。</p>
-<p>它允许用户自定义并增强您最喜爱的网页的功能，用户脚本是小型 JavaScript 程序，可用于向网页添加新功能或修改现有功能，使用 tampermonkey（篡改猴），您可以轻松在任何网站上创建、管理和运行这些用户脚本。</p>
-<p>例如，tampermonkey（篡改猴）可以向网页添加一个新按钮，可以快速在社交媒体上分享链接，或自动填写带有个人信息的表格，在数字化时代，这特别有用，因为网页常常被用作访问广泛的服务和应用程序的用户界面。</p>
-<p>tampermonkey（篡改猴）可以让你轻松找到并安装其他用户创建的用户脚本，这意味着您可以快速轻松地访问为您喜爱的网页定制的广泛库，而无需花费数小时编写自己的代码。</p>
-<h2 id="如果没有看到小绿圈"><a href="#如果没有看到小绿圈" class="headerlink" title="如果没有看到小绿圈"></a>如果没有看到小绿圈</h2><p>当你在chatgpt首页没有见到下方这个小绿圈，这是因为开启脚本后，需要你的Google扩展打开开发模式才能生效，安装下方的方式打开即可。</p>
-<p><img src="https://pic2.zhimg.com/80/v2-40cb184d89e6494bd4a31777f0c059cb_1440w.webp"></p>
-<p><img src="https://pic3.zhimg.com/80/v2-0fa1d4c1a0aeab5ae0a03a2736b7c286_1440w.webp"></p>
-<p><img src="https://pica.zhimg.com/80/v2-1534bc2b3f3237d630c29a61987d5bb0_1440w.webp"></p>
+<h2 id="ChatGPT服务降级检测工具（Chrome扩展程序）"><a href="#ChatGPT服务降级检测工具（Chrome扩展程序）" class="headerlink" title="ChatGPT服务降级检测工具（Chrome扩展程序）"></a><strong>ChatGPT服务降级检测工具（Chrome扩展程序）</strong></h2><p>由于 ChatGPT 会对某些 IP 进行无提示的服务降级，此Chrome扩展程序用于检测你的 IP 是否被 ChatGPT 判定为高风险。在一定程度上可以用于辅助判断你的 IP 是否遭到服务降级。</p>
+<!--more-->
+<h2 id="检测原理"><a href="#检测原理" class="headerlink" title="检测原理"></a><strong>检测原理</strong></h2><p>根据PoW（Proof of Work）的机制，会生成一个16进制的数值。数值越大，IP环境就越安全。正常大于4位以上的16进制，基本就不会降智了。 </p>
+<p><img src="https://pic1.zhimg.com/80/v2-5770ff64681f7d21aff6aebd2decc47b_1440w.png" alt="img"></p>
+<h2 id="开箱即用"><a href="#开箱即用" class="headerlink" title="开箱即用"></a><strong>开箱即用</strong></h2><p>（1）安装Chrome扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN">ChatGPT Degrade Checker扩展程序</a></p>
+<p><img src="https://pic1.zhimg.com/80/v2-ffd390d8b403d36354f79d3c04defcc2_1440w.png" alt="img"><br>（2）添加至Chrome之后，直接打开ChatGPT刷新页面，提示框会显示你的 风险信息。<br><img src="https://picx.zhimg.com/80/v2-40981bd2538666a2792f45de0ef54962_1440w.jpeg" alt="img"><br>（3）点击提示框，可以查看 PoW信息和IP风险等级。<br><img src="https://pic1.zhimg.com/80/v2-0f65a6a82455b5236ef3be80f267b0bd_1440w.jpeg" alt="img"></p>
+<h2 id="本地开发：安装及使用"><a href="#本地开发：安装及使用" class="headerlink" title="本地开发：安装及使用"></a><strong>本地开发：安装及使用</strong></h2><ol>
+<li>打开Chrome浏览器，输入：<a href="chrome://extensions/">chrome:&#x2F;&#x2F;extensions&#x2F;</a></li>
+<li>导入扩展程序，选择 chatgpt-degrade-checker 文件夹即可</li>
+</ol>
+<p><img src="https://picx.zhimg.com/80/v2-75186a0e84c40dbe0c97caa9a0f6c0c3_1440w.png" alt="img"></p>
+<h2 id="GPT4降智了怎么解决？"><a href="#GPT4降智了怎么解决？" class="headerlink" title="GPT4降智了怎么解决？"></a><strong>GPT4降智了怎么解决？</strong></h2><p>下面每个解决方式均独立，使用其中一种即可。</p>
+<ol>
+<li>套cf，如 Cloudflare Warp。</li>
+<li>切换到ChatGPT APP版本</li>
+<li>网页版按F12，进入控制台之后，改为移动端展示，然后刷新页面，就会解除（这个方式，是最快让你解除降智的，但临时方案，不推荐一直这么做）</li>
+<li>切换到比较干净的IP，不要使用共享、便宜的魔法</li>
+<li>上传一张白图，强制启动</li>
+<li>移动端触发o1思考，web端同步刷新，也能恢复</li>
+</ol>
 <h2 id="如何升级ChatGPT-4-Plus"><a href="#如何升级ChatGPT-4-Plus" class="headerlink" title="如何升级ChatGPT-4 Plus"></a>如何升级ChatGPT-4 Plus</h2><p>当你的IP相对干净时，就可以升级你的ChatGPT，不干净的IP不建议使用当前的IP进行升级。</p>
 <p>如果你的IP风险过高时，可以用其他浏览器插件解决，解决方案：可以使用<strong>wildcard虚拟卡平台的浏览器插件</strong> ：<a href="https://bewildcard.com/i/UPGPT">点此跳转</a>。 </p>
 <p><img src="https://picx.zhimg.com/80/v2-a41f4210406ae3dfb488a0f13ec0cf65_1440w.webp"></p>
 <p>小白的话，直接使用一键升级就行了。</p>
 <h2 id="参考内容"><a href="#参考内容" class="headerlink" title="参考内容"></a>参考内容</h2><p>（1）<a href="https://openssora.com/how-subscribe-gpt4-plus/">国内使用虚拟卡升级ChatGPT的方法</a></p>
-<p>（2）<a href="https://github.com/KoriIku/chatgpt-degrade-checker">chatgpt-degrade-checker</a></p>
+<p>（2）<a href="https://github.com/openssora/chatgpt-degrade-checker">chatgpt-degrade-checker</a></p>
 <p>（3）<a href="https://chatgpi.cn/how-openai-card-declined/">OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办?</a></p>
 ]]></content>
       <tags>
