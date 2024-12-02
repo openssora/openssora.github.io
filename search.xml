@@ -1690,7 +1690,7 @@
 <!--more-->
 <h2 id="检测原理"><a href="#检测原理" class="headerlink" title="检测原理"></a><strong>检测原理</strong></h2><p>根据PoW（Proof of Work）的机制，会生成一个16进制的数值。数值越大，IP环境就越安全。正常大于4位以上的16进制，基本就不会降智了。 </p>
 <p><img src="https://pic1.zhimg.com/80/v2-5770ff64681f7d21aff6aebd2decc47b_1440w.png" alt="img"></p>
-<h2 id="开箱即用"><a href="#开箱即用" class="headerlink" title="开箱即用"></a><strong>开箱即用</strong></h2><p>（1）安装Chrome扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN">ChatGPT Degrade Checker扩展程序</a></p>
+<h2 id="开箱即用"><a href="#开箱即用" class="headerlink" title="开箱即用"></a><strong>开箱即用</strong></h2><p>（1）安装Chrome扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN">ChatGPT Degrade Checker扩展程序</a></p>
 <p><img src="https://pic1.zhimg.com/80/v2-ffd390d8b403d36354f79d3c04defcc2_1440w.png" alt="img"><br>（2）添加至Chrome之后，直接打开ChatGPT刷新页面，提示框会显示你的 风险信息。<br><img src="https://picx.zhimg.com/80/v2-40981bd2538666a2792f45de0ef54962_1440w.jpeg" alt="img"><br>（3）点击提示框，可以查看 PoW信息和IP风险等级。<br><img src="https://pic1.zhimg.com/80/v2-0f65a6a82455b5236ef3be80f267b0bd_1440w.jpeg" alt="img"></p>
 <h2 id="本地开发：安装及使用"><a href="#本地开发：安装及使用" class="headerlink" title="本地开发：安装及使用"></a><strong>本地开发：安装及使用</strong></h2><ol>
 <li>打开Chrome浏览器，输入：<a href="chrome://extensions/">chrome:&#x2F;&#x2F;extensions&#x2F;</a></li>
@@ -1739,7 +1739,7 @@
 <p><img src="https://pic2.zhimg.com/v2-834a015ec44ff0c18c6004c84973f859_1440w.jpg" alt="img"></p>
 <p>因为上次介绍了如何使用tampermonkey（篡改猴）去安装这个监测工具会比较麻烦和繁琐，<strong>于是我花了5美刀注册了个Google Chrome开发者账号，然后重新封装成Chrome扩展程序并发布了这个GPT降智监测扩展（ChatGPT Degrade Checker），小白就可以直接点击安装即可</strong>。</p>
 <blockquote>
-<p>ChatGPT Degrade Checker 降智监测工具扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm%3Fauthuser%3D0%26hl%3Dzh-CN">https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN</a></p>
+<p>ChatGPT Degrade Checker 降智监测工具扩展程序：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN">https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN</a></p>
 </blockquote>
 <h2 id="ChatGPT-服务降级检测扩展程序"><a href="#ChatGPT-服务降级检测扩展程序" class="headerlink" title="ChatGPT 服务降级检测扩展程序"></a>ChatGPT 服务降级检测扩展程序</h2><p>由于 ChatGPT 会对某些 ip 进行无提示的服务降级，此扩展程序用于检测你的 ip 是否被 ChatGPT 判定为高风险。在一定程度上可以用于辅助判断你的 ip 是否遭到服务降级。</p>
 <p>（1）点击<code>添加至Chrome</code>就安装成功了</p>
@@ -1763,7 +1763,7 @@
 <p><img src="https://picx.zhimg.com/v2-a41f4210406ae3dfb488a0f13ec0cf65_1440w.jpg" alt="img"></p>
 <p>小白的话，直接使用一键升级就行了。</p>
 <h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>（1）<a href="https://openssora.com/how-subscribe-gpt4-plus/">国内使用虚拟卡升级ChatGPT的方法</a></p>
-<p>（2）<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker/inidgeckbobnafenlmlgfbeoijiamepm%3Fauthuser%3D0%26hl%3Dzh-CN">chatgpt-degrade-checker扩展程序</a></p>
+<p>（2）<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN">chatgpt-degrade-checker扩展程序</a></p>
 <p>（3）<a href="https://chatgpi.cn/how-openai-card-declined/">OpenAI 支付出现「您的银行卡被拒绝&#x2F;your card has been declined」怎么办?</a></p>
 <p>（4）<a href="https://openssora.com/how-chatgpt-degrade-checker/">ChatGPT4降智检查方法，如何检测GPT4降智的方法分享，ChatGPT4降智和封号原因！</a></p>
 ]]></content>
@@ -1820,6 +1820,56 @@
       <tags>
         <tag>ChatGPT升级问题</tag>
         <tag>ChatGPT Plus费用</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT降智了，教你如何免费白嫖一个月的Gemini Pro来代替，如何升级Gemini Pro、Google One AI，如何订阅购买Gemini Advanced服务</title>
+    <url>/how-subscribe-google-gemini-pro/</url>
+    <content><![CDATA[<p>下面教程，<strong>教你如何免费白嫖一个月的Gemini Pro，以及如何升级Gemini Pro、Google One AI，如何订阅购买Gemini Advanced服务</strong>，国内如何使用Google Play进行支付。</p>
+<p>最近在LLM竞技场上的排名，谷歌的Gemini 2.0 （双子座）相关模型，攀升到第一位，<strong>而且<code>gemini-exp-1121</code>的各个能力都很出色，编码、数学、写作等能力目前测试结果都是第1位</strong>，看数据已经超越了ChatGPT、Claude这两位大哥。 下面是LLM竞技场上的排名数据：</p>
+<p><img src="https://pic4.zhimg.com/v2-acb0331f0c3f402f63922bf114ad4e8f_1440w.jpg" alt="img"></p>
+<p>如何免费白嫖一个月的Gemini Pro呢？可以通过下方的方式进行绑卡方式进行订阅。<strong>然后提前取消订阅即可免费体验Gemini Pro服务</strong>。</p>
+<span id="more"></span>
+
+<p><img src="https://pica.zhimg.com/v2-f8d945b9a12a0a896a0b48484db0c7fc_1440w.jpg" alt="img"></p>
+<h2 id="Gemini-Pro、Google-One-AI如何升级，如何订阅购买Gemini-Advanced服务，使用Google-Play进行支付。"><a href="#Gemini-Pro、Google-One-AI如何升级，如何订阅购买Gemini-Advanced服务，使用Google-Play进行支付。" class="headerlink" title="Gemini Pro、Google One AI如何升级，如何订阅购买Gemini Advanced服务，使用Google Play进行支付。"></a>Gemini Pro、Google One AI如何升级，如何订阅购买Gemini Advanced服务，使用Google Play进行支付。</h2><p>国内用户最主要的问题就是：<strong>支付订阅问题！</strong> 因为很多国外服务，都不支持国内的支付方式，所以我们需要借助其他三方进行订阅。可以通过下方的方式进行解决：</p>
+<p>（1）首先，登陆自己的Gemini账号，点击升级，之后就会跳转到Gemini Advanced 页面。</p>
+<p><img src="https://pic1.zhimg.com/v2-926101b628f131eca0f188f018402460_1440w.jpg" alt="img"></p>
+<p>（2）新用户都有免费试用一个月的福利，不过使用之前都需要你绑定支付方式，才能使用。</p>
+<p><img src="https://picx.zhimg.com/v2-f66fed63f85d6d7eccd47f7e3370a45d_1440w.jpg" alt="img"></p>
+<p>（3）因为，Google的Gemini需要使用Google Play添加付款方式，而国内的卡是无法绑定的，所以可以使用虚拟卡进行绑定。我平时使用wildcard进行支付，目前比较稳定，已经使用了一年多了。</p>
+<blockquote>
+<p><strong>wildcard官网：<a href="https://bewildcard.com/i/UPGPT">https://bewildcard.com/i/UPGPT</a></strong></p>
+</blockquote>
+<p><img src="https://picx.zhimg.com/v2-05a6e827b8605056ac9a8daefcb44561_1440w.jpg" alt="img"></p>
+<blockquote>
+<p>申请虚拟卡时，使用官方邀请码 <strong>UPGPT</strong> 可以优惠！</p>
+</blockquote>
+<p>（4）自己申请之后，就会获得卡号，就可以返回到Google进行选择绑定卡号就可以。</p>
+<p><img src="https://pic1.zhimg.com/v2-494ce31628ab83fb360a7b3c01097926_1440w.jpg" alt="img"></p>
+<p>（5）根据卡号的信息，填入到对应的地方就可以绑定。注意：绑卡之前，确保你的卡号是有余额的，因为海外绑卡大部分会进行一个预扣款的方式，来进行确定是否绑定成功。你可以自己充值5$到虚拟卡上，这个后面你可以直接提现出来的。</p>
+<p><img src="https://picx.zhimg.com/v2-f7c9461e60015e19a65175b2a606c9c5_1440w.jpg" alt="img"></p>
+<p>（6）保存之后，就可以选择你的卡号进行一个订阅，就可以开通免费使用Gemini Advanced Pro 服务啦。</p>
+<p><img src="https://pic4.zhimg.com/v2-b1ad5dc37f170a3f31390d6510317889_1440w.jpg" alt="img"></p>
+<p><strong>上面这种方式，最适合小白进行订阅海外服务的方式了，比较轻松简单。而且比较稳定，亲测使用这种方式订阅「ChatGPT Plus」和其他服务，稳定使用一年多。</strong></p>
+<p>自从<code>GPT-4o-1120</code>模型更新以来，很多Plus用户遭到了降级的情况，因为GPT用上了通过PoW的方式去检测用户环境的方式。 如果你不知道自己是否被降级了，不妨可以安装这个Chrome扩展进行检测：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm?hl=zh-CN&gl=MY">ChatGPT Degrade Checker 降级检查</a></p>
+<p><img src="https://pic4.zhimg.com/v2-6e305425bac8807e2b471ebfb3ee4cbd_1440w.jpg" alt="img"></p>
+<p>当你的GPT-4o已经不再是之前的那个GPT时，这时候你可以切换到Claude或者Gemini进行代替。 而Claude对网络环境非常严格，不妨你可以使用一下Gemini Pro，因为有免费一个月的使用, 而且<code>gemini-exp-1121</code>的各个能力都很出色，<strong>编码、数学、写作等能力目前测试结果都是第1位</strong>。</p>
+<p><img src="https://pic4.zhimg.com/v2-661fa2626de2a51fd6d42e0bf3d5706f_1440w.jpg" alt="img"></p>
+<h2 id="其他内容"><a href="#其他内容" class="headerlink" title="其他内容"></a>其他内容</h2><ol>
+<li><a href="https://upchatgpt.cn/how-upgrade-chatgpt-plus/">2024年国内如何使用支付宝开通ChatGPT Plus教程</a></li>
+<li><a href="https://openssora.com/how-solve-chatgpt-degrade/">如何解决ChatGPT4变笨了、被降智了的方法分享，教你怎么解决ChatGPT降智问题！</a></li>
+<li><a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm?hl=zh-CN&gl=MY">chatgpt-degrade-checker扩展程序</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>Gemini Pro升级教程</category>
+      </categories>
+      <tags>
+        <tag>Google Gemini Pro</tag>
+        <tag>Google One AI</tag>
+        <tag>Gemini Advanced</tag>
+        <tag>Google Play</tag>
       </tags>
   </entry>
 </search>
