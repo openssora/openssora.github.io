@@ -2036,4 +2036,97 @@
         <tag>Premium+</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法</title>
+    <url>/grok3-rate-limits-and-think-deepsearch-limits-times/</url>
+    <content><![CDATA[<p>免费用户和付费用户的Grok3的次数限制，Grok上限次数多少说明，以及如何提高Grok3次数调用的几种方法。</p>
+<p>在不使用推理Think和DeepSearch的情况下，Grok3 目前每2小时可以免费使用20次数。</p>
+<p><img src="https://pic1.zhimg.com/v2-fd7b5208380e163c976d54155cce955c_1440w.jpg" alt="img"></p>
+<p><strong>当前测试到的数据，Grok3的Think推理模式和DeepSearch模式次数上限是每天最多各5次。总共10次调用。</strong></p>
+<p><img src="https://pic3.zhimg.com/v2-ef58fb4a8cc78c234aa25a88f31e1e0c_1440w.jpg" alt="img"></p>
+<p><strong>我已经开发了对应的Chrome插件，可以实时检查刀自己的调用次数剩下多少和自己可以调用每个功能的次数。</strong> 插件正在审核中，过几天就通过，可以在chrome扩展程序上搜索：<code>grok rate limits</code>。</p>
+<p>如果需要关注插件的更多进展，可以留意一下我的最新状态。</p>
+<p>如果需要提高Grok3的DeepSearch 和 Think 高级功能测试的话，可以通过下面几种方式进行提高次数。</p>
+<span id="more"></span>
+
+<p><strong>目前测试出来有3种方法可以提高Grok3的次数：</strong></p>
+<ul>
+<li>方法一：升级X平台上的 <strong>Premium</strong> 用户（8美元）</li>
+<li>方法二：升级X平台上的 <strong>Premium +</strong> Plus用户（40美元）</li>
+<li>方法三：升级Grok平台上的 <strong>SuperGrok</strong> 用户 （30美元）</li>
+</ul>
+<p>每种方法，对应的次数当然是不同的。 <strong>另外，升级时，不要在手机移动端升级，因为苹果会对其收取额外的手续费，所以你会看到，Premium 11美元，Premium+ 50美元 这种情况。</strong></p>
+<p><img src="https://pic2.zhimg.com/v2-f5d7513da08ae87683c13e96fe3f521b_1440w.jpg" alt="img"></p>
+<p><strong>建议在网页版上进行升级，可以少一些费用！！！</strong></p>
+<p>下面讲解一下如何升级和每个用户拥有的次数。</p>
+<h2 id="方法一：升级-X-的-Premium"><a href="#方法一：升级-X-的-Premium" class="headerlink" title="方法一：升级 X 的 Premium"></a>方法一：升级 X 的 Premium</h2><p>升级为X的Premium，费用是8美元，对应的次数是<strong>每2小时可以使用5次Grok DeepSearch功能。</strong></p>
+<p><img src="https://pic3.zhimg.com/v2-279d6636713280449ffa1d0c01a16796_1440w.jpg" alt="img"></p>
+<p>另外，升级Premium时，都需要用到国际信用卡，也就是visa和master这种类型的卡。</p>
+<p>如果没有这种类型卡，或者使用国内的Visa卡时，无法进行支付的话。就可以直接申请一张Master虚拟信用卡解决。</p>
+<blockquote>
+<p>Master虚拟卡：<a href="https://wildscard.com/">https://wildscard.com</a></p>
+</blockquote>
+<p>我就是通过这种方式，进行升级的。申请之后，选择 X 服务，进行充值订阅的金额，比如8美刀，就使用 支付宝 往虚拟卡充值 8 美元就行，不需要额外多充值。</p>
+<p><img src="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/v2-35491ddd8a6f8478dd3842e3058b8c04_1440w.jpg" alt="img"></p>
+<p>然后根据平台的教程，进行绑定订阅即可。</p>
+<p><img src="https://pic2.zhimg.com/v2-d897ac1236dd68226c46ce3600c33b77_1440w.jpg" alt="img"></p>
+<blockquote>
+<p><strong>绑卡时，注意使用的魔法建议纯净度良好的。绑定时，被拒的原因，大部分是网络环境问题。</strong></p>
+</blockquote>
+<p>订阅成功之后，如果下个不需要续订的朋友，记得进行一个取消自动续订哦！以免自动扣款失败，造成了其他麻烦。</p>
+<blockquote>
+<p>取消自动续订方法：在 X 上，找到 Premium 的Manage上，进行取消续订。</p>
+</blockquote>
+<p><img src="https://pic4.zhimg.com/v2-b726031e1a60e79f558d9ea94f7874c5_1440w.jpg" alt="img"></p>
+<h2 id="方法二：升级Premium"><a href="#方法二：升级Premium" class="headerlink" title="方法二：升级Premium +"></a>方法二：升级Premium +</h2><p>Premium+价格比较贵，Grok3还没有发布之前，它的费用只有22美元。发布之后涨了18美元，也就是现在的40美元。</p>
+<p>它的权限和访问次数跟SuperGrok一致，所以我更加推荐你直接升级Grok平台上的SuperGrok，因为它只需要30美元。</p>
+<p><strong>对应的升级方式，跟上面第一种方法一样。</strong></p>
+<h2 id="方法三：升级SuperGrok"><a href="#方法三：升级SuperGrok" class="headerlink" title="方法三：升级SuperGrok"></a>方法三：升级SuperGrok</h2><p>不怎么使用X（原推特）的朋友，我更建议你直接到Grok官网升级为SuperGrok。</p>
+<p>目前SuperGrok是可以无限制进行绘画，可以使用高级功能次数更多，另外可以提前体验即将推出的大脑模式和语音模式高级功能。</p>
+<blockquote>
+<p>Grok的网页版：<a href="https://link.zhihu.com/?target=https://grok.com">https://grok.com</a></p>
+</blockquote>
+<p>打开Grok网页版，就可以看到SuperGrok的介绍：</p>
+<ul>
+<li>增加 Grok 3 次数</li>
+<li>访问 Grok 3 思维模式</li>
+<li>访问 Grok 3 深度搜索</li>
+<li>无限图像生成</li>
+</ul>
+<p><img src="https://pic4.zhimg.com/v2-23467cf0b1e4f6653cb079446d27151d_1440w.jpg" alt="img"></p>
+<p>有部分用户，没有看到SuperGrok的弹窗，在设置上也可以没有对应升级的按钮。放心，可能是没有推送到你的账号，但是可以通过这种方式激活。</p>
+<p>你在当前官网下，增加一个查询参数<code>?show_subscribe=1</code> 就会弹出SuperGrok的窗口。</p>
+<blockquote>
+<p><a href="https://link.zhihu.com/?target=https://grok.com/?show_subscribe=1">https://grok.com/?show_subscribe&#x3D;1</a></p>
+</blockquote>
+<p><strong>同样也是需要提前准备一张国际信用Visa&#x2F;Master卡。如果没有这种类型的卡的伙伴，可以直接注册一张虚拟Master信用卡。</strong></p>
+<blockquote>
+<p>虚拟Master信用卡：<a href="https://wildscard.com/">https://wildscard.com</a></p>
+</blockquote>
+<p>注册之后，会有一个美区的Master国际信用卡信息，可以用来订阅升级 <strong>Premium+ 和 SuperGrok</strong> 。</p>
+<p>（1）打开Grok网页版 或者 移动版。<strong>找到 “设置” 点击 “Go Super” 就可以订阅升级 Super Grok。</strong></p>
+<p><img src="https://picx.zhimg.com/v2-6c79e940af7ac8c12f09fac44d16facd_1440w.jpg" alt="img"></p>
+<p>（2）保留 Super Grok 订阅页面不关闭， 我们回到 虚拟卡平台上，选择 X 并查看卡片。 因为Grok属于 XAI的，所以选择 X 服务就行。</p>
+<p><img src="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></p>
+<p>（3）Super Grok 的费用是 30 $, 你通过支付宝给虚拟卡充值30美元即可，不需要额外多充值。</p>
+<p>然后根据平台的教程，进行绑定订阅即可。</p>
+<p><img src="https://pic2.zhimg.com/v2-d897ac1236dd68226c46ce3600c33b77_1440w.jpg" alt="img"></p>
+<blockquote>
+<p><strong>绑卡时，注意使用的魔法建议纯净度良好的。绑定时，被拒的原因，大部分是网络环境问题。</strong></p>
+</blockquote>
+<p>升级完成 SuperGrok 之后，<strong>记得取消续费订阅</strong>，以免下个月自动扣费失败。</p>
+<p>对于开放者来说，会用的Grok API，但是目前Grok3 API 还没有推送，估计要再等2周。</p>
+<p>但是 Grok API 有个白嫖 150 美元 免费额度的教程，开启数据共享之后就可以每个月赠送 150 美元的 API 免费额外。 后续可以用在 Grok3 API。</p>
+<p>具体的教程，你可以参考文章：<a href="https://chatgpi.cn/how-subscribe-grok3-api-and-x-ai-premium-plus/">【保姆级教程】教你如何白嫖Grok3 API 150 美元免费额度</a></p>
+]]></content>
+      <categories>
+        <category>Grok3教程</category>
+      </categories>
+      <tags>
+        <tag>Grok3 Rate Limits</tag>
+        <tag>Grok3 Think Limits</tag>
+        <tag>Grok3 DeepSearch Limits</tag>
+      </tags>
+  </entry>
 </search>

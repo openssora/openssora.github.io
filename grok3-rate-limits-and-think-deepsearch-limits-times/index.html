@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?48381b83f8fd4009dc0d8ca22d532c58";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+  <meta charset="utf-8">
+  
+  
+  <title>Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法 | 注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="免费用户和付费用户的Grok3的次数限制，Grok上限次数多少说明，以及如何提高Grok3次数调用的几种方法。 在不使用推理Think和DeepSearch的情况下，Grok3 目前每2小时可以免费使用20次数。  当前测试到的数据，Grok3的Think推理模式和DeepSearch模式次数上限是每天最多各5次。总共10次调用。  我已经开发了对应的Chrome插件，可以实时检查刀自己的调用次数">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法">
+<meta property="og:url" content="https://openssora.com/grok3-rate-limits-and-think-deepsearch-limits-times/index.html">
+<meta property="og:site_name" content="注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网">
+<meta property="og:description" content="免费用户和付费用户的Grok3的次数限制，Grok上限次数多少说明，以及如何提高Grok3次数调用的几种方法。 在不使用推理Think和DeepSearch的情况下，Grok3 目前每2小时可以免费使用20次数。  当前测试到的数据，Grok3的Think推理模式和DeepSearch模式次数上限是每天最多各5次。总共10次调用。  我已经开发了对应的Chrome插件，可以实时检查刀自己的调用次数">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://pic1.zhimg.com/v2-fd7b5208380e163c976d54155cce955c_1440w.jpg">
+<meta property="og:image" content="https://pic3.zhimg.com/v2-ef58fb4a8cc78c234aa25a88f31e1e0c_1440w.jpg">
+<meta property="og:image" content="https://pic2.zhimg.com/v2-f5d7513da08ae87683c13e96fe3f521b_1440w.jpg">
+<meta property="og:image" content="https://pic3.zhimg.com/v2-279d6636713280449ffa1d0c01a16796_1440w.jpg">
+<meta property="og:image" content="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg">
+<meta property="og:image" content="https://pic3.zhimg.com/v2-35491ddd8a6f8478dd3842e3058b8c04_1440w.jpg">
+<meta property="og:image" content="https://pic2.zhimg.com/v2-d897ac1236dd68226c46ce3600c33b77_1440w.jpg">
+<meta property="og:image" content="https://pic4.zhimg.com/v2-b726031e1a60e79f558d9ea94f7874c5_1440w.jpg">
+<meta property="og:image" content="https://pic4.zhimg.com/v2-23467cf0b1e4f6653cb079446d27151d_1440w.jpg">
+<meta property="og:image" content="https://picx.zhimg.com/v2-6c79e940af7ac8c12f09fac44d16facd_1440w.jpg">
+<meta property="og:image" content="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg">
+<meta property="og:image" content="https://pic2.zhimg.com/v2-d897ac1236dd68226c46ce3600c33b77_1440w.jpg">
+<meta property="article:published_time" content="2025-02-22T10:27:29.000Z">
+<meta property="article:modified_time" content="2025-02-22T10:32:45.239Z">
+<meta property="article:author" content="周星星">
+<meta property="article:tag" content="Grok3 Rate Limits">
+<meta property="article:tag" content="Grok3 Think Limits">
+<meta property="article:tag" content="Grok3 DeepSearch Limits">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://pic1.zhimg.com/v2-fd7b5208380e163c976d54155cce955c_1440w.jpg">
+  
+    <link rel="alternate" href="/atom.xml" title="注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/image/favicon.ico">
+  
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<meta name="generator" content="Hexo 7.1.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">注册升级 ChatGPT | Claude 3 | GPT-5 升级教程网</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">我爱算法，拥抱AI</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"><span class="fa fa-bars"></span></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+          <a class="main-nav-link" href="/links">友链</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+        
+          <a class="nav-icon" href="/atom.xml" title="RSS 订阅"><span class="fa fa-rss"></span></a>
+        
+        <a class="nav-icon nav-search-btn" title="搜索"><span class="fa fa-search"></span></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="搜索"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://openssora.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main"><article id="post-grok3-rate-limits-and-think-deepsearch-limits-times" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/grok3-rate-limits-and-think-deepsearch-limits-times/" class="article-date">
+  <time class="dt-published" datetime="2025-02-22T10:27:29.000Z" itemprop="datePublished">2025-02-22</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Grok3%E6%95%99%E7%A8%8B/">Grok3教程</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p>免费用户和付费用户的Grok3的次数限制，Grok上限次数多少说明，以及如何提高Grok3次数调用的几种方法。</p>
+<p>在不使用推理Think和DeepSearch的情况下，Grok3 目前每2小时可以免费使用20次数。</p>
+<p><img src="https://pic1.zhimg.com/v2-fd7b5208380e163c976d54155cce955c_1440w.jpg" alt="img"></p>
+<p><strong>当前测试到的数据，Grok3的Think推理模式和DeepSearch模式次数上限是每天最多各5次。总共10次调用。</strong></p>
+<p><img src="https://pic3.zhimg.com/v2-ef58fb4a8cc78c234aa25a88f31e1e0c_1440w.jpg" alt="img"></p>
+<p><strong>我已经开发了对应的Chrome插件，可以实时检查刀自己的调用次数剩下多少和自己可以调用每个功能的次数。</strong> 插件正在审核中，过几天就通过，可以在chrome扩展程序上搜索：<code>grok rate limits</code>。</p>
+<p>如果需要关注插件的更多进展，可以留意一下我的最新状态。</p>
+<p>如果需要提高Grok3的DeepSearch 和 Think 高级功能测试的话，可以通过下面几种方式进行提高次数。</p>
+<span id="more"></span>
+
+<p><strong>目前测试出来有3种方法可以提高Grok3的次数：</strong></p>
+<ul>
+<li>方法一：升级X平台上的 <strong>Premium</strong> 用户（8美元）</li>
+<li>方法二：升级X平台上的 <strong>Premium +</strong> Plus用户（40美元）</li>
+<li>方法三：升级Grok平台上的 <strong>SuperGrok</strong> 用户 （30美元）</li>
+</ul>
+<p>每种方法，对应的次数当然是不同的。 <strong>另外，升级时，不要在手机移动端升级，因为苹果会对其收取额外的手续费，所以你会看到，Premium 11美元，Premium+ 50美元 这种情况。</strong></p>
+<p><img src="https://pic2.zhimg.com/v2-f5d7513da08ae87683c13e96fe3f521b_1440w.jpg" alt="img"></p>
+<p><strong>建议在网页版上进行升级，可以少一些费用！！！</strong></p>
+<p>下面讲解一下如何升级和每个用户拥有的次数。</p>
+<h2 id="方法一：升级-X-的-Premium"><a href="#方法一：升级-X-的-Premium" class="headerlink" title="方法一：升级 X 的 Premium"></a>方法一：升级 X 的 Premium</h2><p>升级为X的Premium，费用是8美元，对应的次数是<strong>每2小时可以使用5次Grok DeepSearch功能。</strong></p>
+<p><img src="https://pic3.zhimg.com/v2-279d6636713280449ffa1d0c01a16796_1440w.jpg" alt="img"></p>
+<p>另外，升级Premium时，都需要用到国际信用卡，也就是visa和master这种类型的卡。</p>
+<p>如果没有这种类型卡，或者使用国内的Visa卡时，无法进行支付的话。就可以直接申请一张Master虚拟信用卡解决。</p>
+<blockquote>
+<p>Master虚拟卡：<a target="_blank" rel="noopener" href="https://wildscard.com/">https://wildscard.com</a></p>
+</blockquote>
+<p>我就是通过这种方式，进行升级的。申请之后，选择 X 服务，进行充值订阅的金额，比如8美刀，就使用 支付宝 往虚拟卡充值 8 美元就行，不需要额外多充值。</p>
+<p><img src="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/v2-35491ddd8a6f8478dd3842e3058b8c04_1440w.jpg" alt="img"></p>
+<p>然后根据平台的教程，进行绑定订阅即可。</p>
+<p><img src="https://pic2.zhimg.com/v2-d897ac1236dd68226c46ce3600c33b77_1440w.jpg" alt="img"></p>
+<blockquote>
+<p><strong>绑卡时，注意使用的魔法建议纯净度良好的。绑定时，被拒的原因，大部分是网络环境问题。</strong></p>
+</blockquote>
+<p>订阅成功之后，如果下个不需要续订的朋友，记得进行一个取消自动续订哦！以免自动扣款失败，造成了其他麻烦。</p>
+<blockquote>
+<p>取消自动续订方法：在 X 上，找到 Premium 的Manage上，进行取消续订。</p>
+</blockquote>
+<p><img src="https://pic4.zhimg.com/v2-b726031e1a60e79f558d9ea94f7874c5_1440w.jpg" alt="img"></p>
+<h2 id="方法二：升级Premium"><a href="#方法二：升级Premium" class="headerlink" title="方法二：升级Premium +"></a>方法二：升级Premium +</h2><p>Premium+价格比较贵，Grok3还没有发布之前，它的费用只有22美元。发布之后涨了18美元，也就是现在的40美元。</p>
+<p>它的权限和访问次数跟SuperGrok一致，所以我更加推荐你直接升级Grok平台上的SuperGrok，因为它只需要30美元。</p>
+<p><strong>对应的升级方式，跟上面第一种方法一样。</strong></p>
+<h2 id="方法三：升级SuperGrok"><a href="#方法三：升级SuperGrok" class="headerlink" title="方法三：升级SuperGrok"></a>方法三：升级SuperGrok</h2><p>不怎么使用X（原推特）的朋友，我更建议你直接到Grok官网升级为SuperGrok。</p>
+<p>目前SuperGrok是可以无限制进行绘画，可以使用高级功能次数更多，另外可以提前体验即将推出的大脑模式和语音模式高级功能。</p>
+<blockquote>
+<p>Grok的网页版：<a href="https://link.zhihu.com/?target=https://grok.com">https://grok.com</a></p>
+</blockquote>
+<p>打开Grok网页版，就可以看到SuperGrok的介绍：</p>
+<ul>
+<li>增加 Grok 3 次数</li>
+<li>访问 Grok 3 思维模式</li>
+<li>访问 Grok 3 深度搜索</li>
+<li>无限图像生成</li>
+</ul>
+<p><img src="https://pic4.zhimg.com/v2-23467cf0b1e4f6653cb079446d27151d_1440w.jpg" alt="img"></p>
+<p>有部分用户，没有看到SuperGrok的弹窗，在设置上也可以没有对应升级的按钮。放心，可能是没有推送到你的账号，但是可以通过这种方式激活。</p>
+<p>你在当前官网下，增加一个查询参数<code>?show_subscribe=1</code> 就会弹出SuperGrok的窗口。</p>
+<blockquote>
+<p><a href="https://link.zhihu.com/?target=https://grok.com/?show_subscribe=1">https://grok.com/?show_subscribe&#x3D;1</a></p>
+</blockquote>
+<p><strong>同样也是需要提前准备一张国际信用Visa&#x2F;Master卡。如果没有这种类型的卡的伙伴，可以直接注册一张虚拟Master信用卡。</strong></p>
+<blockquote>
+<p>虚拟Master信用卡：<a target="_blank" rel="noopener" href="https://wildscard.com/">https://wildscard.com</a></p>
+</blockquote>
+<p>注册之后，会有一个美区的Master国际信用卡信息，可以用来订阅升级 <strong>Premium+ 和 SuperGrok</strong> 。</p>
+<p>（1）打开Grok网页版 或者 移动版。<strong>找到 “设置” 点击 “Go Super” 就可以订阅升级 Super Grok。</strong></p>
+<p><img src="https://picx.zhimg.com/v2-6c79e940af7ac8c12f09fac44d16facd_1440w.jpg" alt="img"></p>
+<p>（2）保留 Super Grok 订阅页面不关闭， 我们回到 虚拟卡平台上，选择 X 并查看卡片。 因为Grok属于 XAI的，所以选择 X 服务就行。</p>
+<p><img src="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></p>
+<p>（3）Super Grok 的费用是 30 $, 你通过支付宝给虚拟卡充值30美元即可，不需要额外多充值。</p>
+<p>然后根据平台的教程，进行绑定订阅即可。</p>
+<p><img src="https://pic2.zhimg.com/v2-d897ac1236dd68226c46ce3600c33b77_1440w.jpg" alt="img"></p>
+<blockquote>
+<p><strong>绑卡时，注意使用的魔法建议纯净度良好的。绑定时，被拒的原因，大部分是网络环境问题。</strong></p>
+</blockquote>
+<p>升级完成 SuperGrok 之后，<strong>记得取消续费订阅</strong>，以免下个月自动扣费失败。</p>
+<p>对于开放者来说，会用的Grok API，但是目前Grok3 API 还没有推送，估计要再等2周。</p>
+<p>但是 Grok API 有个白嫖 150 美元 免费额度的教程，开启数据共享之后就可以每个月赠送 150 美元的 API 免费额外。 后续可以用在 Grok3 API。</p>
+<p>具体的教程，你可以参考文章：<a target="_blank" rel="noopener" href="https://chatgpi.cn/how-subscribe-grok3-api-and-x-ai-premium-plus/">【保姆级教程】教你如何白嫖Grok3 API 150 美元免费额度</a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://openssora.com/grok3-rate-limits-and-think-deepsearch-limits-times/" data-id="cm7g29hec0000k9yyehdpdw6z" data-title="Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Grok3-DeepSearch-Limits/" rel="tag">Grok3 DeepSearch Limits</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Grok3-Rate-Limits/" rel="tag">Grok3 Rate Limits</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Grok3-Think-Limits/" rel="tag">Grok3 Think Limits</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/how-access-use-grok3-and-grok3-entrance/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">后一篇</strong>
+      <div class="article-nav-title">国内如何访问和使用Grok3的教程，Grok3的访问入口在哪里等</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">分类</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT/">ChatGPT</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT/Cursor/">Cursor</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT/Cursor/OnlyFans/">OnlyFans</a></li></ul></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT-Plus%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/">ChatGPT Plus升级教程</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86%E5%90%88/">ChatGPT问题集合</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Gemini-Pro%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/">Gemini Pro升级教程</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Grok3%E6%95%99%E7%A8%8B/">Grok3教程</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">标签</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Azure/" rel="tag">Azure</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT/" rel="tag">ChatGPT</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-Plus-Pro/" rel="tag">ChatGPT Plus Pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-Plus%E8%B4%B9%E7%94%A8/" rel="tag">ChatGPT Plus费用</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT4-0-Plus-%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT4.0 Plus 最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E5%8D%87%E7%BA%A7%E9%97%AE%E9%A2%98/" rel="tag">ChatGPT升级问题</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/" rel="tag">ChatGPT问题汇总</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86/" rel="tag">ChatGPT问题集</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%99%8D%E6%99%BA/" rel="tag">ChatGPT降智</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%99%8D%E6%99%BA%E4%BA%86%E6%80%8E%E4%B9%88%E8%A7%A3%E9%99%A4/" rel="tag">ChatGPT降智了怎么解除</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude3%E6%B3%A8%E5%86%8C%E4%B8%8E%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/" rel="tag">Claude3注册与升级教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude%E5%8D%87%E7%BA%A7%E6%B3%A8%E5%86%8C/" rel="tag">Claude升级注册</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor/" rel="tag">Cursor</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor-Pro-Business/" rel="tag">Cursor Pro Business</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor%E5%8D%87%E7%BA%A7/" rel="tag">Cursor升级</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Gemini-Advanced/" rel="tag">Gemini Advanced</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-Gemini-Pro/" rel="tag">Google Gemini Pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-One-AI/" rel="tag">Google One AI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-Play/" rel="tag">Google Play</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3/" rel="tag">Grok3</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-DeepSearch-Limits/" rel="tag">Grok3 DeepSearch Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-Rate-Limits/" rel="tag">Grok3 Rate Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-Think-Limits/" rel="tag">Grok3 Think Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Midjourney%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B/" rel="tag">Midjourney订阅教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans/" rel="tag">OnlyFans</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans%E6%94%AF%E4%BB%98%E6%95%99%E7%A8%8B%E6%9C%80%E6%96%B0%E6%96%B9%E6%B3%95%EF%BC%882024%EF%BC%89/" rel="tag">OnlyFans支付教程最新方法（2024）</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI/" rel="tag">OpenAI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-API/" rel="tag">OpenAI API</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-o1/" rel="tag">OpenAI o1</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Premium/" rel="tag">Premium+</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Sora%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/" rel="tag">Sora的技术分析</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/o1-mini/" rel="tag">o1-mini</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/o1-pro/" rel="tag">o1-pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/" rel="tag">openai-api-绑卡及-key-申请教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/" rel="tag">openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/" rel="tag">openai-账号免费注册教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/wildcard%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/" rel="tag">wildcard海外支付解决方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%BE%8E%E5%8C%BA-apple-id-%E6%B3%A8%E5%86%8C%E5%92%8C%E7%BB%91%E5%8D%A1%E6%95%99%E7%A8%8B/" rel="tag">美区-apple-id-注册和绑卡教程</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">归档</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2025/02/">二月 2025</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2025/01/">一月 2025</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/12/">十二月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/11/">十一月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/09/">九月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/08/">八月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/07/">七月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/04/">四月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/03/">三月 2024</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/02/">二月 2024</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">最新文章</h3>
+    <div class="widget">
+      <ul>
+        
+        
+          <li>
+            <span>（1）</span>
+            <a href="/grok3-rate-limits-and-think-deepsearch-limits-times/">Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法</a>
+          </li>
+          
+        
+          <li>
+            <span>（2）</span>
+            <a href="/how-access-use-grok3-and-grok3-entrance/">国内如何访问和使用Grok3的教程，Grok3的访问入口在哪里等</a>
+          </li>
+          
+        
+          <li>
+            <span>（3）</span>
+            <a href="/how-payment-5000-cursor-pro-business/">教你国内如何升级充值购买5千次额度的Cursor Pro 和 Business账号</a>
+          </li>
+          
+        
+          <li>
+            <span>（4）</span>
+            <a href="/gpt-o1-and-o1-mini-usage-limits-on-chatgpt/">ChatGPT Plus和Pro用户可以用多少次 o1 和 o1-mini 以及 GPT-4o、GPT-4呢？</a>
+          </li>
+          
+        
+          <li>
+            <span>（5）</span>
+            <a href="/how-subscribe-google-gemini-pro/">ChatGPT降智了，教你如何免费白嫖一个月的Gemini Pro来代替，如何升级Gemini Pro、Google One AI，如何订阅购买Gemini Advanced服务</a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2025 周星星<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+    <a href="/links" class="mobile-nav-link">友链</a>
+  
+</nav>
+    
+
+
+<script src="/js/jquery-3.6.4.min.js"></script>
+
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+
+  </div>
+</body>
+</html>
