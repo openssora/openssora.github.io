@@ -2044,7 +2044,10 @@
 <p><img src="https://pic1.zhimg.com/v2-fd7b5208380e163c976d54155cce955c_1440w.jpg" alt="img"></p>
 <p><strong>当前测试到的数据，Grok3的Think推理模式和DeepSearch模式次数上限是每天最多各5次。总共10次调用。</strong></p>
 <p><img src="https://pic3.zhimg.com/v2-ef58fb4a8cc78c234aa25a88f31e1e0c_1440w.jpg" alt="img"></p>
-<p><strong>我已经开发了对应的Chrome插件，可以实时检查刀自己的调用次数剩下多少和自己可以调用每个功能的次数。</strong> 插件正在审核中，过几天就通过，可以在chrome扩展程序上搜索：<code>grok rate limits</code>。</p>
+<p><strong>我已经开发了对应的Chrome插件，可以实时检查刀自己的调用次数剩下多少和自己可以调用每个功能的次数。</strong> 插件可以在chrome扩展程序上搜索：<code>grok rate limits</code>。</p>
+<blockquote>
+<p>Chrome插件：<a href="https://chromewebstore.google.com/detail/grok-rate-limits/alfhaokdckjioipagadidpbldgfabgjp?hl=zh-CN">https://chromewebstore.google.com/detail/grok-rate-limits/alfhaokdckjioipagadidpbldgfabgjp</a></p>
+</blockquote>
 <p>如果需要关注插件的更多进展，可以留意一下我的最新状态。</p>
 <p>如果需要提高Grok3的DeepSearch 和 Think 高级功能测试的话，可以通过下面几种方式进行提高次数。</p>
 <span id="more"></span>
@@ -2127,6 +2130,47 @@
         <tag>Grok3 Rate Limits</tag>
         <tag>Grok3 Think Limits</tag>
         <tag>Grok3 DeepSearch Limits</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何解决ChatGPT o1和DeepResearch降智或降级（解决风控）</title>
+    <url>/how-solve-gpt-o1-and-deep-research-downgrade-or-degrade/</url>
+    <content><![CDATA[<p>最近发现ChatGPT又进行一波大规模封号，目前发现是针对IP质量差和滥用GPT的用户。</p>
+<p><strong>另外，很多波及到的用户，ChatGPT也被降智了，无法使用o1模型，或者DeepResearch功能也无法使用。</strong></p>
+<p>这种情况都是被ChatGPT标记了账号进行降智了，同时你的其他账号也无法正常使用。 这是因为，它标记的不仅是你的账号，还有你当前使用的IP。 </p>
+<p>正常情况下的<code>o1-pro</code>推理情况，他是有进度条进行推理的，而不是思考不到5秒就出结果。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-64dcfb8285fc3706ff378c878fd653ab_1440w.png" alt="正常"></p>
+<p>目前降智风控越来越严重了！有网友猜测是OpenAI准备发布GPT-4.5，所以调用算力去训练测试GPT-4.5。</p>
+<span id="more"></span>
+
+<p>不过，<strong>目前已经有方法可以解决降智的情况</strong>，具体的原因和解决方法可以参考这个，不过需要付费微信豆，我已经付费测试了一波，确实有效。</p>
+<blockquote>
+<p><strong>解决方法：</strong> <a href="https://mp.weixin.qq.com/s/N-lxZmoP1VWlszQ0_WTYNQ">https://mp.weixin.qq.com/s/N-lxZmoP1VWlszQ0_WTYNQ</a></p>
+</blockquote>
+<p>安卓端兑换微信豆的比例是1:10，而在iOS苹果端则是1:7，因为苹果要收过路费，所以会少3颗豆。 建议苹果用户，直接在微信官方发布的1:10充值渠道，</p>
+<blockquote>
+<p>手机端：<a href="https://webeans.url.cn/mobile/pay">https://webeans.url.cn/mobile/pay</a> （只能微信内打开）</p>
+</blockquote>
+<blockquote>
+<p>电脑端：<a href="https://webeans.url.cn/">https://webeans.url.cn/</a> （只能电脑上打开）</p>
+</blockquote>
+<p>我已经对这个顶级域名<code>url.cn</code>进行查询，确实是腾讯官方注册的，所以放心使用。</p>
+<p><img src="https://picx.zhimg.com/80/v2-224e73aa5a097a623ee9fb8bd3403010_1440w.png"></p>
+<h2 id="检测降智的方法"><a href="#检测降智的方法" class="headerlink" title="检测降智的方法"></a>检测降智的方法</h2><p>根据文章的检测方法其中之一：<strong>提示词方法</strong></p>
+<p>通常ChatGPT被降级后，可以通过测试GPT-4o是否能绘画&#x2F;搜索来确定。</p>
+<p>另一种方式就是告诉GPT-4o，让它把当前可用的工具生成一个markdown表格给你。</p>
+<blockquote>
+<p>prompt: summarize your tool in a markdown table with availability</p>
+</blockquote>
+<p>被降级后的输出，只有一种工具或者两种工具。如下图：</p>
+<p><img src="https://pic1.zhimg.com/v2-7aaad67c2ed7965618865111c633d3bc_1440w.jpg" alt="降级后"></p>
+<p>没有被降级的情况下，是输出多种工具，如下图：</p>
+<p><img src="https://pic1.zhimg.com/v2-6eae03d8447e20648448a87c8ce74bfe_1440w.jpg" alt="正常"></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT 降智解决</tag>
+        <tag>ChatGPT o1 降智解决</tag>
+        <tag>ChatGPT DeepResearch 降智解决</tag>
       </tags>
   </entry>
 </search>
