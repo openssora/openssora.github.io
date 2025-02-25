@@ -84,6 +84,64 @@
       <div class="outer">
         <section id="main">
   
+    <article id="post-how-reslove-Azure-banned-OpenAI-Service" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/how-reslove-Azure-banned-OpenAI-Service/" class="article-date">
+  <time class="dt-published" datetime="2024-11-11T03:18:14.000Z" itemprop="datePublished">2024-11-11</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86%E5%90%88/">ChatGPT问题集合</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/how-reslove-Azure-banned-OpenAI-Service/">（小白教程）怎么解决Azure封禁OpenAI Service API服务调用出现了Forbidden 403的问题</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p>最近很多使用Azure的OpenAI Service API服务调用出现了Forbidden，原因是Azure封禁了大陆个人开发者调用了。在上个月，很多个人开发者已经收到了 Azure的邮件通知，该邮件信息如下：</p>
+<blockquote>
+<p>Your Azure OpenAI Service will be terminated on 21 October 2024</p>
+</blockquote>
+<p>也就是将要封禁大陆的API调用，时间是2024&#x2F;10&#x2F;21. 但是没有立即封禁，大部分开发者都是在月底才开始被停止调用。停止后，如果调用Open API 时，会有类似下面这个错误：</p>
+<blockquote>
+<p>403: {“error”:{“code”:”Forbidden”,”message”:”Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit <a target="_blank" rel="noopener" href="https://aka.ms/aoaicodeofconduct%22%7D%7D">https://aka.ms/aoaicodeofconduct&quot;}}</a></p>
+</blockquote>
+<h2 id="那么如何解决-Azure-封禁-OpenAI-服务调用的问题呢？"><a href="#那么如何解决-Azure-封禁-OpenAI-服务调用的问题呢？" class="headerlink" title="那么如何解决 Azure 封禁 OpenAI 服务调用的问题呢？"></a>那么如何解决 Azure 封禁 OpenAI 服务调用的问题呢？</h2><p>首先，可以找平替方案，其次就是针对Azure使用不同的认证。</p>
+<p>平替方案可以用这些：<code>openrouter、wildcard、chatgpt to api</code>这几种方式。</p>
+        
+          <p class="article-more-link">
+            <a href="/how-reslove-Azure-banned-OpenAI-Service/#more">点击查看更多</a>
+          </p>
+        
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://openssora.com/how-reslove-Azure-banned-OpenAI-Service/" data-id="cm3chcucm0001c7yyf2epd6r9" data-title="（小白教程）怎么解决Azure封禁OpenAI Service API服务调用出现了Forbidden 403的问题" class="article-share-link"><span class="fa fa-share">分享</span></a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Azure/" rel="tag">Azure</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/OpenAI-API/" rel="tag">OpenAI API</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
     <article id="post-how-subscribe-gpt4-plus" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
     <a href="/how-subscribe-gpt4-plus/" class="article-date">
@@ -523,52 +581,6 @@
 
 
   
-    <article id="post-upgrade-gpt4-turbo" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
-  <div class="article-meta">
-    <a href="/upgrade-gpt4-turbo/" class="article-date">
-  <time class="dt-published" datetime="2024-04-13T18:51:09.000Z" itemprop="datePublished">2024-04-14</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/upgrade-gpt4-turbo/">解决 GPT-4 Turbo 如何升级教程，如何检验自己的GPT-4升级为Turbo的方法</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="e-content article-entry" itemprop="articleBody">
-      
-        <p><strong>ChatGPT4 Turbo 如何升级？解决国内无法升级GPT4 Turbo的问题，本文会教大家如何升级自己的GPT-4 Turbo，以及为什么GPT-4还不是Turbo的原因。</strong>（下文会手把手教大家升级自己的GPT4 Turbo，和检验自己的GPT4 Turbo）【截止2024.4月份有效】</p>
-<h2 id="新的-GPT-4-Turbo-和-Claude-3-测试对比"><a href="#新的-GPT-4-Turbo-和-Claude-3-测试对比" class="headerlink" title="新的 GPT-4 Turbo 和 Claude 3 测试对比"></a>新的 GPT-4 Turbo 和 Claude 3 测试对比</h2><p>另外，Open AI对GPT-4 Turbo 和 Claude 3 进行重新的测试对比， GPT-4 Turbo的能力重回了大语言模型榜一大哥。</p>
-        
-          <p class="article-more-link">
-            <a href="/upgrade-gpt4-turbo/#more">点击查看更多</a>
-          </p>
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="https://openssora.com/upgrade-gpt4-turbo/" data-id="cm11pt5bw001oc8yy3jmz36hs" data-title="解决 GPT-4 Turbo 如何升级教程，如何检验自己的GPT-4升级为Turbo的方法" class="article-share-link"><span class="fa fa-share">分享</span></a>
-      
-      
-      
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/ChatGPT4-0-Plus-%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT4.0 Plus 最新升级方法</a></li></ul>
-
-    </footer>
-  </div>
-  
-</article>
-
-
-
-  
 
 
   <nav id="page-nav">
@@ -594,7 +606,7 @@
   <div class="widget-wrap">
     <h3 class="widget-title">标签</h3>
     <div class="widget">
-      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Azure/" rel="tag">Azure</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT/" rel="tag">ChatGPT</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-DeepResearch-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/" rel="tag">ChatGPT DeepResearch 降智解决</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-Plus-Pro/" rel="tag">ChatGPT Plus Pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-Plus%E8%B4%B9%E7%94%A8/" rel="tag">ChatGPT Plus费用</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-o1-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/" rel="tag">ChatGPT o1 降智解决</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/" rel="tag">ChatGPT 降智解决</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT4-0-Plus-%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT4.0 Plus 最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E5%8D%87%E7%BA%A7%E9%97%AE%E9%A2%98/" rel="tag">ChatGPT升级问题</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/" rel="tag">ChatGPT问题汇总</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86/" rel="tag">ChatGPT问题集</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%99%8D%E6%99%BA/" rel="tag">ChatGPT降智</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%99%8D%E6%99%BA%E4%BA%86%E6%80%8E%E4%B9%88%E8%A7%A3%E9%99%A4/" rel="tag">ChatGPT降智了怎么解除</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude3%E6%B3%A8%E5%86%8C%E4%B8%8E%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/" rel="tag">Claude3注册与升级教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude%E5%8D%87%E7%BA%A7%E6%B3%A8%E5%86%8C/" rel="tag">Claude升级注册</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor/" rel="tag">Cursor</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor-Pro-Business/" rel="tag">Cursor Pro Business</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor%E5%8D%87%E7%BA%A7/" rel="tag">Cursor升级</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Gemini-Advanced/" rel="tag">Gemini Advanced</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-Gemini-Pro/" rel="tag">Google Gemini Pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-One-AI/" rel="tag">Google One AI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-Play/" rel="tag">Google Play</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3/" rel="tag">Grok3</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-DeepSearch-Limits/" rel="tag">Grok3 DeepSearch Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-Rate-Limits/" rel="tag">Grok3 Rate Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-Think-Limits/" rel="tag">Grok3 Think Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Midjourney%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B/" rel="tag">Midjourney订阅教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans/" rel="tag">OnlyFans</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans%E6%94%AF%E4%BB%98%E6%95%99%E7%A8%8B%E6%9C%80%E6%96%B0%E6%96%B9%E6%B3%95%EF%BC%882024%EF%BC%89/" rel="tag">OnlyFans支付教程最新方法（2024）</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI/" rel="tag">OpenAI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-API/" rel="tag">OpenAI API</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-o1/" rel="tag">OpenAI o1</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Premium/" rel="tag">Premium+</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Sora%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/" rel="tag">Sora的技术分析</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/o1-mini/" rel="tag">o1-mini</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/o1-pro/" rel="tag">o1-pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/" rel="tag">openai-api-绑卡及-key-申请教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/" rel="tag">openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/" rel="tag">openai-账号免费注册教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/wildcard%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/" rel="tag">wildcard海外支付解决方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%BE%8E%E5%8C%BA-apple-id-%E6%B3%A8%E5%86%8C%E5%92%8C%E7%BB%91%E5%8D%A1%E6%95%99%E7%A8%8B/" rel="tag">美区-apple-id-注册和绑卡教程</a></li></ul>
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Azure/" rel="tag">Azure</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT/" rel="tag">ChatGPT</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-DeepResearch-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/" rel="tag">ChatGPT DeepResearch 降智解决</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-Plus-Pro/" rel="tag">ChatGPT Plus Pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-Plus%E8%B4%B9%E7%94%A8/" rel="tag">ChatGPT Plus费用</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-o1-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/" rel="tag">ChatGPT o1 降智解决</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/" rel="tag">ChatGPT 降智解决</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT4-0-Plus-%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT4.0 Plus 最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E5%8D%87%E7%BA%A7%E9%97%AE%E9%A2%98/" rel="tag">ChatGPT升级问题</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/" rel="tag">ChatGPT最新升级方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/" rel="tag">ChatGPT问题汇总</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86/" rel="tag">ChatGPT问题集</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%99%8D%E6%99%BA/" rel="tag">ChatGPT降智</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/ChatGPT%E9%99%8D%E6%99%BA%E4%BA%86%E6%80%8E%E4%B9%88%E8%A7%A3%E9%99%A4/" rel="tag">ChatGPT降智了怎么解除</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude3%E6%B3%A8%E5%86%8C%E4%B8%8E%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/" rel="tag">Claude3注册与升级教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Claude%E5%8D%87%E7%BA%A7%E6%B3%A8%E5%86%8C/" rel="tag">Claude升级注册</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor/" rel="tag">Cursor</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor-Pro-Business/" rel="tag">Cursor Pro Business</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Cursor%E5%8D%87%E7%BA%A7/" rel="tag">Cursor升级</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Gemini-Advanced/" rel="tag">Gemini Advanced</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-Gemini-Pro/" rel="tag">Google Gemini Pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-One-AI/" rel="tag">Google One AI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Google-Play/" rel="tag">Google Play</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3/" rel="tag">Grok3</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-DeepSearch-Limits/" rel="tag">Grok3 DeepSearch Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-Rate-Limits/" rel="tag">Grok3 Rate Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Grok3-Think-Limits/" rel="tag">Grok3 Think Limits</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Midjourney%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B/" rel="tag">Midjourney订阅教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans/" rel="tag">OnlyFans</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OnlyFans%E6%94%AF%E4%BB%98%E6%95%99%E7%A8%8B%E6%9C%80%E6%96%B0%E6%96%B9%E6%B3%95%EF%BC%882024%EF%BC%89/" rel="tag">OnlyFans支付教程最新方法（2024）</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI/" rel="tag">OpenAI</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-API/" rel="tag">OpenAI API</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/OpenAI-o1/" rel="tag">OpenAI o1</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Premium/" rel="tag">Premium</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Premium/" rel="tag">Premium+</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Sora%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/" rel="tag">Sora的技术分析</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/o1-mini/" rel="tag">o1-mini</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/o1-pro/" rel="tag">o1-pro</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/" rel="tag">openai-api-绑卡及-key-申请教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/" rel="tag">openai-支付出现-您的银行卡被拒绝-your-card-has-been-declined-怎么办</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/" rel="tag">openai-账号免费注册教程</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/wildcard%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/" rel="tag">wildcard海外支付解决方法</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%8F%90%E9%AB%98Grok3%E6%AC%A1%E6%95%B0/" rel="tag">提高Grok3次数</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E7%BE%8E%E5%8C%BA-apple-id-%E6%B3%A8%E5%86%8C%E5%92%8C%E7%BB%91%E5%8D%A1%E6%95%99%E7%A8%8B/" rel="tag">美区-apple-id-注册和绑卡教程</a></li></ul>
     </div>
   </div>
 
@@ -619,31 +631,31 @@
         
           <li>
             <span>（1）</span>
-            <a href="/how-solve-gpt-o1-and-deep-research-downgrade-or-degrade/">如何解决ChatGPT o1和DeepResearch降智或降级（解决风控）</a>
+            <a href="/how-increase-grok3-think-search-times/">教你如何提高升级Grok3的深度搜索和推理次数，以及Grok3官网访问入口</a>
           </li>
           
         
           <li>
             <span>（2）</span>
-            <a href="/grok3-rate-limits-and-think-deepsearch-limits-times/">Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法</a>
+            <a href="/how-solve-gpt-o1-and-deep-research-downgrade-or-degrade/">如何解决ChatGPT o1和DeepResearch降智或降级（解决风控）</a>
           </li>
           
         
           <li>
             <span>（3）</span>
-            <a href="/how-access-use-grok3-and-grok3-entrance/">国内如何访问和使用Grok3的教程，Grok3的访问入口在哪里等</a>
+            <a href="/grok3-rate-limits-and-think-deepsearch-limits-times/">Grok3的次数限制和Think、DeepSearch的次数限制说明，以及如何提高Grok3次数调用的几种方法</a>
           </li>
           
         
           <li>
             <span>（4）</span>
-            <a href="/how-payment-5000-cursor-pro-business/">教你国内如何升级充值购买5千次额度的Cursor Pro 和 Business账号</a>
+            <a href="/how-access-use-grok3-and-grok3-entrance/">国内如何访问和使用Grok3的教程，Grok3的访问入口在哪里等</a>
           </li>
           
         
           <li>
             <span>（5）</span>
-            <a href="/gpt-o1-and-o1-mini-usage-limits-on-chatgpt/">ChatGPT Plus和Pro用户可以用多少次 o1 和 o1-mini 以及 GPT-4o、GPT-4呢？</a>
+            <a href="/how-payment-5000-cursor-pro-business/">教你国内如何升级充值购买5千次额度的Cursor Pro 和 Business账号</a>
           </li>
           
         
