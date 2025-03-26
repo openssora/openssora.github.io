@@ -2369,4 +2369,89 @@
         <tag>cursor支付宝升级</tag>
       </tags>
   </entry>
+  <entry>
+    <title>国内如何访问和使用Gemini 2.5 Pro，以及免费使用的官方访问入口在哪里等</title>
+    <url>/how-access-use-gemini-2-5-pro-and-gemini-advanced-entrance/</url>
+    <content><![CDATA[<p><strong>介绍一下，Gemini 2.5 Pro 几个免费使用的入口，同时教大家如何获取Gemini Advanced一个月的免费试用额度。</strong></p>
+<p>想要使用Gemini 2.5 Pro 最新模型，你可以通过下面两种方式使用：</p>
+<ol>
+<li><code>ai.dev</code>，也就是原谷歌的aistudio，现在重定向到谷歌的aistudio官网。</li>
+</ol>
+<p><img src="https://pic3.zhimg.com/80/v2-25bae3384f7f59541291baad7e835480_1440w.webp" alt="img"></p>
+<ol>
+<li><code>gemini.google.com</code>，也就是谷歌的Gemini官网，可以直接在上面使用各种最新模型。</li>
+</ol>
+<p><img src="https://picx.zhimg.com/80/v2-14b6bce07fe521c38775614e31745b4b_1440w.webp" alt="img"></p>
+<p><strong>gemini官网上使用稳定的Gemini 2.5 Pro模型的话，需要升级为Gemini Advanced。</strong></p>
+<p>不过，<strong>新用户可以免费升级</strong>，也就是可以免费拿到一个月的Gemini Advanced服务。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>前置条件就是 新用户 + 绑定卡。</p>
+</blockquote>
+<p>针对国内用户常见的境外支付壁垒（双币卡支付失败等问题），推荐采用Visa 或 Mastercard 类型的信用卡，但是这这种卡大多数用户都没有。</p>
+<p>但是可以申请一张Master虚拟卡来解决，目前我用了2年左右的时间了，挺稳定。</p>
+<p><strong>Master虚拟卡注册：<a href="https://wildscard.com/">https://wildscard.com</a></strong></p>
+<p>先注册一个新的谷歌用户，如何登录后，就可以看到这几个标志，点击其中一个就行。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-b1037647c174ffa9ccaa2c13fb9839e2_1440w.webp" alt="img"></p>
+<p>就会进入升级Gemini Advanced 的页面，页面有这个显示，就是代表你可以免费获取一个月的Gemini Advanced。</p>
+<p><img src="https://pica.zhimg.com/80/v2-2b33a7c170709b5d11b3bd95f0d59032_1440w.webp" alt="img"></p>
+<p><strong>接下来，我们去申请注册一张Master虚拟卡来进行绑卡，然后再进行取消即可。</strong></p>
+<p>申请之后，可以选择需要订阅的服务：<strong>Google</strong>。</p>
+<p><strong>Master虚拟卡申请：<a href="https://wildscard.com/">https://wildscard.com</a></strong></p>
+<p><img src="https://pic3.zhimg.com/80/v2-c4477d612a32f4d4a1c6f0539a4c4f22_1440w.webp" alt="img"></p>
+<p><strong>接着使用支付宝给Master虚拟卡充值对应的金额，如：5美金。</strong></p>
+<p>你是新用户，充值5美金就行，绑卡之后，再把5美金提现回支付就行。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-003f70011f422027c4c503992b51d7de_1440w.webp" alt="img"></p>
+<p>完成之后，<strong>确保Master虚拟卡有余额</strong>，就可以进行绑卡，<strong>绑卡成功之后就可以获取到一个月的Gemini Advanced。</strong></p>
+<p>回到Gemini页面，点击开始订阅之后，就可以添加你的卡，这个卡你就可以用你刚刚申请的Master虚拟卡。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-ac23813f24c619fd41918bb3e66dffb6_1440w.webp" alt="img"></p>
+<p>这些信息都在Master虚拟卡上面，直接把虚拟卡的信息全部填入到这里面，然后点击保存就行。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-e321be72e9b66c2de9d237ac3b1517f8_1440w.webp" alt="img"></p>
+<p>保存之后，就可以选择你的卡号进行一个订阅，就可以开通免费使用Gemini Advanced 服务啦。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-45c8e9eff95a83579270dc57531054e7_1440w.webp" alt="img"></p>
+<p>更加详细的教程，可以参考这个：<a href="https://upchatgpt.cn/how-subscribe-gemini-pro/">国内如何通过支付宝订阅Gemini Pro的教程，Gemini Pro 免费试用操作步骤</a></p>
+<h3 id="Gemini-2-5-Pro"><a href="#Gemini-2-5-Pro" class="headerlink" title="Gemini 2.5 Pro"></a>Gemini 2.5 Pro</h3><p>早上实测了一下 Gemini2.5 Pro，中文效果已经媲美 Claude3.7</p>
+<p>现在不仅 2.5 Pro 上线了，另一个Gemini 2.0 -flash-think-exp 也上线了。</p>
+<p>前段时间比较火的，绘图的功能就是<strong>Gemini-2.0-flash-think-exp</strong>。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-33e4da291d9bacd45a63d8259fead226_1440w.webp" alt="img"></p>
+]]></content>
+      <tags>
+        <tag>Google Gemini 2.5 Pro</tag>
+        <tag>Google Gemini Advanced</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GPT-4o画图次数限制多少，以及最新的ChatGPT Plus 通过支付宝升级订阅充值教程</title>
+    <url>/how-subscribe-chatgpt-plus-and-gpt-4o-usage-limits/</url>
+    <content><![CDATA[<p>下面介绍一下如何查询GPT-4o绘画次数限制多少，ChatGPT Plus怎么充值订阅教程。你可以通过支付宝的方式进行升级 GPT Plus。</p>
+<p>OpenAI今天发布了GPT-4o的新绘画功能，简直吊打其他大模型的绘画了。 这次GPT-4o的多模态是真的强，再过几天，估计会刷屏 GPT-4o。</p>
+<p><strong>目前，GPT-4o 绘图功能的次数限制次数跟账号类型有关。</strong></p>
+<p>比如 Plus用户可以使用 GPT-4o 80次&#x2F;3小时，那么就是可以绘画的次数就是 80次&#x2F;3小时。 这取决你的模型可调用次数。</p>
+<p>GPT模型次数统计，我是使用这个插件进行统计，不过数据是存在本地的，没有联网功能。</p>
+<p><strong>GPT模型次数统计插件👉：</strong> <a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm%3Fauthuser%3D0%26hl%3Dzh-CN">ChatGPT Degrade Checker</a></p>
+<p><img src="https://pic4.zhimg.com/v2-191be9cb3612fd0de909a13b9907c1af_1440w.jpg" alt="数据截止2025/03/10之前"></p>
+<p>现在<strong>国内升级Plus的方式</strong>，也不难，直接申请一张虚拟卡进行支付就行了。</p>
+<p><strong>为什么要虚拟卡？</strong></p>
+<p>针对国内用户常见的境外支付壁垒（双币卡支付失败等问题），推荐采用Visa 或 Mastercard 类型的信用卡，但是这这种卡大多数用户都没有。</p>
+<p>就只剩“Master虚拟信用卡”这一条了，大家别看虚拟这两个字，其实虚拟信用卡的别名是 <strong>“不记名预充值卡”</strong>，也就是不记录这种卡是谁的，你充多少钱就可以花多少钱，这种也是国外安全合规的支付方式。</p>
+<p><strong>Master虚拟卡官网注册：<a href="https://wildscard.com/">https://wildscard.com</a></strong></p>
+<span id="more"></span>
+
+<p>这个Master虚拟卡，我已经用了2年了，还算稳定。</p>
+<p>具体的ChatGPT Plus 或者 ChatGPT Pro 订阅升级教程，也不难。</p>
+<p>申请之后，可以选择需要订阅的服务：<strong>ChatGPT</strong>。</p>
+<p><img src="https://picx.zhimg.com/80/v2-e4cec8db68c14fdb60150a00c387ac7b_1440w.webp" alt="img"></p>
+<p>接着使用支付宝给Master虚拟卡充值对应的金额，如：20美金。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-5a8746cc31703900564f9f12fb846dbb_1440w.webp" alt="img"></p>
+<p>然后就可以拿着卡号信息，回到 ChatGPT 官网去绑定和支付。</p>
+<p>如果不知道怎么绑定的话，直接用【一键升级】，把绑卡的订阅链接复制到这里来，大概等待10分钟左右，就完成了。</p>
+<p><img src="https://pica.zhimg.com/80/v2-a47ba15663595a3aed11250807562abe_1440w.webp" alt="img"></p>
+<p><strong>更加具体的教程的话，可以参考这个：</strong> <a href="https://upchatgpt.cn/how-pay-upgrade-chatgpt-in-openai/">国内如何通过支付宝升级ChatGPT Plus的教程</a></p>
+]]></content>
+      <tags>
+        <tag>GPT-4o</tag>
+        <tag>ChatGPT Plus 充值升级教程</tag>
+      </tags>
+  </entry>
 </search>
