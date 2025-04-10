@@ -2511,4 +2511,63 @@
         <tag>ChatGPT Plus 无法升级和绑定银行卡的教程</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Grok3 API 已经免费开放了！附上免费使用 Grok3 API的教程</title>
+    <url>/how-free-use-grok3-api/</url>
+    <content><![CDATA[<p>Grok3 API 现在已经全网上线可以使用，只要绑定卡并且充值不低于5美金就可以免费使用Grok3 API。<strong>（下面有免费水用Grok3 API 的教程）</strong></p>
+<p><img src="https://pic2.zhimg.com/v2-250ee3fafd546222bd00c620b4a8f935_1440w.jpg" alt="img"></p>
+<p>grok-3-beta和grok-3-mini-beta 现在可用，支持文本模式，上下文窗口为131072 tokens</p>
+<p><strong>定价（每百万tokens）：</strong></p>
+<ul>
+<li>grok-3-beta，输入：3.00美元，输出：15.00美元</li>
+<li>grok-3-mini-beta，输入：0.30美元，输出：0.50美元</li>
+</ul>
+<p><img src="https://pic3.zhimg.com/v2-309a8f03f631e45dc662401d7973c86c_1440w.jpg" alt="img"></p>
+<p><strong>另外两个模型还支持了对应的fast版本，也就是请求速度和响应更快，但是价格也更高。</strong></p>
+<p>虽然API目前处于beta阶段，但xAI计划频繁更新Grok 3模型，并可能在未来添加更多功能，如视觉和图像生成。</p>
+<h2 id="怎么免费使用Grok3-API"><a href="#怎么免费使用Grok3-API" class="headerlink" title="怎么免费使用Grok3 API"></a>怎么免费使用Grok3 API</h2><p>教程开始之前，肯定得先知道Grok API平台，并且注册一个账号，<strong>建议使用“谷歌邮箱”登录，</strong> 下面就是Grok API 开发者平台：”console.x.ai”</p>
+<p><strong>那么如何才可以薅到Grok API 的 150美元体验金呢？有个前置条件：</strong></p>
+<ol>
+<li>绑定卡，并充值最低 5 美</li>
+<li>加入数据共享计划</li>
+</ol>
+<p><img src="https://pic3.zhimg.com/v2-7038006d7554a311fe3092173d3b6d5c_1440w.jpg" alt="150美刀免费额度"></p>
+<p><strong>国内如何绑卡并充值 Grok API 5 美元呢？</strong></p>
+<p>如果你有国内的visa、master国际信用卡，也可以尝试。<strong>如果不行，或者没有国际信用卡的话，就使用Master虚拟卡。</strong></p>
+<blockquote>
+<p><strong>Master虚拟卡</strong>：<a href="https://yeka.cc/">https://yeka.cc</a></p>
+</blockquote>
+<p>申请之后，会有一个美区的Master国际信用卡信息，可以把这些信息进行绑定 X AI 平台，也就是 Grok API 平台。</p>
+<span id="more"></span>
+
+<p><img src="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></p>
+<p>先给虚拟卡充值5美刀，可以使用支付宝进行充值，不使用的话，可以直接提现。</p>
+<p><img src="https://pic4.zhimg.com/v2-f7207a4e09f15cc3543cbd8a0ef2211f_1440w.jpg" alt="img"></p>
+<p><strong>绑卡时，注意使用的魔法建议纯净度良好的，自测方式：<a href="https://link.zhihu.com/?target=http://ping0.cc">http://ping0.cc</a>。 绑定时，被拒的原因，大部分是网络环境问题。</strong></p>
+<p>打开 Grok API 平台：“console.x.ai” 按下面，找到 “Payment settings” 进行 填写账单地址，然后再添加卡。</p>
+<p>这两个信息都直接用虚拟卡上的信息即可。<strong>虚拟卡上没有的信息，可以不用填，比如 最下方的电话号码。</strong></p>
+<p><img src="https://pic1.zhimg.com/v2-2dedea6771c1a612ec4281ca6b34a5f8_1440w.jpg" alt="img"></p>
+<p>填完账单地址之后，就可以进行绑卡了，绑定之后，充值 5 美元即可。</p>
+<p><img src="https://pic1.zhimg.com/v2-eda86ab55888c0e0f9472d3c9556c6de_1440w.jpg" alt="img"></p>
+<p>这里，我使用的魔法节点是美区｜原生｜IP，纯净度还可以。就直接一次性过了，不通过的情况下，可以重试哈。</p>
+<p><img src="https://picx.zhimg.com/v2-836f9c59006c27b52629812e4a0dc80b_1440w.jpg" alt="img"></p>
+<p><img src="https://pica.zhimg.com/v2-5e2faf5afb65204d626a1bb34ec097fc_1440w.jpg" alt="img"></p>
+<p>绑定成功之后，有一条预扣款 0 元的信息：</p>
+<p><img src="https://pica.zhimg.com/v2-b5cedcc283ac42e1af94d039eeffe1dc_1440w.jpg" alt="img"></p>
+<p>确保自己的虚拟卡账户有 5 美元，<strong>最后一步：现在你可以进行一个充值5美元的操作了。</strong></p>
+<p>找到 “Credits”，然后往下滑动， 找到 “Purchase credits” 进行支付即可。</p>
+<p><img src="https://pic2.zhimg.com/v2-0b0aa0313dcae98cd08e5eb93c9fac03_1440w.jpg" alt="img"></p>
+<p>成功之后，开启数据共享协议，就可以有下面这个150美元的免费额度啦～</p>
+<p><img src="https://pic3.zhimg.com/v2-7038006d7554a311fe3092173d3b6d5c_1440w.jpg" alt="150美刀免费额度"></p>
+<p>如果，你充值了 5 美元之后，还没有到账 150 美元的话，可以来这里查 <a href="https://link.zhihu.com/?target=https://docs.x.ai/docs/data-sharing%23how-it-works">Free Credits via Data Sharing | xAI Docs</a>，因为<strong>需要签署一个数据共享协议</strong>:</p>
+<p><img src="https://pic3.zhimg.com/v2-3980a79327d9df410915299ff2488ff4_1440w.jpg" alt="img"></p>
+<p>你充值5美元之后，在下方测试是否有资格的，可以点击 “check for eligibility“ 就行，之后再到 ”credit“ 里面选择共享数据就可以获得150美元的额度：</p>
+<p><img src="https://pic3.zhimg.com/v2-cbcb1c0a69594983b1689884ccea6ec2_1440w.jpg" alt="img"></p>
+]]></content>
+      <tags>
+        <tag>Grok3 API 免费额度</tag>
+        <tag>Grok3 API 150美金教程</tag>
+        <tag>Grok3 API 定价</tag>
+      </tags>
+  </entry>
 </search>
