@@ -2525,7 +2525,9 @@
 <p><img src="https://pic3.zhimg.com/v2-309a8f03f631e45dc662401d7973c86c_1440w.jpg" alt="img"></p>
 <p><strong>另外两个模型还支持了对应的fast版本，也就是请求速度和响应更快，但是价格也更高。</strong></p>
 <p>虽然API目前处于beta阶段，但xAI计划频繁更新Grok 3模型，并可能在未来添加更多功能，如视觉和图像生成。</p>
-<h2 id="怎么免费使用Grok3-API"><a href="#怎么免费使用Grok3-API" class="headerlink" title="怎么免费使用Grok3 API"></a>怎么免费使用Grok3 API</h2><p>教程开始之前，肯定得先知道Grok API平台，并且注册一个账号，<strong>建议使用“谷歌邮箱”登录，</strong> 下面就是Grok API 开发者平台：”console.x.ai”</p>
+<h2 id="怎么免费使用Grok3-API"><a href="#怎么免费使用Grok3-API" class="headerlink" title="怎么免费使用Grok3 API"></a>怎么免费使用Grok3 API</h2><span id="more"></span>
+
+<p>教程开始之前，肯定得先知道Grok API平台，并且注册一个账号，<strong>建议使用“谷歌邮箱”登录，</strong> 下面就是Grok API 开发者平台：”console.x.ai”</p>
 <p><strong>那么如何才可以薅到Grok API 的 150美元体验金呢？有个前置条件：</strong></p>
 <ol>
 <li>绑定卡，并充值最低 5 美</li>
@@ -2538,8 +2540,6 @@
 <p><strong>Master虚拟卡</strong>：<a href="https://yeka.cc/">https://yeka.cc</a></p>
 </blockquote>
 <p>申请之后，会有一个美区的Master国际信用卡信息，可以把这些信息进行绑定 X AI 平台，也就是 Grok API 平台。</p>
-<span id="more"></span>
-
 <p><img src="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></p>
 <p>先给虚拟卡充值5美刀，可以使用支付宝进行充值，不使用的话，可以直接提现。</p>
 <p><img src="https://pic4.zhimg.com/v2-f7207a4e09f15cc3543cbd8a0ef2211f_1440w.jpg" alt="img"></p>
@@ -2568,6 +2568,49 @@
         <tag>Grok3 API 免费额度</tag>
         <tag>Grok3 API 150美金教程</tag>
         <tag>Grok3 API 定价</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>教你解决GPT4o无法使用新版图片生成功能的教程</title>
+    <url>/how-resolved-gpt4o-could-not-generate-graphs/</url>
+    <content><![CDATA[<p><strong>下面教你解决GPT4o无法使用新版图片生成功能，以及为什么GPT4o只能使用旧版图片生成的原因。</strong> 最近发现很多人无法使用GPT4o的最新绘画功能（Image Create），即使你是Plus用户，GPT4o绘画也还是调用了旧版的DALL-E功能，无法使用新图片功能。</p>
+<blockquote>
+<p>由旧版图片生成功能制作。新图片即将推出。</p>
+</blockquote>
+<p><strong>GPT4o无法使用新版的图片生成功能原因有下面几点：</strong></p>
+<ol>
+<li>免费用户，GPT4o新版功能只能使用3次。</li>
+<li>Plus用户，GPT被降智了。</li>
+<li>GPT4o 新生图功能，GPU算力不足，OpenAI调整限制了速率。</li>
+<li>账号共享，多设备登录被风控。</li>
+</ol>
+<p>如果你是从正规渠道进行升级的 ChatGPT Plus 以及 没有使用一些滥用的魔法这些，正常不会被限制太严格。</p>
+<p>GPT限制用户就像一个黑盒。原因也可能不止这4点，如果你有其他发现也可以分享给大家。</p>
+<p>我一直使用的是家庭宽带，所以很少碰到一些降智或者限制之类的。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-d31d3be0c77f867039b36aa892c65e76_1440w.webp" alt="img"></p>
+<h2 id="快速解决无法使用GPT4o的方式"><a href="#快速解决无法使用GPT4o的方式" class="headerlink" title="快速解决无法使用GPT4o的方式"></a>快速解决无法使用GPT4o的方式</h2><p>那么，你可以使用OpenAI旗下的Sora，Sora目前支持图片和视频的生成，入口你可以通过ChatGPT跳转，或者直接搜索 “sora.com” 就可以。</p>
+<p>其中Sora的绘画也是采用了新版的GPT4o生图功能，并且Sora的次数和GPT的次数是共享的。</p>
+<span id="more"></span>
+
+<p><img src="https://pic1.zhimg.com/80/v2-1848338a169743229050830f3e96bf34_1440w.webp" alt="img"></p>
+<p>GPT免费用户每天3次绘画，之前的Sora，免费用户是无法登录的，现在可以了。</p>
+<p>在Sora上，登录你的gpt账号就可以，比如你用谷歌登录的GPT，那么你就使用谷歌去登录Sora。 <strong>OpenAI会自动判断出你的账号类型，因为Sora和GPT的权益是互通的。</strong></p>
+<p>进入到Sora之后，你就可以看到底部有有个对话框，你可以直接在这里输入你的提示词。</p>
+<p><img src="https://pica.zhimg.com/80/v2-cc5f9b139de0b80472c0043b539462fa_1440w.webp" alt="img"></p>
+<p>记得把类型切换为 “Image”， 生成后的结果在右上角可以查看。</p>
+<p><img src="https://picx.zhimg.com/80/v2-58767b7562b5091452594ad736a4bdbb_1440w.webp" alt="img"></p>
+<p>下面是我使用Sora进行生成塔可的食谱制作流程图，效果跟GPT4o一致。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-0f11bf8125fa4d221ff54fbf2945a98a_1440w.webp" alt="img"></p>
+<p>在Sora你可以基于你的图片进行二次创作为视频，<strong>当然了视频生成功能，只有Plus用户以上才可以使用</strong>。</p>
+<p><strong>如果不知道国内怎么升级ChatGPT Plus的话，可以通过这个教程：</strong> <a href="https://upchatgpt.cn/how-use-gpt-4o-and-subscribe-upgrade-chatgpt-plus/">（2025最新教程）国内如何使用支付宝订阅升级ChatGPT Plus、GPT-4o教程</a></p>
+<p>更好的解决GPT降智的方法，我已经发了几个教程帖子，感兴趣自己查找一下哈。</p>
+<p>也可以通过这个查询GPT4o是否降智的谷歌浏览器插件：<a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm?authuser=0&hl=zh-CN">ChatGPT降智检查插件</a></p>
+]]></content>
+      <tags>
+        <tag>GPT4o无法生图的原因</tag>
+        <tag>GPT4o无法使用新版图片生成功能</tag>
+        <tag>GPT4o降智了</tag>
+        <tag>GPT4o无法使用Image Create</tag>
       </tags>
   </entry>
 </search>
