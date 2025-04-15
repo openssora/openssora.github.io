@@ -2613,4 +2613,122 @@
         <tag>GPT4o无法使用Image Create</tag>
       </tags>
   </entry>
+  <entry>
+    <title>国内如何充值添加绑定OpenRouter的银行卡的教程</title>
+    <url>/how-payment-openrouter-credits/</url>
+    <content><![CDATA[<p>下面手把手教大家<strong>如何解决国内OpenRouter的绑卡问题</strong>，以及如何绑卡和增加Open-Router的积分。</p>
+<p>相信很多朋友需要对接OpenAI的<strong>ChatGPT API</strong>、Anthropic公司下的<strong>Claude API</strong> 或者 <strong>Google aistudio API</strong>，而这些API在国内有个<strong>缺点</strong>，就是<strong>不能直接调用</strong>。</p>
+<p>特别是Claude对环境要求非常严格，如果不纯净就会出现被封的情况。</p>
+<p><strong>有没有一个不受限制，不用担心被封号的，可以在国内稳定访问并提供api支持的方式呢？</strong></p>
+<p>答案自然是有的，比如<strong>OpenRouter</strong>，如下图：</p>
+<p><img src="https://pic4.zhimg.com/80/v2-858e4997df3dc9485746504dcda31803_1440w.webp" alt="img"></p>
+<span id="more"></span>
+
+
+<p>OpenRouter的API价格是跟每个平台API的官方价格一致的！其中上下文、最大输出都是最高标准，并且输出快而且稳定。</p>
+<p>比如：GPT-4.1、GPT-4.1 mini、GPT-4.1 nano。充值5美金就够你用很久了。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-4e29b23e872a0e0fc7c2bb3f5dbba987_1440w.webp" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/80/v2-441f891a94a26c15dcd200c44c3826b2_1440w.webp" alt="img"></p>
+<p><img src="https://picx.zhimg.com/80/v2-d9e16e9a0d0be0d452fe239833f2869d_1440w.webp" alt="img"></p>
+<h2 id="一、如何增加-OpenRouter-的-Credits-方法"><a href="#一、如何增加-OpenRouter-的-Credits-方法" class="headerlink" title="一、如何增加 OpenRouter 的 Credits 方法"></a>一、如何增加 OpenRouter 的 Credits 方法</h2><p>当你使用一些需要消耗Credits（积分）的LLM API时，就需要你对OpenRouter进行充值，充值方法也不难。</p>
+<p>点击头像 -&gt; Credits -&gt; 点击 Open Billing Portal 就可以进行充值。</p>
+<p><img src="https://pic2.zhimg.com/80/v2-b2afc6c9072d43ebc431417aa0fe03bf_1440w.webp" alt="img"></p>
+<p><strong>它还支持Crypto的方式！知道的小伙伴，应该就知道怎么进行这种方式进行充值。</strong></p>
+<p>同样也是进入到Credits页面，如果你还没有绑定卡号的，可以先绑定卡号再进行充值对应的积分，也可以直接点击Add Credits 进行绑卡并且充值积分。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-b4fd8d7c311ef570d427754b00370ec8_1440w.webp" alt="img"></p>
+<p><strong>注意：这里的卡号，需要国际的visa、master类型的卡！！！</strong></p>
+<p>如果没有这种类型的卡的话，可以使用的虚拟卡的方式。大概1年几十块，平均下来每个月几块钱，很划算、便宜。</p>
+<blockquote>
+<p><strong>wildscard官网入口：</strong> <a href="https://wildscard.com/">https://wildscard.com</a></p>
+</blockquote>
+<p>开通申请之后，进入我的卡片，选择【OpenRouter】就可以获得对应的卡号信息和地址。</p>
+<p><img src="https://pica.zhimg.com/80/v2-3eee77739b56597f41c5730585aecf6e_1440w.webp" alt="img"></p>
+<p>进入之后，就可以给自己的虚拟卡充值 6 美金，这个用来绑定OpenRouter之后，然后进行增加积分时需要用到的。 正常多充1刀，避免有些需要税。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-99af7cff8c87d72e9562d909ea76deb6_1440w.webp" alt="img"></p>
+<p>有了卡号之后，就可以直接到OpenRouter进行一个绑卡操作，点击添加支付方式。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-5d8e26b57f5c38b1d32e592d56589d1a_1440w.webp" alt="img"></p>
+<p>接着把你的卡号信息填入到这边来，就可以进行一个绑定。 <strong>（建议在绑定之前，可以先充值好6刀到虚拟卡余额上）</strong></p>
+<p><img src="https://pic2.zhimg.com/80/v2-c4287f959b64936a3634ab66d4f68a8b_1440w.webp" alt="img"></p>
+<p><strong>绑定时，会出现验证报错时，不用着急！重新绑定一下即可，同时检查一下当前的网络是否稳定。</strong></p>
+<p>下面就是绑定成功之后的情况，就可以进行一个充值OpenRouter的积分啦。当然了，你需要保证你的卡有余额，如果没有余额，你可以通过支付宝进行一个充值。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-6db37b8ec86bb7936e254d9532df2f96_1440w.webp" alt="img"></p>
+<p><strong>添加完毕之后，别忘记，顺便把账单地址也补充一下，填写你的虚拟卡的卡号信息里的地址。</strong></p>
+<p><img src="https://pic2.zhimg.com/80/v2-61951d448d83b67896dea758b2e8f947_1440w.webp" alt="img"></p>
+<h3 id="绑卡方式二（推荐）"><a href="#绑卡方式二（推荐）" class="headerlink" title="绑卡方式二（推荐）"></a>绑卡方式二（推荐）</h3><p>直接点击【Add Credits】进行绑卡，就不会出现一些需要验证邮箱地址的相关问题。</p>
+<p><img src="https://picx.zhimg.com/80/v2-5e5bfef99738dc50aee8e53345d519a1_1440w.webp" alt="img"></p>
+<p>绑定之后的，OpenRouter的验证，你的wildscard卡片会收到这条记录，就表示OpenRouter和你的虚拟卡已经绑定成功，OpenRouter使用了一个预扣款的方式。</p>
+<p><img src="https://pica.zhimg.com/80/v2-f22c7c95510c22e0221db60a99390808_1440w.webp" alt="img"></p>
+<h2 id="相关报错解决方式"><a href="#相关报错解决方式" class="headerlink" title="相关报错解决方式"></a>相关报错解决方式</h2><p>接着，你就可以进行一个Credits充值，如果你点击【Add Credits】时，出现了下面的错误时，不用着急！</p>
+<p><img src="https://picx.zhimg.com/80/v2-461e8d96a4702bb519d1ceca75753b8b_1440w.webp" alt="img"></p>
+<h3 id="解决方式一："><a href="#解决方式一：" class="headerlink" title="解决方式一："></a>解决方式一：</h3><ol>
+<li>通过增加多一个邮箱就解决了。</li>
+<li>完善了账单地址（填上虚拟卡号上的地址）</li>
+</ol>
+<p>接着重新登录就可以了。</p>
+<p><img src="https://pic2.zhimg.com/80/v2-878ed444764dcee0a3cf4311993540e5_1440w.webp" alt="img"></p>
+<h3 id="解决方式二："><a href="#解决方式二：" class="headerlink" title="解决方式二："></a>解决方式二：</h3><p><strong>你还没有绑卡的情况下</strong>，添加卡时，直接点击【Add Credits】进行验证账单地址，然后进行绑卡。</p>
+<p><img src="https://picx.zhimg.com/80/v2-5e5bfef99738dc50aee8e53345d519a1_1440w.webp" alt="img"></p>
+<p>成功绑定，并且能跳出下面的窗口，就可以进行选择对应的卡，进行一个充值。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-384ea4004095758ccf9e053317579db2_1440w.webp" alt="img"></p>
+<p>而Openrouter最低充值是5刀，所以你一定要确保虚拟卡的余额已经有6刀左右。</p>
+<p><img src="https://pic2.zhimg.com/80/v2-3901c4b62e8e9a6ae9ff4998067a15ab_1440w.webp" alt="img"></p>
+<p>好了，这就是整个OpenRouter的充值流程教程，看起来复杂，但是实际操作大概10分钟左右就完成了。</p>
+<blockquote>
+<p>OpenRouter 官网：<a href="https://openrouter.ai/">openrouter.ai</a></p>
+</blockquote>
+<blockquote>
+<p>wildscard 官网：<a href="https://wildscard.com/">wildscard.com</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>OpenRouter添加银行教程</tag>
+        <tag>OpenRouter充值绑定银行卡</tag>
+        <tag>OpenRouter购买积分教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GPT4.1的访问入口以及GPT4.1和GPT4.1 mini、nano的几种使用方式</title>
+    <url>/how-use-gpt-4-1-and-gpt-4-1-mini-access-entrance/</url>
+    <content><![CDATA[<p>GPT4.1发布了，教一下大家如何使用GPT4.1和在哪里可以使用GPT4.1的几种方式。</p>
+<p><strong>目前，GPT4.1只支持API的调用模式，所以ChatGPT的网页或者应用还没有上线GPT4.1模型。</strong></p>
+<p>你可以通过这几种方式使用：</p>
+<p><strong>无需魔法版：</strong> Cursor、Windsurf、OpenRouter。</p>
+<p><strong>需要魔法版：</strong> OpenAI API。</p>
+<span id="more"></span>
+
+<h3 id="使用方式一：编程工具"><a href="#使用方式一：编程工具" class="headerlink" title="使用方式一：编程工具"></a>使用方式一：编程工具</h3><p>用过Cursor、windsurf这些编程工具，应该都知道可以自己选中对应的模型调用，因为这些工具都提供了API，并且开启了就可以使用。</p>
+<p>单纯想测试的话，直接安装一下这两个编程工具就可以。</p>
+<p>比如，在 cursor settings -&gt; Models -&gt; gpt-4.1。 勾选之后，就可以在对话上使用，当然你不一定要编程。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-3f72069032312623fed7e0e1817a967e_1440w.png" alt="img"></p>
+<p><img src="https://pica.zhimg.com/80/v2-39a950edf2287901d0c6426678de0d76_1440w.png" alt="img"></p>
+<p><strong>关于国内如何升级Cursor Pro的教程：</strong> <a href="https://chatgpi.cn/how-upgrade-cursor-pro-5000-top-up-purchase/">保姆教程）Cursor Pro 5000次额度升级教程，仅需支付宝订阅支付充值Cursor Pro Plus</a></p>
+<h3 id="使用方式二：API提供商-小白使用推荐这种方式"><a href="#使用方式二：API提供商-小白使用推荐这种方式" class="headerlink" title="使用方式二：API提供商 (小白使用推荐这种方式)"></a>使用方式二：API提供商 (小白使用推荐这种方式)</h3><p>OpenRouter是目前最稳定而且token也是比较完整的API提供商了。 不仅提供免费的API调用，也提供一些付费的API调用。</p>
+<p>比如OpenAI的GPT-4.1，官方的价格多少，OpenRouter的价格就是多少，主要的是OpenRouter可以直接使用，而OpenAI的API你还要在挂魔法的情况下才能调用。</p>
+<p>在OpenRouter的官网上，是可以直接进行对话（chat）使用GPT-4.1, 也就是对小白可以降低一些门槛。</p>
+<p><img src="https://picx.zhimg.com/80/v2-3d5a8e79295fe85c636825cb7ace02f0_1440w.png" alt="官方API价格"></p>
+<p><img src="https://pica.zhimg.com/80/v2-ca9d5634c0910be413ed9cb9a5da82c1_1440w.png" alt="img"></p>
+<p>在OpenRouter的主页就可以看到GPT-4.1，点击进入后就可以对应的上下文、最大输出以及价格。</p>
+<p><img src="https://picx.zhimg.com/80/v2-a828ad0c15f067adb5fd400b94b08936_1440w.png" alt="img"></p>
+<p><img src="https://pica.zhimg.com/80/v2-875e2f7c72d32a9899a2b811c20b6a7e_1440w.png" alt="img"></p>
+<p><img src="https://pic1.zhimg.com/80/v2-2055a2e3cb53fbc15e3aa00bf237cccd_1440w.png" alt="img"></p>
+<p>如果想要直接在OpenRouter体验这个GPT-4.1三个版本的API，可以稍微冲点美金，最低是5美金。 大概可以用几个月了。</p>
+<p>下面是在OpenRouter使用Chat对话的方式使用GPT-4.1的截图。（不过，GPT-4.1是付费API，需要充值后才能使用，教程看下方）</p>
+<p><strong>无法使用GPT4.1时，建议观看下面教程，进行绑卡后再进行使用。</strong></p>
+<p><strong>关于国内如何充值OpenRouter的教程：</strong><a href="https://openssora.com/how-payment-openrouter-credits/">国内如何充值添加绑定OpenRouter的银行卡的教程</a></p>
+<p><img src="https://picx.zhimg.com/80/v2-a6419e60899f4b7e4cd34ee49a2fe6af_1440w.png" alt="img"></p>
+<h3 id="解决海外支付绑卡问题的教程"><a href="#解决海外支付绑卡问题的教程" class="headerlink" title="解决海外支付绑卡问题的教程"></a>解决海外支付绑卡问题的教程</h3><p>对于很多海外AI服务，都需要国际Master、Visa卡才能进行绑定支付，那么如果你没有一张这种卡的话，可以直接申请一张Master虚拟卡来解决。</p>
+<p>目前Master虚拟卡稳定使用了2年了，发现日常经常使用它，因为很多好用的海外AI需要订阅充值，比如ChatGPT、Claude、Grok、Gemini这些，都是可以使用Master虚拟卡解决。</p>
+<blockquote>
+<p>Master虚拟卡注册：<a href="https://wildscard.com/">https://wildscard.com</a></p>
+</blockquote>
+<p>可以使用这个Master虚拟卡，余额都是可以通过支付宝进行充值，而且大部分海外服务都支持这个虚拟卡。也是比较靠谱的。</p>
+<p>如果经常使用AI或者会接触一些海外应用的话，申请一张挺不错。</p>
+<p><img src="https://pica.zhimg.com/80/v2-3eee77739b56597f41c5730585aecf6e_1440w.webp" alt="img"></p>
+]]></content>
+      <tags>
+        <tag>GPT4.1访问入口</tag>
+        <tag>GPT4.1 mini nano 使用方式</tag>
+        <tag>GPT4.1 API的怎么使用</tag>
+      </tags>
+  </entry>
 </search>
