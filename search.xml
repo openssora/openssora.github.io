@@ -3016,4 +3016,107 @@
         <tag>Grok3.5免费使用方式</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2025国内怎么注册Claude账号以及使用支付宝升级Claude Pro的教程</title>
+    <url>/how-to-register-claude-account-and-upgrade-claude-pro-in-china-in-2025/</url>
+    <content><![CDATA[<p>下面教大家在<strong>国内如何注册Claude账号以及升级Claude Pro</strong>的教程，解决 Claude Pro 在国内升级和注册时需要的<strong>手机号码和支付的visa</strong>卡等问题。</p>
+<p><strong>以及介绍免费版的Claude和Claude Pro对应的模型的次数可以使用多少。</strong></p>
+<p>最近的Claude Sonnet 4 和 Claude Opus 4出来之后，<strong>Claude Sonnet 4 可以免费使用，但是其他模型和Think推理模式都需要升级Claude Pro 才能使用。</strong></p>
+<p><img src="https://picx.zhimg.com/80/v2-0f65a880c7e3bb1579c526445ac11a58_1440w.png" alt="img"></p>
+<h2 id="一、关于Claude免费版和专业版的限制次数说明"><a href="#一、关于Claude免费版和专业版的限制次数说明" class="headerlink" title="一、关于Claude免费版和专业版的限制次数说明"></a>一、关于Claude免费版和专业版的限制次数说明</h2><p>目前<strong>免费版只能使用 Claude Sonnet 4</strong>，而且<strong>每5小时只能使用5次左右</strong>。免费次数少得可怜～</p>
+<p>专业版用户（Pro），也就是升级为<strong>Claude Pro</strong>的用户，<strong>每5小时是可以使用45次左右</strong>，但是Claude的次数限制是理论上45次&#x2F;每5小时，真实计算会根据回答的Token的长度进行<strong>动态调整。</strong></p>
+<p>也就是如果你开启了推理模式，那么消耗的Token相对比较多，那么很快就会消耗光你的次数。 <strong>这就是为什么在Cursor编程软件上，使用 Claude Sonnet 3.7 - Think 时，会消耗 2倍 的次数的原因。</strong></p>
+<p>而 Claude Pro 用户的 Opus 4 次数也不多，大概使用了10次左右就上限了。</p>
+<p><img src="https://pica.zhimg.com/80/v2-3f8709d990c3a96272090c1ac6791587_1440w.png" alt="img"></p>
+<span id="more"></span>
+
+<p><strong>而且现在的Claude的GPU有限，很容易就触发了限制，</strong> 不过在没有开启推理模型的情况下，使用 Claude Sonnet 模型，还是足够的。</p>
+<p>Claude Pro 用户 最多就当天触发2次限制，另外次数的计算时间是开始提问之后，每5小时就重置。 时间点就是你首次提问的开始。</p>
+<p>如果高频使用的话，可以升级为 MAX 用户，可以拥有多5倍的次数，但不推荐，性价比实在不高。</p>
+<p>说到 Max 用户，最近Claude有个新活动，通过邀请链接注册的用户，可以参与抽奖4个月Max免费使用的活动。</p>
+<p>但是，中奖概率比较低，而且抽的人数也很少。从5月27日到6月4日,每天随机选出10名获胜者。每个新注册用户可获得一次参赛机会。新注册用户需要是唯一的,并至少发送1条消息。</p>
+<p>如果想要参与的点击这条邀请链接就行：</p>
+<blockquote>
+<p> <a href="https://claude.ai/referral/_tP1IfUspw">https://claude.ai/referral/_tP1IfUspw</a> </p>
+</blockquote>
+<p><img src="https://picx.zhimg.com/80/v2-4f82b09327d09175e54ef221b2ee4fc6_1440w.png" alt="img"></p>
+<p><strong>好了，进入我们的主题，国内如何注册和升级 Claude Pro 教程。</strong></p>
+<h2 id="二、国内如何注册Claude账号"><a href="#二、国内如何注册Claude账号" class="headerlink" title="二、国内如何注册Claude账号"></a>二、国内如何注册Claude账号</h2><p>相信很多人注册过Claude账号，但是很容易被封，周期大概3个月左右，快的话一个月。</p>
+<p>不过，如果你是Claude Pro 账号，被封的时候，会把会员费20美元退回你的账号，所以建议不要找代充。</p>
+<blockquote>
+<p> Claude官网入口：<a href="https://claude.ai/">https://claude.ai</a> </p>
+</blockquote>
+<p><strong>国内注册Claude账号，只需要有一个谷歌邮箱或者其他海外邮箱都可以，比如微软的outlook之类的。</strong></p>
+<p><strong>另一个条件就是海外手机号码，</strong> 这个很多人不知道用哪个平台的，sms暂时就不用了，大部分都是被滥用的，收不到验证码，没必要折腾了。</p>
+<p>下面我介绍两个接码平台：</p>
+<p><strong>（1）野卡虚拟卡平台</strong></p>
+<p>虚拟卡平台，主要是专注于解决海外支付问题的，<strong>如果你后续需要升级Claude Pro的话，可以直接优先选择这个平台</strong>，因为注册开完visa卡之后，可以免费使用3次海外手机号码。</p>
+<p>但是！它的号码也是对接sms的，地区是智利的，注册Claude时，可能要申请3次，才能接到1次。</p>
+<p>不过是免费的，可以用着，实在接不到码就用下面的第二种方式。</p>
+<blockquote>
+<p><strong>野卡的官方入口</strong>：<strong><a href="https://yeka.cc/">https://yeka.cc</a></strong> </p>
+</blockquote>
+<p>（如遇到打开时过慢，就是需要打开你的TZ）</p>
+<p><img src="https://picx.zhimg.com/80/v2-a639bc93585a82dca334d779d04e331b_1440w.png" alt="img"></p>
+<p><strong>（2）PingMe平台</strong></p>
+<p>如果你只是想单纯注册Claude进行试试水的话，或者上面的野卡平台的智利号码无法接受到验证码的情况下，你就可以使用PingMe平台，几乎百分百能够接收到验证码，如果接收不到，并不收费。</p>
+<blockquote>
+<p><strong>PingMe的官方入口</strong>：<strong><a href="https://pingme.dazi.uno/">https://pingme.dazi.uno</a></strong> </p>
+</blockquote>
+<p>（如遇到打开时过慢，就是需要打开你的TZ）</p>
+<p><img src="https://picx.zhimg.com/80/v2-862edeff5e078befbb5203902bb892ad_1440w.png" alt="img"></p>
+<p>避免有部分伙伴不明白如何使用PingMe，这里我特殊详细讲一下。首先，需要到我的账户上，进行充值对应的 2 Coins 也就是2美金，十几块钱。 可以用2-3次，你也可以直接买断一个号码。</p>
+<p><img src="https://pica.zhimg.com/80/v2-61c336dd59a684197900c6cb2174f286_1440w.png" alt="img"></p>
+<p>之后，就可以回到短信验证码，点击接收验证码，就可以填写表格。这里找claude，如何选择美区号码。 成功率几乎百分百。</p>
+<p><img src="https://picx.zhimg.com/80/v2-7d511bc8554e6caa30ec2a3f8f16266b_1440w.png" alt="img"></p>
+<h2 id="三、国内如何升级Claude-Pro"><a href="#三、国内如何升级Claude-Pro" class="headerlink" title="三、国内如何升级Claude Pro"></a>三、国内如何升级Claude Pro</h2><p>注册完账号之后，免费的Claude账号只能使用几次Claude Opus 4之后，就无法使用了。</p>
+<p><img src="https://picx.zhimg.com/80/v2-05dfa726e39412ac151e460263ab3ee9_1440w.png" alt="img"></p>
+<p>平时，在升级Claude Pro的时候，<strong>最多的问题就是没有国际visa或者Master卡</strong>，这个卡比较麻烦，而且Claude还要美区的，建议使用美区虚拟Master卡。</p>
+<p>国外的Master虚拟卡跟国内的虚拟不太一样，它的虚拟是预充值的意思，有余额之后就可以使用消费。</p>
+<blockquote>
+<p> <strong>平时常用的平台是野卡，官方入口</strong>：<strong><a href="https://yeka.cc/">https://yeka.cc</a></strong> </p>
+</blockquote>
+<p>也就是上面提的，可以免费使用3次手机号码的平台。你如果后续需要升级Claude Pro 或者 ChatGPT Plus、 Google One Pro 之类的话，都可以用这张卡去薅对应的羊毛。</p>
+<p>我自己用了一年多了，刚续费了2年的卡。因为是国内比较稳定和靠谱的平台了，所以就续费了2年，但是使用时，建议大家还是用多少充多少就行。</p>
+<p><img src="https://picx.zhimg.com/80/v2-fc567ea20c474acf0ba7ce3e7fdbd030_1440w.png" alt="img"></p>
+<p>在“我的卡片”选择 Claude 订阅服务，就可以看到你专属的visa&#x2F;Master卡信息，这个可以用来消费和绑定一些服务，比如现在的Claude Pro。</p>
+<p>让我们回到 Claude 官网，点击这个 <strong>“Upgrade”</strong> 就会跳转到升级Pro的页面。</p>
+<p><img src="https://picx.zhimg.com/80/v2-123f275b4c4ab5d39267721c88cd2b6f_1440w.png" alt="img"></p>
+<p>选择 “Get Pro plan” 这个计划，然后切换到按月（Monthly）订阅就行 的方式。</p>
+<p><img src="https://pica.zhimg.com/80/v2-ea19a4c8b0dd05d764c2d0f8e90bb482_1440w.png" alt="img"></p>
+<p>Claude Pro 月付的话，每月是20usd，如果Claude账号中途被封了，会原路退回差价到你的Master卡上，这也就是我建议大家自己充值的原因，可以避免一些损失。</p>
+<p><img src="https://picx.zhimg.com/80/v2-bbeb31d1c7f507c81760c0179f3c56d7_1440w.png" alt="img"></p>
+<p>回到野卡平台，给你的Master卡充值对应的20USD，<strong>可以通过支付宝的方式进行充值</strong>，如下图：</p>
+<p><img src="https://picx.zhimg.com/80/v2-dec031b39c8a54f1832637ca01557a26_1440w.png" alt="img"></p>
+<p>充值完毕之后，可以把卡号信息填入到Claude的对应的信息上，点击订阅就完成了哈</p>
+<p><img src="https://picx.zhimg.com/80/v2-977e85fcc79fba6b15d40ce4ab5ef911_1440w.png" alt="img"></p>
+<h2 id="四、国内使用Claude-Pro的方式"><a href="#四、国内使用Claude-Pro的方式" class="headerlink" title="四、国内使用Claude Pro的方式"></a>四、国内使用Claude Pro的方式</h2><p>当然了，有些国内的伙伴因为网络原因，无法使用国外的Claude，或者没有对应的Claude账号之类的。</p>
+<p>比较好的选择就是用镜像站了，镜像站就是官网一样，然后帮你处理了网络的问题，你可以开箱即用，而且价格比较便宜，因为是多号轮询使用的。</p>
+<p>镜像站也分国外和国内的，说到国内的，那就是使用chatshare.biz就行了。</p>
+<p><img src="https://picx.zhimg.com/80/v2-9a0bdfb5e4270c3e84495087ee3d595f_1440w.png" alt="img"></p>
+<p>如果需要使用ChatGPT DeepResearch 或者 新版绘画功能之类的，都可以进入新版或者旧版都行。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-cc32791583104c4073e7fe7f25faa88d_1440w.png" alt="img"></p>
+<p>可以进入 <strong>“新版Plus入口”</strong> 就可以使用Claude模型，而对应的“Claude专区”是附赠的服务。</p>
+<p>相当于chatshare是 <strong>“ChatGPT+Claude+Midjourney”三合一的镜像。</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-cbba14a411bb851e3b1f1db884c2fe7f_1440w.png" alt="img"></p>
+<p>不过，要使用chatshare是需要找管理员要激活码的，如果需要激活码的话，可以在这里获取：</p>
+<blockquote>
+<p> <strong>chatshare激活码</strong>：<strong><a href="https://chatshare.cc/">https://chatshare.cc</a></strong> </p>
+</blockquote>
+<p>可以先弄一张日卡激活码尝试一下新版Plus入口内的功能之后，再决定要不要弄月卡去体验Claude Pro等服务。</p>
+<h2 id="五、关于国外Claude-Pro-封号情况"><a href="#五、关于国外Claude-Pro-封号情况" class="headerlink" title="五、关于国外Claude Pro 封号情况"></a>五、关于国外Claude Pro 封号情况</h2><p>Claude对于网络要求比较高，所以建议不要使用纯净值差的网络，并且建议使用家宽固定原生IP，它就不会变化IP。</p>
+<p>你使用的魔法，大部分都是千人骑的IP，也大部分时动态IP，所以容易被Claude风控封号之类的。</p>
+<p>纯净值和测试自己的网络是不是好的，可以在ping0.cc上检查，比如我的，如果想稳定长期使用国外官网的Claude的话，推荐美区+原生IP。</p>
+<p><img src="https://picx.zhimg.com/80/v2-6d4ea1f05acc48efdf34967fd47c1c1e_1440w.png" alt="img"></p>
+<p>纯净度越低，代表越干净。另外原生IP也很关键，地区和属性也很关键。</p>
+<p><strong>在这里不太好推荐这种东西，有需要后台咨询我就行了。</strong></p>
+<img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />
+
+]]></content>
+      <tags>
+        <tag>国内怎么注册claude4账号</tag>
+        <tag>国内如何升级claude pro</tag>
+        <tag>claude使用次数限制多少</tag>
+      </tags>
+  </entry>
 </search>
