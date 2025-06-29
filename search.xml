@@ -3431,4 +3431,195 @@
         <tag>Gemini地区访问入口</tag>
       </tags>
   </entry>
+  <entry>
+    <title>国内如何使用和安装Claude Code的教程，以及如何获取gaccode直连镜像的订阅码</title>
+    <url>/how-install-and-use-claude-code-and-gaccode-entrance/</url>
+    <content><![CDATA[<p><strong>无需魔法和梯子，国内如何安装和使用Claude Code教程</strong>，并且提供 GAC Claude Code 镜像直连方式进行使用，文中还有<strong>如何获取gaccode的 Claude Code 订阅码的入口</strong>。</p>
+<p><strong>Claude Code是需要升级Claude Pro 或者 Claude Max 才可以使用</strong>，目前Pro一下子就消耗完Token了。 所以通常是使用200美金的Max账号，但是Max账号太贵了，而且国内用户使用Claude Code时也担心封号的情况。</p>
+<p>下面是可以通过便宜的方式在<strong>国内稳定使用 Claude Code，而且无需魔法直连</strong>。目前用了一段时间，<strong>挺稳定的，跟官方上的Claude Code没有什么区别</strong>，基本一致。</p>
+<p><img src="https://picx.zhimg.com/80/v2-2b1e1dc09da108552beeb6f6f5d744f3_720w.png" alt="Claude Code终端"><br><img src="https://picx.zhimg.com/80/v2-d861305ab58ca6c15d51c5393fd12329_720w.png" alt="月卡"></p>
+<h2 id="关于GAC-Claude-Code的积分和费用说明"><a href="#关于GAC-Claude-Code的积分和费用说明" class="headerlink" title="关于GAC Claude Code的积分和费用说明"></a>关于GAC Claude Code的积分和费用说明</h2><p>分别的价格是：</p>
+<ul>
+<li><p>9.9&#x2F;日卡 内含 2000积分。</p>
+</li>
+<li><p>298&#x2F;月卡，初始化账号5400积分，每日还有每小时100积分自动补充 和 5400积分重置的方式，<strong>总计 7800积分&#x2F;每日，最高是13200积分当天</strong>。</p>
+</li>
+</ul>
+<p>月卡是直接对标 Claude Max 200 美金的账号，日卡 2000积分，相当于 10 美金。</p>
+<p><strong>购买 Claude Code 订阅码的渠道：</strong><a href="https://chatshare.cc/">https://chatshare.cc/</a> （嘘～ 偷偷告诉你，购买时，你直接联系店主，他会给优惠券）</p>
+<p><strong>Claude Code 直连镜像站：</strong><a href="https://gaccode.cc/">https://gaccode.cc/</a></p>
+<p><strong>如果是首次注册，可以使用上面的官方链接，自带邀请码，会赠送1万积分。</strong>  </p>
+<p><img src="https://picx.zhimg.com/80/v2-0ac18a61075dc26e73409d9e635d5da3_720w.png" alt="邀请后，订阅月卡赠送的积分包"></p>
+<p>如果要了解更多情况，比如计费之类的，可以看这个汇总文档，<strong>Claude Code：介绍与使用安装详细教程:</strong> <a href="https://ul1aphho0v.feishu.cn/docx/BER8d2Y1ko00J8xFLdTcnLx0nIb">https://ul1aphho0v.feishu.cn/docx/BER8d2Y1ko00J8xFLdTcnLx0nIb</a></p>
+<p>上下文消耗10万tokens左右，就是15积分左右：</p>
+<p><img src="https://picx.zhimg.com/80/v2-d18151baf07b16996f8e59736d6cb09d_720w.png" alt="积分计费情况"></p>
+<span id="more"></span>
+
+<h2 id="Claude-Code-安装使用教程"><a href="#Claude-Code-安装使用教程" class="headerlink" title="Claude Code 安装使用教程"></a>Claude Code 安装使用教程</h2><p>如果你是 Mac 电脑用户，下面的操作非常简单，如果是 Windows 用户，可能复杂一点，请耐心看完，我也整理了相关问题的处理方式。</p>
+<p><strong>首先注册 GAC Claude Code 镜像的账号，后面安装完工具后，需要进行授权。</strong></p>
+<blockquote>
+<p>GAC Claude Code 镜像站: <a href="https://gaccode.cc/">https://gaccode.cc/</a></p>
+</blockquote>
+<h3 id="使用-Claude-Code，您需要满足以下要求："><a href="#使用-Claude-Code，您需要满足以下要求：" class="headerlink" title="使用 Claude Code，您需要满足以下要求："></a>使用 Claude Code，您需要满足以下要求：</h3><ul>
+<li>运行macOS 10.15+、Ubuntu 20.04+&#x2F;Debian 10+ 操作系统。</li>
+<li>如果您使用Windows，需要在WSL上部署。（<a href="https://ul1aphho0v.feishu.cn/docx/Q33KdfMffo7uajxvrodcXNZXn2n">WSL部署 Claude Code 教程</a>）</li>
+<li>Node.js 18+</li>
+</ul>
+<h3 id="MacOS、Ubuntu、Linux-相关系统的安装教程："><a href="#MacOS、Ubuntu、Linux-相关系统的安装教程：" class="headerlink" title="MacOS、Ubuntu、Linux 相关系统的安装教程："></a>MacOS、Ubuntu、Linux 相关系统的安装教程：</h3><p>因为 Claude Code 是由 Node.js 开发的，所以我们需要安装Node.js环境，可以通过以下的方式安装：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">curl -fsSL https://deb.nodesource.com/setup_22.x | sudo bash -</span><br><span class="line">sudo apt-get install -y nodejs</span><br></pre></td></tr></table></figure>
+
+<p>确认是否安装成功：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">node --version</span><br><span class="line">npm --version</span><br></pre></td></tr></table></figure>
+
+<p>如果输出对应的版本信息代表环境安装成功，请确保 Node.js 版本为 18.0以上或更高版本的。</p>
+<p><img src="https://pic2.zhimg.com/80/v2-4d28690b25a13e0d9535c05ec6951d39_720w.webp" alt="img"></p>
+<p>接下来<strong>安装 Claude Code 镜像站</strong>，在你的终端上，执行下面3条指令：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">cd ~</span><br><span class="line">npm install -g https://gaccode.com/claudecode/install --registry=https://registry.npmmirror.com</span><br><span class="line">claude --version</span><br></pre></td></tr></table></figure>
+
+<p><strong>如果您先前安装过 Claude Code，请您务必先通过以下命令卸载！！！</strong> (会出现镜像冲突)</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">npm uninstall -g @anthropic-ai/claude-code</span><br></pre></td></tr></table></figure>
+
+<p>安装成功后，你可以创建一个文件夹存放你现在要做的项目，然后在文件夹目录下的终端输入以下命令直接运行: <code>claude code</code></p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">mkdir test-claude</span><br><span class="line">cd test-claude</span><br><span class="line">claude</span><br></pre></td></tr></table></figure>
+
+<p>在终端执行<code>claude</code>之后，会跳到 <strong>GAC Claude Code 镜像站</strong>上进行授权，所以记得先在镜像站官网登录。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-2f6fdfbb35eb89597821e6aba392d13b_720w.webp" alt="img"></p>
+<p>Claude Code 镜像站授权成功</p>
+<p><strong>如果执行后，你的终端是下面的情况，就是没有成功，需要进行订阅！！！</strong></p>
+<p>这里我放一些订阅码给大家体验，<strong>激活方式：GAC Claude Code 镜像站 -&gt; 管理订阅 -&gt; 兑换优惠券</strong></p>
+<p><img src="https://pic4.zhimg.com/80/v2-fdf97ccb2b2b51120be91e2a172ef41b_720w.webp" alt="img"></p>
+<p>授权之后，没有订阅的情况</p>
+<p>如果下面的<strong>gaccode订阅码</strong>被用光了的话，直接在 <strong><a href="https://chatshare.cc/">https://chatshare.cc</a></strong> 获取最新的。</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">MC8SOSAQ-RV5I0I</span><br><span class="line">MCBEYCZU-1WJPML</span><br><span class="line">MC8SOSAL-56JK4L</span><br></pre></td></tr></table></figure>
+
+<p><strong>如果你是首次使用时，GAC要求您验证订阅。您可通过出现的浏览器窗口登录以完成验证。</strong></p>
+<ul>
+<li>此过程不要使用代理</li>
+<li><strong>如果您使用远程服务器，访问命令行中的链接并输入验证码以完成验证</strong></li>
+<li>您可以通过此链接访问您的账户以验证订阅：<a href="https://gaccode.cc/">Login - Claude Code</a></li>
+<li>需要体验和订阅: <a href="https://chatshare.cc/">gaccode积分和订阅码购买入口</a></li>
+</ul>
+<p>在这之后，您需要选择主题、并允许ClaudeCode 访问所在目录文件。</p>
+<p>恭喜您！您已经完成了 Claude Code的安装与部署</p>
+<h3 id="Claude-Code-支持-Claude-4-Opus-与-Claude-4-Sonnet-灵活切换："><a href="#Claude-Code-支持-Claude-4-Opus-与-Claude-4-Sonnet-灵活切换：" class="headerlink" title="Claude Code 支持 Claude 4 Opus 与 Claude 4 Sonnet 灵活切换："></a>Claude Code 支持 <a href="https://zhida.zhihu.com/search?content_id=734498074&content_type=Answer&match_order=1&q=Claude+4+Opus&zhida_source=entity">Claude 4 Opus</a> 与 <a href="https://zhida.zhihu.com/search?content_id=734498074&content_type=Answer&match_order=1&q=Claude+4+Sonnet&zhida_source=entity">Claude 4 Sonnet</a> 灵活切换：</h3><ul>
+<li>强烈推荐您使用Claude 4 Sonnet，其使用体验与Claude 4 Opus没有明显差别，但计费倍率仅为1&#x2F;5。</li>
+<li>建议默认选择了Claude 4 Sonnet，您可以在<a href="https://gaccode.cc/">登录</a>后在配置中修改这一选项。</li>
+<li>如果您没有在镜像站点中关闭”强制使用 Sonnet”，您在&#x2F;model中切换的模型不会被切换。</li>
+</ul>
+<p><strong>在 Claude Code 中使用此命令切换模型：</strong></p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">/model</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://pica.zhimg.com/80/v2-ce6f426917c98418d5da4a595b324a48_720w.webp" alt="img"></p>
+<p><strong>Claude Code 可以处理图像信息：</strong></p>
+<ul>
+<li>您可以使用以下任何方法：</li>
+</ul>
+<ol>
+<li>将图像拖放到Claude Code窗口中（在MacOS上）</li>
+<li>复制图像并使用Ctrl+v粘贴到CLI中（在MacOS上）</li>
+<li>提供图像路径</li>
+</ol>
+<p>例如执行下面指令：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">分析这个图像：/path/to/your/image.png</span><br></pre></td></tr></table></figure>
+
+<p><strong>Claude Code 常用的快捷键：</strong></p>
+<ul>
+<li>通用控制：</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>快捷键</th>
+<th>描述</th>
+<th>上下文</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Ctrl+C</td>
+<td>取消当前输入或生成</td>
+<td>标准中断</td>
+</tr>
+<tr>
+<td>Ctrl+D</td>
+<td>退出 Claude Code 会话</td>
+<td>EOF 信号</td>
+</tr>
+<tr>
+<td>Ctrl+L</td>
+<td>清除终端屏幕</td>
+<td>保留对话历史</td>
+</tr>
+<tr>
+<td>上&#x2F;下箭头</td>
+<td>导航命令历史</td>
+<td>回调之前的输入</td>
+</tr>
+<tr>
+<td>Esc + Esc</td>
+<td>编辑上一条消息</td>
+<td>双击 Escape 键修改</td>
+</tr>
+</tbody></table>
+<ul>
+<li>多行输入：</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>方法</th>
+<th>快捷键</th>
+<th>上下文</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>快速转义</td>
+<td>\ + Enter</td>
+<td>在所有终端中工作</td>
+</tr>
+<tr>
+<td>macOS 默认</td>
+<td>Option+Enter</td>
+<td>macOS 上的默认设置</td>
+</tr>
+<tr>
+<td>终端设置</td>
+<td>Shift+Enter</td>
+<td>在 &#x2F;terminal-setup 之后</td>
+</tr>
+<tr>
+<td>粘贴模式</td>
+<td>直接粘贴</td>
+<td>用于代码块、日志</td>
+</tr>
+</tbody></table>
+<ul>
+<li>快速命令：</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>快捷键</th>
+<th>描述</th>
+<th>注释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>开头的 #</td>
+<td>内存快捷键 - 添加到 CLAUDE.md</td>
+<td>提示文件选择</td>
+</tr>
+<tr>
+<td>开头的 &#x2F;</td>
+<td>斜杠命令</td>
+<td>参见 斜杠命令</td>
+</tr>
+</tbody></table>
+<p>先介绍到这了，后续再更新对应的 Claude Code 系列，<strong>更多的教程内容，我全部放在文档上了，实时更新：</strong> <strong><a href="https://ul1aphho0v.feishu.cn/docx/BER8d2Y1ko00J8xFLdTcnLx0nIb">Claude Code：介绍与使用安装详细教程</a></strong></p>
+]]></content>
+      <tags>
+        <tag>Claude Code 安装使用教程</tag>
+        <tag>GAC Claude Code 直连镜像站</tag>
+        <tag>gaccode订阅码</tag>
+      </tags>
+  </entry>
 </search>
