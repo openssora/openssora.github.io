@@ -3622,4 +3622,95 @@
         <tag>gaccode订阅码</tag>
       </tags>
   </entry>
+  <entry>
+    <title>国内如何安装和使用 Claude Code 的教程 - Windows用户篇</title>
+    <url>/how-install-and-use-claude-code-in-windows-wsl2/</url>
+    <content><![CDATA[<p><strong>因为 Claude Code 本身并不支持 Windows 的文件系统，而 Windows 要运行 Claude Code 稍微复杂一些，需要借助在 WSL 上运行。</strong></p>
+<p>下面将教你学会如何在 Windows 上安装和部署 Claude Code 工具，<strong>如果你跟我一样是Mac电脑用户，开箱即用。</strong> 可以看这期内容：<a href="https://upchatgpt.cn/how-use-install-claude-code-and-gaccode-subscribe-entrance/">《国内如何使用安装 Claude Code的教程 - Mac篇》</a></p>
+<p><img src="https://picx.zhimg.com/80/v2-2b1e1dc09da108552beeb6f6f5d744f3_720w.png" alt="Claude Code终端"></p>
+<h3 id="什么是WSL？"><a href="#什么是WSL？" class="headerlink" title="什么是WSL？"></a>什么是WSL？</h3><blockquote>
+<p>WSL（Windows Subsyetem for Linux，适用于 Linux 的 Windows 子系统），是 Microsoft 公司于 2016 年在 Windows 10 平台发布的一项功能，其使得用户可以在 Windows 操作系统上运行 ELF 格式的 Linux 可执行文件。</p>
+</blockquote>
+<h2 id="Claude-Code-在-WSL-上部署"><a href="#Claude-Code-在-WSL-上部署" class="headerlink" title="Claude Code 在 WSL 上部署"></a>Claude Code 在 WSL 上部署</h2><h3 id="安装WSL，必须满足以下要求："><a href="#安装WSL，必须满足以下要求：" class="headerlink" title="安装WSL，必须满足以下要求："></a>安装WSL，必须满足以下要求：</h3><ul>
+<li>Windows 11 或 Windows 10 21H2以上，专业版&#x2F;工作站版&#x2F;企业版（非家庭版，需支持Hyper-V）</li>
+<li>CPU 需支持且已在 BIOS&#x2F;UEFI 中启用虚拟化</li>
+</ul>
+<span id="more"></span>
+
+<h3 id="（1）按照以下步骤安装WSL："><a href="#（1）按照以下步骤安装WSL：" class="headerlink" title="（1）按照以下步骤安装WSL："></a>（1）按照以下步骤安装WSL：</h3><p>安装之前需要打开虚拟化，否则过程会出现未知的错误。</p>
+<p>打开路径：<code>控制面板 -&gt; 程序与功能 -&gt; 打开或关闭 Windows 功能</code> 启动以下功能：</p>
+<ul>
+<li>Virtual Machine Platform（虚拟机平台）</li>
+<li>Windows Subsystem for Linux Support（WSL1）</li>
+</ul>
+<p><strong>下载和安装对应版本的 WSL，</strong> 选择您的系统版本，复制到浏览器进行下载 WSL 安装包:</p>
+<ul>
+<li><strong>64-Bit WSL-2.5.9.0 [推荐]</strong></li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">https://vip.123pan.cn/1831946356/links/wsl.2.5.9.0.x64.msi</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>ARM64 WSL-2.5.9.0</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">https://vip.123pan.cn/1831946356/links/wsl.2.5.9.0.arm64.msi</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>ARM64_MicrosoftStore WSL-2.5.9.0</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">https://vip.123pan.cn/1831946356/links/Microsoft.WSL_2.5.9.0_x64_ARM64.msixbundle</span><br></pre></td></tr></table></figure>
+
+<p>你也可以不用上面的安装包，直接访问 GitHub 安装最新的版本：<a href="https://link.zhihu.com/?target=https://github.com/microsoft/WSL/releases">https://github.com/microsoft/WSL/releases</a></p>
+<h3 id="（2）安装虚拟机："><a href="#（2）安装虚拟机：" class="headerlink" title="（2）安装虚拟机："></a>（2）安装虚拟机：</h3><p>安装完WSL之后，你可以在微软应用商店中安装最新的Ubuntu 24.04 LTS 或者 通过以下命令安装：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">wsl --install -d Ubuntu-24.04</span><br></pre></td></tr></table></figure>
+
+<p>你也可通过 <code>wsl -l -o</code> 命令选择其他系统版本。</p>
+<p>安装完 <strong>Ubuntu</strong> 之后，你可以在<strong>终端（或PowerShell）</strong>输入wsl访问安装的操作系统：</p>
+<ul>
+<li><strong>首次用需要设置用户名和密码：</strong></li>
+</ul>
+<blockquote>
+<p>如果您通过开始菜单的应用访问一次，直接关闭窗口而不输入用户名和密码，下次访问将使用root用户</p>
+</blockquote>
+<ul>
+<li>Windows将安装的操作系统虚拟机视作一个应用，如Ubuntu 24.04 LTS 会出现在你的开始菜单</li>
+</ul>
+<h3 id="（3）Claude-Code-安装"><a href="#（3）Claude-Code-安装" class="headerlink" title="（3）Claude Code 安装"></a>（3）Claude Code 安装</h3><p>Claude Code 是用 <code>Node.js</code> 开发的，所以依赖 <code>Node.js</code> 环境，可以通过以下方式安装对应的环境（Node.js 18+）：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">curl -fsSL https://deb.nodesource.com/setup_22.x | sudo bash -</span><br><span class="line">sudo apt-get install -y nodejs</span><br><span class="line">node --version</span><br><span class="line">npm --version</span><br></pre></td></tr></table></figure>
+
+<p>确保你的npm与 Node.js可用后，通过以下命令安装Claude Code。</p>
+<p><strong>Claude Code 包 二选一：</strong></p>
+<blockquote>
+<p>A. 全局安装 Claude Code <strong>（这个是官⽅的）</strong>, 你有官⽅Claude Pro 账号就⽤这个指令</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> ~</span><br><span class="line">npm install -g @anthropic-ai/claude-code</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>B. 全局安装 Claude Code <strong>（这个是中转站的, 推荐）</strong>, 如果是中转站⽤户,选这个!</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> ~</span><br><span class="line">npm install -g https://gaccode.com/claudecode/install --registry=https://registry.npmmirror.com</span><br></pre></td></tr></table></figure>
+
+<p>如果 GAC Claude Code 中转站用户，有安装了官方的Claude Code 包的话，还需要卸载掉，两者有冲突。</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm uninstall -g @anthropic-ai/claude-code</span><br></pre></td></tr></table></figure>
+
+<p>安装完之后，你就可以访问你的项目文件夹，并在该目录下的终端输入以下命令直接运行 Claude Code:</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">mkdir</span> claude-test-demo</span><br><span class="line"><span class="built_in">cd</span> claude-test-demo</span><br><span class="line">claude</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://pica.zhimg.com/80/v2-35cf5fef3f9d30db19ec146aef1214b0_720w.webp?source=1def8aca" alt="运行后"></p>
+<h3 id="使用中转站的用户（推荐）"><a href="#使用中转站的用户（推荐）" class="headerlink" title="使用中转站的用户（推荐）"></a>使用中转站的用户（推荐）</h3><p>没有 Claude Pro 或者 Max 账号的伙伴，在国内可以直接使用中转站。<strong>无需魔法，直接可用，也不会封号。</strong></p>
+<p><strong>GAC Claude Code 中转站 注册</strong> 和 <strong>兑换码 获取</strong>：<a href="https://chatshare.cc/">https://chatshare.cc</a></p>
+<p><img src="https://picx.zhimg.com/80/v2-d861305ab58ca6c15d51c5393fd12329_720w.png" alt="月卡"></p>
+<p><strong>推荐使用 Claude Code 的中转站，比较划算，可以在下面获取对应的试用兑换码。</strong> 关于更详细的积分说明，可以看我上一篇内容：<a href="https://upchatgpt.cn/how-use-install-claude-code-and-gaccode-subscribe-entrance/">《国内如何使用安装 Claude Code 以及 GAC Claude Code 直连镜像的兑换码获取方式》</a></p>
+<h2 id="对-WSL-使用的一些说明"><a href="#对-WSL-使用的一些说明" class="headerlink" title="对 WSL 使用的一些说明"></a>对 WSL 使用的一些说明</h2><p>如果你是首次使用 WSL，可以在弹出的 <strong>“欢迎使用WSL”</strong> 页面了解帮助，你也可以在 <strong>【WSL设置】</strong> 中找到入口。</p>
+<p>WSL 不只是命令行版本的Linux操作系统，它是有对应的桌面环境的！</p>
+<p><strong>如果你使用的IDE编程工具是VSCode、Cursor之类的，可以使用VSCode的WSL插件，链接并使用你的WSL。</strong></p>
+<p>安装完插件之后，使用 <code>code .</code> 启动VSCode，这样启动可以使用 Claude Code IDE 插件。</p>
+<p>灵活使用方法有很多种，你也可以单独直接在IDE上开启终端，执行你的 Claude Code 都行！</p>
+<p><strong>恭喜您！您已经完成了 Claude Code的安装与部署</strong></p>
+]]></content>
+      <tags>
+        <tag>Windows WSL 2</tag>
+        <tag>Claude Code使用教程</tag>
+        <tag>gaccode兑换码</tag>
+      </tags>
+  </entry>
 </search>
