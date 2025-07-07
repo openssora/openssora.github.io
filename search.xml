@@ -3447,7 +3447,7 @@
 </ul>
 <p>月卡是直接对标 Claude Max 200 美金的账号，日卡 2000积分，相当于 10 美金。</p>
 <p><strong>购买 Claude Code 订阅码的渠道：</strong><a href="https://chatshare.cc/">https://chatshare.cc/</a> （嘘～ 偷偷告诉你，购买时，你直接联系店主，他会给优惠券）</p>
-<p><strong>Claude Code 直连镜像站：</strong><a href="https://gaccode.cc/">https://gaccode.cc/</a></p>
+<p><strong>Claude Code 直连镜像站：</strong><a href="https://gaccode.com/signup?ref=NT44USQI">https://gaccode.com/</a></p>
 <p><strong>如果是首次注册，可以使用上面的官方链接，自带邀请码，会赠送1万积分。</strong>  </p>
 <p><img src="https://picx.zhimg.com/80/v2-0ac18a61075dc26e73409d9e635d5da3_720w.png" alt="邀请后，订阅月卡赠送的积分包"></p>
 <p>如果要了解更多情况，比如计费之类的，可以看这个汇总文档，<strong>Claude Code：介绍与使用安装详细教程:</strong> <a href="https://ul1aphho0v.feishu.cn/docx/BER8d2Y1ko00J8xFLdTcnLx0nIb">https://ul1aphho0v.feishu.cn/docx/BER8d2Y1ko00J8xFLdTcnLx0nIb</a></p>
@@ -3458,7 +3458,7 @@
 <h2 id="Claude-Code-安装使用教程"><a href="#Claude-Code-安装使用教程" class="headerlink" title="Claude Code 安装使用教程"></a>Claude Code 安装使用教程</h2><p>如果你是 Mac 电脑用户，下面的操作非常简单，如果是 Windows 用户，可能复杂一点，请耐心看完，我也整理了相关问题的处理方式。</p>
 <p><strong>首先注册 GAC Claude Code 镜像的账号，后面安装完工具后，需要进行授权。</strong></p>
 <blockquote>
-<p>GAC Claude Code 镜像站: <a href="https://gaccode.cc/">https://gaccode.cc/</a></p>
+<p>GAC Claude Code 镜像站: <a href="https://gaccode.com/signup?ref=NT44USQI">https://gaccode.com/</a></p>
 </blockquote>
 <h3 id="使用-Claude-Code，您需要满足以下要求："><a href="#使用-Claude-Code，您需要满足以下要求：" class="headerlink" title="使用 Claude Code，您需要满足以下要求："></a>使用 Claude Code，您需要满足以下要求：</h3><ul>
 <li>运行macOS 10.15+、Ubuntu 20.04+&#x2F;Debian 10+ 操作系统。</li>
@@ -3496,14 +3496,14 @@
 <ul>
 <li>此过程不要使用代理</li>
 <li><strong>如果您使用远程服务器，访问命令行中的链接并输入验证码以完成验证</strong></li>
-<li>您可以通过此链接访问您的账户以验证订阅：<a href="https://gaccode.cc/">Login - Claude Code</a></li>
+<li>您可以通过此链接访问您的账户以验证订阅：<a href="https://gaccode.com/signup?ref=NT44USQI">Login - Claude Code</a></li>
 <li>需要体验和订阅: <a href="https://chatshare.cc/">gaccode积分和订阅码购买入口</a></li>
 </ul>
 <p>在这之后，您需要选择主题、并允许ClaudeCode 访问所在目录文件。</p>
 <p>恭喜您！您已经完成了 Claude Code的安装与部署</p>
 <h3 id="Claude-Code-支持-Claude-4-Opus-与-Claude-4-Sonnet-灵活切换："><a href="#Claude-Code-支持-Claude-4-Opus-与-Claude-4-Sonnet-灵活切换：" class="headerlink" title="Claude Code 支持 Claude 4 Opus 与 Claude 4 Sonnet 灵活切换："></a>Claude Code 支持 <a href="https://zhida.zhihu.com/search?content_id=734498074&content_type=Answer&match_order=1&q=Claude+4+Opus&zhida_source=entity">Claude 4 Opus</a> 与 <a href="https://zhida.zhihu.com/search?content_id=734498074&content_type=Answer&match_order=1&q=Claude+4+Sonnet&zhida_source=entity">Claude 4 Sonnet</a> 灵活切换：</h3><ul>
 <li>强烈推荐您使用Claude 4 Sonnet，其使用体验与Claude 4 Opus没有明显差别，但计费倍率仅为1&#x2F;5。</li>
-<li>建议默认选择了Claude 4 Sonnet，您可以在<a href="https://gaccode.cc/">登录</a>后在配置中修改这一选项。</li>
+<li>建议默认选择了Claude 4 Sonnet，您可以在<a href="https://gaccode.com/signup?ref=NT44USQI">登录</a>后在配置中修改这一选项。</li>
 <li>如果您没有在镜像站点中关闭”强制使用 Sonnet”，您在&#x2F;model中切换的模型不会被切换。</li>
 </ul>
 <p><strong>在 Claude Code 中使用此命令切换模型：</strong></p>
