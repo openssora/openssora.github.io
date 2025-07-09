@@ -3669,4 +3669,66 @@
         <tag>gaccode兑换码</tag>
       </tags>
   </entry>
+  <entry>
+    <title>如何解决 Claude Code 的 API Error 问题和避免记忆、上下文的丢失教程</title>
+    <url>/how-to-solve-claude-code-api-error/</url>
+    <content><![CDATA[<p>下面我整理了一些关于 Claude Code 工具使用过程中常见的 API Error 错误处理和解决方案。</p>
+<p><strong>Claude Code 最常见的4个错误</strong>：overloaded_error（服务器超载）、request timeout（请求超时）、tool_call_error（工具调用错误）、invalid_request_error（无效请求错误）。</p>
+<p><img src="https://pic1.zhimg.com/v2-fc0f5f698a3aac85d7ab67c14486d47c_1440w.jpg" alt="img"></p>
+<h2 id="Claude-Code-报错原因和解决方法"><a href="#Claude-Code-报错原因和解决方法" class="headerlink" title="Claude Code 报错原因和解决方法"></a>Claude Code 报错原因和解决方法</h2><h3 id="（1）overloaded-error（服务器超载）"><a href="#（1）overloaded-error（服务器超载）" class="headerlink" title="（1）overloaded_error（服务器超载）"></a>（1）overloaded_error（服务器超载）</h3><ul>
+<li>原因： Claude Code 当前服务器负载过高导致</li>
+<li>解决方法：建议从 Claude Opus 切换回 Sonnet 模型，或者等待一段时间再回来使用。</li>
+</ul>
+<span id="more"></span>
+
+<p>也可以直接执行下面的<strong>斜杆指令</strong>退出工具，然后重启它。</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">/exit</span><br></pre></td></tr></table></figure>
+
+<h3 id="（2）invalid-request-error（无效请求错误）"><a href="#（2）invalid-request-error（无效请求错误）" class="headerlink" title="（2）invalid_request_error（无效请求错误）"></a>（2）invalid_request_error（无效请求错误）</h3><ul>
+<li><p>API Error: 400 {“type”:”error”,”error”:{“type”:”invalid_request_error”….</p>
+</li>
+<li><p>原因： 这个是因为 Claude Code 内部逻辑 BUG，目前官方也在修着。</p>
+</li>
+<li><p>解决方法：可以按 <code>Esc + Esc</code> 进行回退到上一条消息进行重试。再不行的话，就直接 <code>Ctrl + C</code> 强制退出，然后关闭窗口，重启 Claude 重试。</p>
+</li>
+</ul>
+<h3 id="（3）request-timeout（请求超时）"><a href="#（3）request-timeout（请求超时）" class="headerlink" title="（3）request timeout（请求超时）"></a>（3）request timeout（请求超时）</h3><ul>
+<li>原因： 任务复杂度过高，计算处理时间超出限制，或者启用了 ultrathink 模式导致计算时间延长太久了。</li>
+<li>解决方法：如果是开启了ultrathink导致的话，可以优化提示词，把任务拆分为多个子任务进行执行。</li>
+</ul>
+<p><strong>正常 Claude Code 可以连续运行几个小时，出现这个问题也是多方因素造成。</strong></p>
+<h3 id="（4）tool-call-error（工具调用错误）"><a href="#（4）tool-call-error（工具调用错误）" class="headerlink" title="（4）tool_call_error（工具调用错误）"></a>（4）tool_call_error（工具调用错误）</h3><ul>
+<li>原因：Claude Code 内部代码逻辑异常，常见的也有 tool_use 的调用失败等。</li>
+<li>解决方法：可以进行重试之前的命令，如果还是经常遇到失败的话，使用 <code>Ctrl + C</code> 强制退出，开新窗口运行 Claude Code。</li>
+</ul>
+<p><strong>同样也可以回退到之前的消息，Esc 按键是一个可以打断agent的指令。</strong></p>
+<h2 id="如何避免-Claude-Code-记忆和上下文的丢失"><a href="#如何避免-Claude-Code-记忆和上下文的丢失" class="headerlink" title="如何避免 Claude Code 记忆和上下文的丢失"></a>如何避免 Claude Code 记忆和上下文的丢失</h2><p>通常我们遇到一些 Claude Code 的报错之后，需要强制退出工具。但是我们还需要它的上下文和历史对话。</p>
+<p>通常你可以通过 Claude Code 这两条指令恢复对话 和 历史对话。</p>
+<p><strong>以下命令可以恢复您上次的对话，会立即恢复你最近的对话，无需任何提示：</strong></p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">claude --continue</span><br></pre></td></tr></table></figure>
+
+<p><strong>使用以下命令，会显示一个交互式对话选择器，显示：对话开始时间、初始提示或对话摘要、消息数量。</strong></p>
+<ul>
+<li>使用箭头键导航并按Enter选择对话，你可以使用这个方法选择上下文。</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">claude --resume</span><br></pre></td></tr></table></figure>
+
+<p><strong>但是！这两个方式可能对我们强制退出的情况下，或者超时异常的情况下，可能会丢失消息记录，最好的避免方式，就是把你的每次对话让 Claude Code 执行前存放在一个todo.md文件上。</strong></p>
+<p>让 Claude Code 建立一个 <code>todo.md</code> 文件 进行 需求整理后 写入 <code>todo.md</code> 里面，然后每次 Claude Code 自动拆解任务之后更新到 <code>todo.md</code> 文件，执行时严格对照 <code>todo.md</code> 文档。</p>
+<p><strong>可以避免历史记录被清空、 Claude Code 中断退出，记忆没存等情况。</strong></p>
+<h2 id="国内如何使用和安装-Claude-Code"><a href="#国内如何使用和安装-Claude-Code" class="headerlink" title="国内如何使用和安装 Claude Code"></a>国内如何使用和安装 Claude Code</h2><p><strong>“Claude” 大家都知道它是封号斗罗。</strong> 如果你有自己的Claude Pro 或者 Max 账号 可以进行安装官方版体验。</p>
+<p>如果你是首次体验 Claude Code的话，又没有 Claude 账号的话，可以使用 Claude Code 中转API或者镜像之类的。<strong>目前 Claude Code 偷换不了模型，用的都是 Claude Max 账户。</strong></p>
+<p><strong>我是通过使用 GAC Claude Code 直连中转镜像，无需魔法，也不用担心封号问题。</strong></p>
+<p>获取体验 gac claude code 镜像的兑换码地址: <a href="https://chatshare.cc/">https://chatshare.cc</a></p>
+<p>（<strong>直接找店主的话，会给对应的优惠哦～）</strong></p>
+<p><img src="https://pica.zhimg.com/v2-a4bd8ad72d69762d2277d3f83ff8c31a_1440w.jpg" alt="img"></p>
+<p><strong>怎么使用和安装对应的 GAC Claude Code 直连镜像</strong>，可以参考这篇文章：<a href="https://upchatgpt.cn/how-use-install-claude-code-and-gaccode-subscribe-entrance/">《国内如何使用和安装Claude Code的教程 - Mac用户篇》</a></p>
+<p><strong>如果是windows用户，可以参考这篇安装教程：</strong><a href="https://openssora.com/how-install-and-use-claude-code-in-windows-wsl2/">《国内如何安装和使用 Claude Code 的教程 - Windows用户篇》</a></p>
+<img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
+      <tags>
+        <tag>Claude Code</tag>
+        <tag>Claude API Error</tag>
+        <tag>Claude</tag>
+      </tags>
+  </entry>
 </search>
