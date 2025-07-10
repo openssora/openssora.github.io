@@ -3731,4 +3731,51 @@
         <tag>Claude</tag>
       </tags>
   </entry>
+  <entry>
+    <title>国内如何升级使用Grok4和订阅SuperGrok的绑卡教程，以及Grok4的官网入口</title>
+    <url>/how-to-upgrade-subscribe-supergrok-and-grok4-entrance/</url>
+    <content><![CDATA[<p>目前免费版本支持Grok3，而Grok4的入口需要升级为SuperGrok才能使用。</p>
+<p><strong>Grok4官网的入口：</strong> <a href="https://grok.com/">grok.com</a>（访问有限制网络，需要有美区的IP） </p>
+<p><strong>下面教大家在国内如何通过【支付宝】升级SuperGrok之后进行体验Grok4。</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-33fd7149c66ee157c6b0b09f4e730d3c_1440w.png" alt="img"></p>
+<p>先来看看 SuperGrok 的价格，分别有 30$&#x2F;月 和 300$&#x2F;月，而300$是 SuperGrok Heavy，它<strong>可以使用 Grok 4 Heavy</strong> 这个模型。</p>
+<span id="more"></span>
+
+<p><strong>如果需要体验 Grok 4，订阅 SuperGrok 就行。</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-4af6dcc677bb7fabd2b0a6dbc0e7cbd1_1440w.png" alt="img"></p>
+<h2 id="SuperGrok-国内订阅教程"><a href="#SuperGrok-国内订阅教程" class="headerlink" title="SuperGrok 国内订阅教程"></a>SuperGrok 国内订阅教程</h2><p><strong>SuperGrok订阅升级时，建议使用网页版进行升级，因为苹果手机会收额外的“苹果税”，你的订阅价格就会比其他人高。</strong></p>
+<p>订阅升级Gork时，需要绑定海外的Visa或者Master卡，没有的伙伴可以先申请一张Master虚拟卡代替。</p>
+<p><strong>目前我用了2年的Master虚拟卡(wildscard)，还是比较稳定靠谱的：</strong></p>
+<p><strong>wildscard官网：</strong> <a href="https://wildscard.com/">https://wildscard.com</a> </p>
+<p>（1）注册开通之后，可以在我的卡片上，选择对应的订阅服务：Grok。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-7c3eb47f1eebbe28038a5f13165f9a4f_1440w.png" alt="img"></p>
+<p>（2）接着就可以通过【支付宝】给Master虚拟卡进行充值，可以自定义输入30美金。</p>
+<p><strong>当你不使用这个余额时，可以进行提现回【支付宝】，几乎秒到账。</strong></p>
+<p><img src="https://picx.zhimg.com/80/v2-4d64467fa0869474a91a2c1ac0473636_1440w.png" alt="img"></p>
+<p>（3）复制Master虚拟卡上的卡号信息，直接回到Grok官网，选择按月支付，然后把Master卡上的信息对应填入之后就可以订阅成功！</p>
+<p><img src="https://pic1.zhimg.com/80/v2-7f6af0c6e29c60fafd38d8069537ee1e_1440w.png" alt="img"></p>
+<p>当然，你也可以把Master虚拟卡绑定在 Google Pay 上面，然后直接使用Google Pay就可以完成支付。</p>
+<p><img src="https://picx.zhimg.com/80/v2-4c8c3c7dde21d3ea49c69378735f8b40_1440w.png" alt="img"></p>
+<p>老马没有限制国内的visa或Master卡，如果你国内银行的visa&#x2F;master卡也是支持绑定的。没有的话，就用 Master 虚拟卡。</p>
+<blockquote>
+<p> <strong>Master虚拟卡</strong>：<a href="https://wildscard.com/">https://wildscard.com</a> </p>
+</blockquote>
+<p>不像OpenAI一定要美区的Master卡，那么就只能使用上面的Master虚拟卡啦。</p>
+<p><strong>为了避免下个月续费的自动扣款的情况，记得在 Grok 官网上的 Settings（设置）-&gt;【订阅管理】进行取消自动续费！！！</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-7588aa45ebd5d08d862d8ef5b222fbc6_1440w.png" alt="img"></p>
+<p>最后附上一张Grok4生成的天气卡片，<strong>Coding的话还得是用 Claude Code</strong>，其他方面 Grok4 确实提升了很多。</p>
+<p><img src="https://picx.zhimg.com/80/v2-a77c41098197c5ab575cd997873ff7f4_1440w.jpg" alt="img"></p>
+<ul>
+<li>Grok4官方入口：<a href="https://grok.com/">grok.com</a></li>
+<li>wildscard野卡：<a href="https://wildscard.com/">wildscard.com</a></li>
+<li>Claude Code 镜像体验安装教程：<a href="https://upchatgpt.cn/how-use-install-claude-code-and-gaccode-subscribe-entrance/">国内如何使用安装 Claude Code 的教程和GAC Claude Code 镜像的兑换码</a></li>
+</ul>
+<img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />
+]]></content>
+      <tags>
+        <tag>grok4官方入口</tag>
+        <tag>supergrok升级订阅</tag>
+        <tag>grok绑银行卡教程</tag>
+      </tags>
+  </entry>
 </search>
