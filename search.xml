@@ -3888,4 +3888,36 @@
         <tag>ChatGPT绑卡支持充值问题</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Cursor区域限制解决方法，Cursor 提示：“Model not available, This model provider doesn‘t serve your region” 的原因</title>
+    <url>/how-to-reslove-cursor-serve-your-region/</url>
+    <content><![CDATA[<p>最近的Cursor也是限制了国内用户使用 Claude 4 sonnet 和其他 Claude 模型了，<strong>原因是API提供商要求在它们规定的区域使用</strong>。</p>
+<p>这就是 Cursor 提示：<strong>“Model not available, This model provider doesn‘t serve your region”</strong> 的原因！ <strong>下面教你怎么解决这个问题。</strong></p>
+<p><img src="https://pica.zhimg.com/80/v2-1a1b1e4a35d6370a772fc19b3efc3a96_1440w.webp" alt="img"></p>
+<p>如果你下面是开启了 Auto 模式的话，就不会有这个提示。但是 Cursor 只会给你一些小模型，或者比较低级的模型给你使用，体验感会下降。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-ee6bf60073e8c4aa5325c0277e2edaa4_1440w.webp" alt="img"></p>
+<h2 id="第一种解决方法（推荐）"><a href="#第一种解决方法（推荐）" class="headerlink" title="第一种解决方法（推荐）"></a>第一种解决方法（推荐）</h2><p>目前的解决方式，就是挂上你的魔法（TZ）之后，然后开启TUN模式，也就是全局路由。</p>
+<span id="more"></span>
+
+<p>TUN模式的核心作用是将你设备上所有的网络流量都通过代理隧道进行转发。</p>
+<p>开启之后，回到 <code>Cursor -&gt; Cursor Settings -&gt; Network</code> 把HTTP的模式改为http1.0</p>
+<p><img src="https://picx.zhimg.com/80/v2-a335add73b295ece1e3864fbd6ef184d_1440w.webp" alt="img"></p>
+<p><img src="https://pic4.zhimg.com/80/v2-f942f71afb6a34a7d7a89da5a33c7b03_1440w.webp" alt="img"></p>
+<p><strong>最后重启大法：“重启你的 Cursor ！”</strong></p>
+<h2 id="其他解决方式"><a href="#其他解决方式" class="headerlink" title="其他解决方式"></a>其他解决方式</h2><p>你可以使用最新比较火的 Claude Code，它上下文更大，另外就是 Claude 的 亲儿子，自然限制会更少一些。</p>
+<p>Claude Code 体验过的人，都知道确实好用，但是你平时比较少用，或者都是处理一些小型项目的话，Cursor其实也够。</p>
+<p>两者的区别：Cursor 是尽量减少你的token消耗，这样子它们的成本就会减低。 而 Claude Code 尽可能的消耗你更多的token，来了解和解决你的需求，所以效果会好一些，成本也高很多。</p>
+<p><strong>Claude Code的安装和使用教程：</strong> <a href="https://chatgpi.cn/how-to-install-claude-code-mirror-and-gaccode-mirror/">国内如何安装使用 Claude Code</a></p>
+<h2 id="ChatGPT-升级平替教程"><a href="#ChatGPT-升级平替教程" class="headerlink" title="ChatGPT 升级平替教程"></a>ChatGPT 升级平替教程</h2><p>最近很多人在找解决 ChatGPT Plus 升级的教程，原因是wildcard野卡已经无法使用，目前可以通过下面这个系统进行升级。</p>
+<p>卡密的费用就是全部升级的费用，升级过程大概5分钟左右就完成。</p>
+<blockquote>
+<p><strong>ChatGPT Plus 代升级系统：</strong><a href="https://dazi.uno/">https://dazi.uno</a></p>
+</blockquote>
+<p><img src="https://pic1.zhimg.com/80/v2-e9323fea1e27b187dc6ee7ee37de981b_1440w.png" alt="img"></p>
+]]></content>
+      <tags>
+        <tag>cursor区域限制</tag>
+        <tag>cursor无法使用claude模型</tag>
+      </tags>
+  </entry>
 </search>
