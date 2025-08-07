@@ -3920,4 +3920,50 @@
         <tag>cursor无法使用claude模型</tag>
       </tags>
   </entry>
+  <entry>
+    <title>免费用户如何使用GPT-5的入口和国内使用支付宝礼品卡升级ChatGPT Plus的教程</title>
+    <url>/how-use-gpt-5-and-chatgpt-5-pro-access-entrance/</url>
+    <content><![CDATA[<p>下面介绍GPT-5哪些用户可以使用，以及GPT-5发布会之前的曝光和泄露的几个GPT-5模型：GPT-5、GPT-5-mini、GPT-5-nano、GPT-5-Pro、GPT-5-Thinking等。 另外<strong>教大家如何解决国内升级GPT PLUS 充值的问题。（使用支付宝的礼品卡进行升级GPT PLUS即可）</strong></p>
+<h2 id="GPT-5-哪些用户可以使用？"><a href="#GPT-5-哪些用户可以使用？" class="headerlink" title="GPT-5 哪些用户可以使用？"></a>GPT-5 哪些用户可以使用？</h2><p>根据目前的销售计划曝光，免费用户、Plus、Team、Pro等均可使用。具体如下：</p>
+<ul>
+<li>免费用户：可使用旗舰模型 GPT-5</li>
+<li>Plus 用户：可使用 GPT-5 进行高级推理</li>
+<li>Pro 用户：可以使用 GPT-5-pro，可以使用更多的 GPT-5 模型调用次数。</li>
+</ul>
+<p>套路跟之前的差不多一致，如果想要用更多的GPT-5模型的次数，建议冲 Plus 会员就行了，大部分情况下次数比免费的高很多。</p>
+<p>根据以往的其他模型的上下文对比，Plus用户的上下文有 32k，免费用户的上下文有 8k，Pro用户的上下文有 128k。</p>
+<p>最近很多伙伴的野卡已经无法进行使用了，都在找平替的方式升级GPT Plus，<strong>如果需要在国内升级GPT PLUS的话，可以使用这个代充系统就行了，大概2分钟就完成。</strong></p>
+<blockquote>
+<p><strong>代升级系统:</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg</a></p>
+</blockquote>
+<span id="more"></span>
+<p><img src="https://pic3.zhimg.com/80/v2-8dbe4565272002070b686fd0e1b885b6_720w.webp" alt="img"></p>
+<p>不用担心什么跑路之类的，<strong>原理就是使用20刀的礼品卡一次性充值1个月的PLUS会员，前提是PLUS已经到期的伙伴，才可以进行升级。</strong></p>
+<p>喜欢折腾的伙伴，可以弄个苹果手机，申请个美区ID，再去支付宝购买一张20刀的礼品卡就可以升级。 不喜欢折腾的伙伴，直接用代充系统就行，原理一致。 </p>
+<p><strong>代升级系统：</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg</a></p>
+<p>申请到的域名比较好记住，就是GPT官方域名，加个 .kg 后缀，这个 .kg 后缀就是一个地区的后缀。</p>
+<h2 id="GPT-5发布会前的爆料"><a href="#GPT-5发布会前的爆料" class="headerlink" title="GPT-5发布会前的爆料"></a>GPT-5发布会前的爆料</h2><p>2025年8月8号凌晨1点的OpenAI发布会，估计会发布GPT-5模型。最近 Sam Altman 也是做足了营销，发布会前，已经有很多泄露代码和消息。</p>
+<p>比如，已经泄露的几张图片，可以通过OpenAI的CDN接口查看到，修改一下模型名字就行。</p>
+<blockquote>
+<p><strong>举个例子：</strong><a href="https://cdn.openai.com/API/docs/images/model-page/model-icons/gpt-5.png">https://cdn.openai.com/API/docs/images/model-page/model-icons/gpt-5.png</a></p>
+</blockquote>
+<p><img src="https://pic1.zhimg.com/80/v2-911f450146e6faa38549d4cbe037cd88_720w.webp" alt="img"></p>
+<p>其中有 <strong>GPT-5、GPT-5-mini、GPT-5-nano</strong> 三张图。</p>
+<p>不过，从GPT官网的代码来看，目前我看到的模型是：GPT-5、GPT-5-auto、GPT-5-Pro、GPT-5-thinking 等模型。</p>
+<p><strong>GPT-5-auto 更可能是面对免费用户。而 GPT-5-Pro 从代码上看，是开放给了 Team 和 Pro 两个级别的用户。</strong></p>
+<p><img src="https://pica.zhimg.com/80/v2-5b51f9b28431bd75e9e645ead6d2cc0e_720w.webp" alt="img"></p>
+<p><img src="https://picx.zhimg.com/80/v2-508b2e36184c28c16a9386e1f249ccd7_720w.webp" alt="img"></p>
+<p>今晚凌晨1点的发布会，也比之前的估计更长时间，可能发布的内容很多，感兴趣的可以蹲点。</p>
+<p><img src="https://pica.zhimg.com/80/v2-391978f95880804702833c614a5ba136_720w.webp" alt="img"></p>
+<p><strong>通过 Copilot 传出的 GPT 5 测试基准</strong>，GPT-5的推理能力据说超越了人类，目前碾压了所有的大模型。</p>
+<p><img src="https://picx.zhimg.com/80/v2-c308e08da2305da3e7ec5c1c11083825_720w.webp" alt="img"></p>
+<p>基准的测试不知道真假，是否跟 Sam Altman 说的那么强 还得自己实测。之前有个 <strong>GPT-4 和 GPT-5 的参数对比图</strong>，不知道这次GPT-5模型是否让大家感到惊喜。</p>
+<p><img src="https://picx.zhimg.com/80/v2-66956cf7cb51d952a0e5817061eead6d_720w.webp" alt="img"></p>
+]]></content>
+      <tags>
+        <tag>GPT-5</tag>
+        <tag>支付宝礼品卡升级ChatGPT Plus</tag>
+        <tag>GPT PLUS 充值升级</tag>
+      </tags>
+  </entry>
 </search>
