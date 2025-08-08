@@ -3966,4 +3966,44 @@
         <tag>GPT PLUS 充值升级</tag>
       </tags>
   </entry>
+  <entry>
+    <title>GPT-5模型的使用限制和次数，以及国内如何充值升级ChatGPT PLUS的方式</title>
+    <url>/gpt-5-and-gpt-5-thinking-usage-limits/</url>
+    <content><![CDATA[<p>GPT-5 已经更新升级完毕，很多人还不知道GPT-5对应用户的使用次数是多少，<strong>下面讲解一下GPT-5模型对应的可用次数、切换入口以及 GPT Plus 的国内如何升级。</strong></p>
+<p><img src="https://picx.zhimg.com/80/v2-1444b214fc0d11b6823b9e4b54a7c62f_1440w.png" alt="img"></p>
+<p>GPT-5目前是统一了所有模型，以及开启了智能路由。<strong>早期，Sam Altman就提过 GPT-5 自动调用对应的模型，无需用户繁琐的切换模型。</strong></p>
+<p>对于 ChatGPT 免费用户来说，可以免费使用GPT-5，但是可调用次数也是较少的，具体分别如下：</p>
+<ul>
+<li><strong>免费用户：</strong>每 5 小时最多 10 条消息，超额之后自动切换为 GPT-5-mini 版本（无限次，对标 GPT-4o-mini）；每天仅可用 1 次 GPT-5 Thinking。 </li>
+<li><strong>Plus 用户：</strong> 每 3 小时最多 80 条消息；可手动选择 GPT-5-Thinking 模型，但限制每周最多 200 条。 </li>
+<li><strong>Pro 用户：</strong> 无限使用 GPT-5，同时可以使用 GPT-5-Thiking-Pro 模型。</li>
+</ul>
+<span id="more"></span>
+
+<p>目前企业级、Edu用户还没有推送，Team 和 Pro 用户都可以使用 GPT-5-Pro模型。</p>
+<p><img src="https://picx.zhimg.com/80/v2-f78ee6addf6c4210497617d1d8f4621e_1440w.png" alt="img"></p>
+<p>很多伙伴，因为GPT-5统一了所有模型，还属于一脸懵的情况，下面放一张 GPT-5 和 历史模型的对标图：</p>
+<p><img src="https://pica.zhimg.com/80/v2-25994ec51708d8fa72a3932b747e73e8_1440w.png" alt="img"></p>
+<p><strong>使用 GPT-5 小技巧，因为 GPT-5 自动切换 GPT-5-Thinking 不计入Thinking的额度</strong>，所以 Plus 用户使用 GPT-5 时，可以通过提示词，比如：“认真想一想” 之类的，让它自动切换入深度思考模式。</p>
+<h2 id="国内用户如何升级GPT-PLUS呢？"><a href="#国内用户如何升级GPT-PLUS呢？" class="headerlink" title="国内用户如何升级GPT PLUS呢？"></a>国内用户如何升级GPT PLUS呢？</h2><p>最近wildcard野卡虚拟卡已经暂停服务了，<strong>国内用户需要升级 GPT PLUS 的话，可以使用这个GPT代升级系统，大概2分钟就完成。</strong></p>
+<blockquote>
+<p> <strong>代升级系统：</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg</a> </p>
+</blockquote>
+<p><img src="https://pic1.zhimg.com/80/v2-c10e92802d2fd212d0932d46c5825efa_1440w.png" alt="img"></p>
+<p><strong>GPT代升级系统的原理是通过20刀的礼品卡一次性充值1个月的GPT PLUS，所以需要PLUS过期了才能升级，无法进行续费，你可以收藏保留好系统的地址，到期后使用就行。</strong></p>
+<p><strong>代升级系统：</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg</a> </p>
+<p>域名很好记的哦，GPT官方域名后缀加个.kg即可。</p>
+<h2 id="没有收到GPT-5推送？"><a href="#没有收到GPT-5推送？" class="headerlink" title="没有收到GPT-5推送？"></a>没有收到GPT-5推送？</h2><p>如果你的账号没有收到GPT-5的入口和推送，那么你可以通过退出浏览器和清除缓存登录就行。</p>
+<p>或者直接在路由上，加上 ?model&#x3D;gpt-5 参数进入。 (参数有：gpt-5 或者 gpt-5-thinking)</p>
+<p><img src="https://pica.zhimg.com/80/v2-0ae06678f33646b0c7b685bbbc97cbf1_1440w.png" alt="img"></p>
+<p>谷歌浏览器用户，可以通过这个插件统计自己的GPT调用次数。</p>
+<blockquote>
+<p>ChatGPT Degrade Checker 降级检查:  <a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm">https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>GPT-5的使用次数限制</tag>
+        <tag>国内如何升级ChatGPT PLUS的教程</tag>
+      </tags>
+  </entry>
 </search>
