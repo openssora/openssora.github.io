@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://openssora.com/how-to-switch-from-gpt-5-to-gpt-4o/</loc>
+    
+    <lastmod>2025-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://openssora.com/gpt-5-and-gpt-5-thinking-usage-limits/</loc>
     
     <lastmod>2025-08-08</lastmod>
@@ -652,7 +661,7 @@
 
   <url>
     <loc>https://openssora.com/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -660,819 +669,833 @@
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OpenAI/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OpenAI-o1/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Claude%E5%8D%87%E7%BA%A7%E6%B3%A8%E5%86%8C/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Claude3%E6%B3%A8%E5%86%8C%E4%B8%8E%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/wildcard%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Cursor%E5%8D%87%E7%BA%A7/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OnlyFans%E6%94%AF%E4%BB%98%E6%95%99%E7%A8%8B%E6%9C%80%E6%96%B0%E6%96%B9%E6%B3%95%EF%BC%882024%EF%BC%89/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT4-0-Plus-%E6%9C%80%E6%96%B0%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/openai-api-%E7%BB%91%E5%8D%A1%E5%8F%8A-key-%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/openai-%E6%94%AF%E4%BB%98%E5%87%BA%E7%8E%B0-%E6%82%A8%E7%9A%84%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E6%8B%92%E7%BB%9D-your-card-has-been-declined-%E6%80%8E%E4%B9%88%E5%8A%9E/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/openai-%E8%B4%A6%E5%8F%B7%E5%85%8D%E8%B4%B9%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Midjourney%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Sora%E7%9A%84%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E7%BE%8E%E5%8C%BA-apple-id-%E6%B3%A8%E5%86%8C%E5%92%8C%E7%BB%91%E5%8D%A1%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OnlyFans/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Cursor/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OpenAI-API/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Azure/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT%E9%99%8D%E6%99%BA/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT%E9%99%8D%E6%99%BA%E4%BA%86%E6%80%8E%E4%B9%88%E8%A7%A3%E9%99%A4/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT%E5%8D%87%E7%BA%A7%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus%E8%B4%B9%E7%94%A8/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Google-Gemini-Pro/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Google-One-AI/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Gemini-Advanced/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Google-Play/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus-Pro/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/o1-pro/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/o1-mini/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Cursor-Pro-Business/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Premium/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3-Rate-Limits/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3-Think-Limits/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3-DeepSearch-Limits/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-o1-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-DeepResearch-%E9%99%8D%E6%99%BA%E8%A7%A3%E5%86%B3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E6%8F%90%E9%AB%98Grok3%E6%AC%A1%E6%95%B0/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Premium/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/grok-api/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/grok3-api/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/grok%E5%85%8D%E8%B4%B9%E9%A2%9D%E5%BA%A6/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/cursor%E5%85%85%E5%80%BC/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/cursor%E6%94%AF%E4%BB%98/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/cursor%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8D%87%E7%BA%A7/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Google-Gemini-2-5-Pro/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Google-Gemini-Advanced/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT-4o/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus-%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus-%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus-%E8%B4%AD%E4%B9%B0%E5%85%85%E5%80%BC%E6%94%AF%E4%BB%98%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus-%E4%BB%A3%E8%AE%A2%E9%98%85%E5%8D%87%E7%BA%A7%E7%9A%84%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4o-%E5%8D%87%E7%BA%A7%E8%B4%AD%E4%B9%B0%E5%85%85%E5%80%BC%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus-%E6%97%A0%E6%B3%95%E5%8D%87%E7%BA%A7%E5%92%8C%E7%BB%91%E5%AE%9A%E9%93%B6%E8%A1%8C%E5%8D%A1%E7%9A%84%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3-API-%E5%85%8D%E8%B4%B9%E9%A2%9D%E5%BA%A6/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3-API-150%E7%BE%8E%E9%87%91%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3-API-%E5%AE%9A%E4%BB%B7/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4o%E6%97%A0%E6%B3%95%E7%94%9F%E5%9B%BE%E7%9A%84%E5%8E%9F%E5%9B%A0/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4o%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%96%B0%E7%89%88%E5%9B%BE%E7%89%87%E7%94%9F%E6%88%90%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4o%E9%99%8D%E6%99%BA%E4%BA%86/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4o%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8Image-Create/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OpenRouter%E6%B7%BB%E5%8A%A0%E9%93%B6%E8%A1%8C%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OpenRouter%E5%85%85%E5%80%BC%E7%BB%91%E5%AE%9A%E9%93%B6%E8%A1%8C%E5%8D%A1/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/OpenRouter%E8%B4%AD%E4%B9%B0%E7%A7%AF%E5%88%86%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4-1%E8%AE%BF%E9%97%AE%E5%85%A5%E5%8F%A3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4-1-mini-nano-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT4-1-API%E7%9A%84%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/o3%E3%80%81o3-pro%E7%9A%84%E6%AC%A1%E6%95%B0%E9%99%90%E5%88%B6%E6%9F%A5%E8%AF%A2/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/o4-mini%E3%80%81o4-mini-high%E7%9A%84%E6%AC%A1%E6%95%B0%E9%99%90%E5%88%B6%E6%9F%A5%E8%AF%A2/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/edu%E6%95%99%E8%82%B2%E9%82%AE%E7%AE%B1%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Gemini-Student-%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%AE%A4%E8%AF%81/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Gemini-Pro-%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E8%AE%A4%E8%AF%81/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Google-One-AI-Pro%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0%E8%AE%A4%E8%AF%81%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Google-Play-%E7%BB%91%E5%8D%A1%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok%E5%AD%A6%E7%94%9F%E4%BC%98%E6%83%A0/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/SuperGrok/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Grok3-5%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E5%9B%BD%E5%86%85%E6%80%8E%E4%B9%88%E6%B3%A8%E5%86%8Cclaude4%E8%B4%A6%E5%8F%B7/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E5%9B%BD%E5%86%85%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7claude-pro/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/claude%E4%BD%BF%E7%94%A8%E6%AC%A1%E6%95%B0%E9%99%90%E5%88%B6%E5%A4%9A%E5%B0%91/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E5%A6%82%E4%BD%95%E6%94%AF%E4%BB%981%E7%BE%8E%E5%85%83%E8%AE%A2%E9%98%85ChatGPT-Team/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E6%80%8E%E4%B9%88%E5%8F%96%E6%B6%88ChatGPT-Team%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/o3-pro%E5%85%A5%E5%8F%A3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Degrade-Checker-%E9%99%8D%E7%BA%A7%E6%A3%80%E6%9F%A5/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Degrade-Checker-%E9%99%8D%E7%BA%A7%E6%A3%80%E6%9F%A5%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Team-1%E7%BE%8E%E5%85%83%E6%B4%BB%E5%8A%A8/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/o3-pro%E5%85%A5%E5%8F%A3%E5%92%8C%E6%AC%A1%E6%95%B0%E9%99%90%E5%88%B6/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Gemini%E5%AD%A6%E7%94%9F%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Gemini%E5%9C%B0%E5%8C%BA%E8%AE%BF%E9%97%AE%E5%85%A5%E5%8F%A3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Claude-Code-%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GAC-Claude-Code-%E7%9B%B4%E8%BF%9E%E9%95%9C%E5%83%8F%E7%AB%99/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/gaccode%E8%AE%A2%E9%98%85%E7%A0%81/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Windows-WSL-2/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Claude-Code%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/gaccode%E5%85%91%E6%8D%A2%E7%A0%81/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Claude-Code/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Claude-API-Error/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/Claude/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/grok4%E5%AE%98%E6%96%B9%E5%85%A5%E5%8F%A3/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/supergrok%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/grok%E7%BB%91%E9%93%B6%E8%A1%8C%E5%8D%A1%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/wildcard%E9%87%8E%E5%8D%A1/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus-%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT-Plus%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/ChatGPT%E7%BB%91%E5%8D%A1%E6%94%AF%E6%8C%81%E5%85%85%E5%80%BC%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/cursor%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/cursor%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8claude%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT-5/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E6%94%AF%E4%BB%98%E5%AE%9D%E7%A4%BC%E5%93%81%E5%8D%A1%E5%8D%87%E7%BA%A7ChatGPT-Plus/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT-PLUS-%E5%85%85%E5%80%BC%E5%8D%87%E7%BA%A7/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/GPT-5%E7%9A%84%E4%BD%BF%E7%94%A8%E6%AC%A1%E6%95%B0%E9%99%90%E5%88%B6/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/tags/%E5%9B%BD%E5%86%85%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7ChatGPT-PLUS%E7%9A%84%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://openssora.com/tags/GPT5%E5%88%87%E6%8D%A2%E5%88%B0GPT-4o/</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://openssora.com/tags/GPT%E6%98%BE%E7%A4%BA%E4%BC%A0%E7%BB%9F%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -1481,49 +1504,49 @@
   
   <url>
     <loc>https://openssora.com/categories/ChatGPT/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/categories/ChatGPT%E9%97%AE%E9%A2%98%E9%9B%86%E5%90%88/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/categories/ChatGPT/Cursor/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/categories/ChatGPT/Cursor/OnlyFans/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/categories/ChatGPT-Plus%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/categories/Gemini-Pro%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://openssora.com/categories/Grok3%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-08</lastmod>
+    <lastmod>2025-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

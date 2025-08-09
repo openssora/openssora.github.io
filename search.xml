@@ -4006,4 +4006,55 @@
         <tag>国内如何升级ChatGPT PLUS的教程</tag>
       </tags>
   </entry>
+  <entry>
+    <title>教你怎么从GPT-5切换到GPT-4o，Plus用户也可以显示传统模型的入口。</title>
+    <url>/how-to-switch-from-gpt-5-to-gpt-4o/</url>
+    <content><![CDATA[<p>GPT-5 上线之后，因为统一了所有模型和智能路由的原因，很多人更喜欢 GPT-4o 模型，<strong>教你如何从GPT-5 切换到 GPT-4o。</strong> 切换 GPT-4o 旧模型的入口在哪里？</p>
+<p><img src="https://picx.zhimg.com/80/v2-f3466c4762333dce1e028a1a5fec2117_720w.webp" alt="img"></p>
+<p><strong>原先是 GPT Pro 会员才可以进行开启旧模型的，也就是上图通过升级 Pro 之后，就可以在个人设置上面的进行开启</strong>。 但是最近很多人向 OpenAI 反馈还回 GPT-4o 的访问权， Plus 用户也可以切换回 GPT-4o，但是其他模型旧没有了，免费用户无法切换。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-146bca10958df3d5bcae71d22ea51ba9_720w.webp" alt="img"></p>
+<h2 id="怎么切换回-GPT-4o-呢？"><a href="#怎么切换回-GPT-4o-呢？" class="headerlink" title="怎么切换回 GPT-4o 呢？"></a>怎么切换回 GPT-4o 呢？</h2><p>打开你的GPT页面，个人设置上，<strong>点击 “通用设置” 就可以看到 “显示传统模型”</strong>，打开这个按钮之后，就可以跟上面一样切换到旧模型啦～</p>
+<span id="more"></span>
+
+<p>注意，<strong>此操作目前是在网页版上</strong>才能看到这个选项，如果你的APP没有这个选项，可以在浏览器登录自己的账号查看有没有。</p>
+<p><img src="https://pica.zhimg.com/80/v2-4db599c677970955ef915e7e1a909af0_720w.webp" alt="img"></p>
+<h2 id="如何使用-GPT-5-Pro-呢？"><a href="#如何使用-GPT-5-Pro-呢？" class="headerlink" title="如何使用 GPT-5 Pro 呢？"></a>如何使用 GPT-5 Pro 呢？</h2><p>我开通了 Plus、Team、Pro 三种会员，之前说 Team 会员可以使用 GPT-5 Pro，但是我的几个 Team 会员并没有收到 GPT-5 Pro 的推送，<strong>只有 Pro 会员 才收到 GPT-5 Pro 的推送</strong>，如果需要体验 GPT-5 Pro 的话，可以稍微等一等，有需要的 Team 会员的可以后台私我。</p>
+<ul>
+<li>Team 目前只有 GPT-5 和 GPT-5 Thinking</li>
+</ul>
+<p><img src="https://pic1.zhimg.com/80/v2-912a7def170eb16e13e785675138d5ee_720w.webp" alt="Team"></p>
+<ul>
+<li>Pro 目前所有模型都可以进行使用，包含 GPT-4.5、GPT-4o 等。</li>
+</ul>
+<p><img src="https://pic3.zhimg.com/80/v2-bea20e8cffc183586fe7ef818caf0956_720w.webp" alt="Pro"></p>
+<p>开发者的话，可以直接使用 GPT-5 的 API，在 API 后台可以直接调用 GPT-5，API 都是纯真的模型，就不会进行智能切换模型。</p>
+<h2 id="国内如何升级-GPT-5-呢？"><a href="#国内如何升级-GPT-5-呢？" class="headerlink" title="国内如何升级 GPT-5 呢？"></a>国内如何升级 GPT-5 呢？</h2><p>之前都是通过 wildcard 野卡的美区Master虚拟卡进行绑定升级 GPT PLUS 的，<strong>但是最近的 wildcard 已经暂停服务了，不知道什么时候恢复。</strong></p>
+<p>而 OpenAI 升级 GPT PLUS 时，需要国际的 Master卡，但是大部分伙伴都没有，就算有了国内的 Visa 卡，也不一定能支付。</p>
+<p>目前的方法，可以通过注册美区AppleID，使用苹果设备，在支付宝购买20刀的礼品卡进行升级PLUS，喜欢折腾的可以这么搞哈。</p>
+<p>不喜欢折腾的，就使用这个GPT PLUS 代升级系统，也是一样的原理，通过20刀的礼品卡一次性充值。就可以<strong>在国内升级自己的GPT PLUS</strong>啦。</p>
+<blockquote>
+<p><strong>GPT代升级系统:</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg/</a></p>
+</blockquote>
+<p><strong>系统很简洁也很稳定，2分钟左右就可以完成升级，用了几个月，没有什么问题。</strong></p>
+<p><img src="https://pic1.zhimg.com/80/v2-94f898d8f39eed1aea85c765fffdb114_720w.webp" alt="img"></p>
+<p><strong>GPT代升级系统:</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg/</a></p>
+<h2 id="GPT-5-和-历史模型的对标"><a href="#GPT-5-和-历史模型的对标" class="headerlink" title="GPT-5 和 历史模型的对标"></a>GPT-5 和 历史模型的对标</h2><p>GPT-5 是一个统一的LLM系统，具有智能快速的模型，可以回答大多数问题，更深入的推理模型可以解决更难的问题，以及一个实时路由器。</p>
+<p>实时路由器在真实信号上持续训练，包括用户切换模型的时间、响应的偏好率和测量的正确性，并随着时间的推移而改进。达到使用限制后，每个模型的迷你版本将处理剩余的查询。</p>
+<p><img src="https://picx.zhimg.com/80/v2-303545cbab22114249b9330ca3bca73f_720w.webp" alt="img"></p>
+<h2 id="GPT-5的使用体验"><a href="#GPT-5的使用体验" class="headerlink" title="GPT-5的使用体验"></a>GPT-5的使用体验</h2><p>昨天体验 GPT-5 的伙伴，可能会觉得有点笨，原因 Sam Altman 说了昨天实时自动切换器故障了，导致 GPT-5 显得有点“变笨”了，但是今天系统已修复，并调整了模型的切换策略边界，现在 GPT-5 用起来聪明了不少。</p>
+<p>确保自己的 GPT 不是降智的状态下，GPT-5 的回答确实比以前更加优秀，而且幻觉率也非常低，但是回答的语气有点生硬。</p>
+<p>GPT-5 在编程方面也提升了很多，感觉现在的模型都在靠近 Vibe Coding （用嘴编程)， 让 AI 与 应用程序 和 操作系统进行融合，这是计算机范式的转变了，未来的人机交互的方式将会变得更加简单。</p>
+<p>但是说取代程序员的话，我并不觉得会取代，而是会运用AI的程序员，它们将会成为一个超级个体的存在。</p>
+<p>从 2018 年 GPT-1 到 2025年 的 GPT-5，可以看出AI的进化非常快了，但是越到后面就越到瓶颈期了。</p>
+<p>每隔2年一个大版本出来，GPT-6 是否 2027 年就发布呢？</p>
+<p><img src="https://pic2.zhimg.com/80/v2-775cdd4840d10462c3d02b6c8aa58c5d_720w.webp" alt="img"></p>
+<h2 id="其他教程"><a href="#其他教程" class="headerlink" title="其他教程"></a>其他教程</h2><ol>
+<li><a href="https://upchatgpt.cn/how-to-upgrade-chatgpt-plus-2025/">2025最新国内如何升级开通ChatGPT Plus的教程，无需虚拟卡！</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>GPT5切换到GPT-4o</tag>
+        <tag>GPT显示传统模型</tag>
+      </tags>
+  </entry>
 </search>
