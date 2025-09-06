@@ -4057,4 +4057,62 @@
         <tag>GPT显示传统模型</tag>
       </tags>
   </entry>
+  <entry>
+    <title>（sheerid认证教程）教你如何一键认证 Gemini 教育学生优惠的二次验证和薅1年的Gemini Pro 的教程</title>
+    <url>/how-verification-sheerid-gemini-students/</url>
+    <content><![CDATA[<p>上个月开发了一个过 Gemini 教育优惠的一键系统，测试了一段时间了，下面教大家如何过 Gemini 学生优惠的二次验证和新号的Sheerid认证。</p>
+<h3 id="认证条件"><a href="#认证条件" class="headerlink" title="认证条件"></a>认证条件</h3><ol>
+<li>一个符合可订阅Pro的账号</li>
+<li>需要有干净的美区IP</li>
+<li>需要有一张0元的visa卡</li>
+</ol>
+<p>首先来检查自己的账号可以订阅 Gemini Pro，检查方法比较简单，你点击升级 Pro 的时候，如果有弹出对应的 Pro 会员的介绍时，就没有什么问题。</p>
+<blockquote>
+<p>Gemini 教育优惠地址：<a href="https://goo.gle/freepro">https://goo.gle/freepro</a></p>
+</blockquote>
+<p>打开上方的教育优惠地址时，如果是下方这种提示的话，先确认一个因素，就是当前IP有没有问题，<strong>是否使用了美区IP，而且IP没有被标记的情况</strong>。</p>
+<p><img src="https://pic2.zhimg.com/80/v2-d56386dbc4c5f25687a717e76a5a001b_1440w.webp" alt="img"></p>
+<p>确认之后，打开页面还是显示无法订阅的话，就是你的账号关联到了一些国内的信息，<strong>只要注册一个新的谷歌邮箱就行。</strong></p>
+<span id="more"></span>
+
+<h3 id="认证教程"><a href="#认证教程" class="headerlink" title="认证教程"></a>认证教程</h3><p>下面的认证教程，新号，旧号都可以，同时支持二次验证！</p>
+<p>（1）打开 Gemini 学生认证地址，然后点击下方的 “Get offer” 就会跳到活动页。</p>
+<p>教育优惠地址：<a href="https://gemini.google/students">https://gemini.google/students</a></p>
+<p><img src="https://picx.zhimg.com/80/v2-1cde9fe3fa96321c59bbc076247c7a93_1440w.webp" alt="img"></p>
+<p>（2）接着，点击 verify eligibility （验证资格）之后，会跳到认证地址。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-f406801dca4240562a2b7f77a19e20dd_1440w.webp" alt="img"></p>
+<p>（3）就会直接进入下方这个界面，注意！！！ 不要填表格的任何东西，直接复制界面上方的URL地址，会到自动化站点提交就行。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-11e0e7d6c195f0e3cc5e6c190cbeedaf_1440w.webp" alt="img"></p>
+<p>（4）到 Sheerid 一键认证系统，复制上你的Sheerid认证链接，粘贴进输入框，点击开始验证即可。 等待二十几秒左右就完成啦！</p>
+<p><strong>一键认证系统：</strong> <a href="https://sheerid-one.pages.dev/">https://sheerid-one.pages.dev</a></p>
+<p><img src="https://pic1.zhimg.com/80/v2-01d4f96660fa75d483b35bcb0dfb70f0_1440w.webp" alt="img"></p>
+<p>如果<strong>还不清楚如何使用</strong> “认证系统” 的伙伴，可以点击上面的 <strong>“详细教程”</strong> 就可以看到对应的每个步骤啦～</p>
+<p><img src="https://pic4.zhimg.com/80/v2-3d18a1dd61be670c68a1f919b6344169_1440w.webp" alt="img"></p>
+<h3 id="认证失败的原因"><a href="#认证失败的原因" class="headerlink" title="认证失败的原因"></a>认证失败的原因</h3><p>使用一键认证系统，也会有认证失败的情况，有下面几种原因：</p>
+<ol>
+<li>自己填写了表格</li>
+<li>没有用美区IP去获取认证链接</li>
+<li>IP质量太差</li>
+</ol>
+<p>上面几种情况，出现比较多的就是IP质量太差，你可以提前在 <code>https://ipdata.co</code> 上检测自己的IP质量。 它可能没有那么准，但至少这个 <strong>THREATS（威胁）</strong> 指标要为0呀。</p>
+<p>大于 1 的情况下，很大概率你去获取 Sheerid 认证链接时，就已经被标记为有欺诈风险的了。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-acebf3fa5d9fe55f7f59aed795158622_1440w.webp" alt="img"></p>
+<p>当你切换到一个比较干净的美区IP之后，等待2-3小时，sheerid更新之后，就可以再次认证啦～</p>
+<p>认证失败就换IP，等待 Sheerid 更新，也就是 verificationID 这个值的变化，以及你的认证页面恢复到原始的表格状态。</p>
+<h3 id="无-visa-卡-怎么办？"><a href="#无-visa-卡-怎么办？" class="headerlink" title="无 visa 卡 怎么办？"></a>无 visa 卡 怎么办？</h3><p>当你的教育优惠认证通过之后，就可以返回到 Gemini 进行绑卡订阅啦，这个需要一张0元的visa卡，而且建议是新卡。</p>
+<p>如果你没有的话，下面弄了一些0元的visa卡，以及懒人必备的 1年 Gemini Pro 会员的独享号。</p>
+<p><strong>浏览器打开</strong>： <a href="https://chatshare.cc/">https://chatshare.cc</a></p>
+<p>选择 “Gemini Pro 相关业务” 这个分类，就可以看到专用的visa卡 以及 成品号（价值 200 刀）。</p>
+<p>成品号就是新注册好的谷歌邮箱，并且已经有 1年的 Gemini Pro 会员，直接使用即可。</p>
+<p>Gemini 最新的 Nano Banana 的模型，专门绘画的非常强同时也很火热，虽然目前是在 aistudio 的实验测试阶段，但是后续都会更新到 Gemini 官网上的模型，到时候 Gemini Pro 就可以免费使用啦</p>
+<p>趁现在 Gemini 的学生优惠还在，先薅个年会员放着备用 ～</p>
+<h2 id="其他教程"><a href="#其他教程" class="headerlink" title="其他教程"></a>其他教程</h2><ol>
+<li><a href="http://openssora.com/how-to-upgrade-subscribe-chatgpt-plus-in-china/">（25年最新）解决国内无法升级 ChatGPT Plus 和 ChatGPT 支付绑卡充值问题教程</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>Gemini Pro</tag>
+        <tag>Sheerid认证</tag>
+      </tags>
+  </entry>
 </search>
