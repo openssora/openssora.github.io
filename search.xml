@@ -4250,4 +4250,150 @@
         <tag>Business和Plus的区别</tag>
       </tags>
   </entry>
+  <entry>
+    <title>（2025 11 月 最新版）Codex &amp; Codex CLI 国内使用教程，手把手教你如何支付、安装 Codex！</title>
+    <url>/how-use-codex-and-codex-cli-install/</url>
+    <content><![CDATA[<h2 id="一、国内使用-Codex-Codex-CLI-教程"><a href="#一、国内使用-Codex-Codex-CLI-教程" class="headerlink" title="一、国内使用 Codex &amp; Codex CLI 教程"></a>一、国内使用 Codex &amp; Codex CLI 教程</h2><p>最近 OpenAI 的 Codex 又火出圈了。虽然国内用户直接上手依旧有一些门槛（主要卡在账号问题上），但这次的升级实在让人忍不住想“翻过去”体验。</p>
+<p>半年前，我的主力编码工具还是 Cursor；三个月前我切换到了 Claude Code。然而，随着“降智事件”叠加封号风波，再加上 A 社的逆天言论，我开始动摇，决定再找个靠谱的“备胎”。</p>
+<p>刚好上个月，OpenAI 突然放大招：ChatGPT Plus 用户无需 API Key，直接登录就能使用 Codex CLI！</p>
+<p>看到这消息我立刻冲了回去，毕竟这操作门槛一下就低了很多。</p>
+<p>而且全网都在吹这次 Codex 的“代码生成能力质变”，于是我顺手装了个 Codex CLI，想着随便玩玩。结果——越用越香，完全停不下来。于是有了这篇“踩坑 + 对比实录”，专为第一次想上手 Codex 的朋友准备。</p>
+<p>当然先说明：目前 Codex 和 Claude Code 一样是付费服务。如果你还在免费档，不妨先试试这个一键升级工具：</p>
+<blockquote>
+<p><strong>国内一键升级 ChatGPT 工具：</strong><a href="https://upchatgpt.com/?invitecode=OPEN">upchatgpt.com</a></p>
+</blockquote>
+<p>如果你还没有 ChatGPT 账户，可以直接用邮箱注册一个，什么邮箱都支持直接注册。</p>
+<h2 id="二、-哪些用户可以使用-Codex-？"><a href="#二、-哪些用户可以使用-Codex-？" class="headerlink" title="二、 哪些用户可以使用 Codex ？"></a>二、 哪些用户可以使用 Codex ？</h2><p>目前 Codex 需要付费才能使用，ChatGPT Plus、Pro、Business 等付费会员都可以使用，这些用户网页版就已经有 Codex 入口：</p>
+<p><img src="https://pic1.zhimg.com/80/v2-7bc3dd24f067da2414700425c2dfc48c_720w.webp" alt="img"></p>
+<p><strong>三种使用方式：</strong> Codex 网页版、IDE扩展、Codex CLI 终端。</p>
+<p>GPT-5-Codex 专为 Codex CLI、Codex IDE 扩展、Codex 云环境和在 GitHub 中工作而构建，还支持多种工具使用。</p>
+<h2 id="三、快速安装-Codex-CLI-教程"><a href="#三、快速安装-Codex-CLI-教程" class="headerlink" title="三、快速安装 Codex CLI 教程"></a>三、快速安装 Codex CLI 教程</h2><span id="more"></span>
+
+<h3 id="3-1-安装-Codex-CLI"><a href="#3-1-安装-Codex-CLI" class="headerlink" title="3.1 安装 Codex CLI"></a>3.1 安装 Codex CLI</h3><p>如果你的本地电脑已经安装了 NodeJS 环境，可以直接使用 NPM 快速安装 Codex CLI</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line"># 1. 确认 Node 版本 ≥ 22</span><br><span class="line">node -v  # v22.21.10</span><br><span class="line"></span><br><span class="line"># 2. 使用NPM直接安装</span><br><span class="line">npm i -g @openai/codex</span><br><span class="line"></span><br><span class="line"># 3. 确认是否安装成功</span><br><span class="line">codex --version # 0.42.0</span><br></pre></td></tr></table></figure>
+
+<p>国内 NPM 安装 Codex 比较慢时，可以通过下方的指令解决：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">npm i -g @openai/codex --registry=https://registry.npmmirror.com</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-2-安装-Codex-（插件版本）"><a href="#3-2-安装-Codex-（插件版本）" class="headerlink" title="3.2 安装 Codex （插件版本）"></a>3.2 安装 Codex （插件版本）</h3><p>如果用不习惯 CLI 终端命令行的话，你可以选择安装插件版的Codex，目前 Cursor、VSCode 的应用商城都已经支持 Codex 插件：</p>
+<p><img src="https://pic1.zhimg.com/80/v2-50cad9c3f4c13c18d7de19e775cb4b22_720w.webp" alt="img"></p>
+<p>比如你要改什么文件，或者想做什么，直接在输入框输入即可，另外也可以切换你的模型，平时我都是直接使用 GPT-5-Codex（high）。</p>
+<p><img src="https://pica.zhimg.com/80/v2-a6c10cf3eade9a94f249e1734e9ca5a0_720w.webp" alt="img"></p>
+<p>对于小白来说，你直接在 IDE 安装 Codex 是最方便的了。 而且操作都是有 GUI 界面，降低了上手难度。</p>
+<h2 id="四、无需配置，快速启动你的Codex"><a href="#四、无需配置，快速启动你的Codex" class="headerlink" title="四、无需配置，快速启动你的Codex"></a>四、无需配置，快速启动你的Codex</h2><p>直接在终端命令行上输入：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">codex</span><br></pre></td></tr></table></figure>
+
+<p>首次登录时会弹出网页，用 ChatGPT 账户一键登录 -&gt; 自动返回本地端口并且写入了 <code>~/.codex/token</code>，全程不用复制粘贴任何KEY，只要你是 Plus、Pro、Business 用户之一就可以用！</p>
+<p><img src="https://pic1.zhimg.com/80/v2-ebfe9f34e534e76be49ad14be18d86de_720w.webp" alt="img"></p>
+<p>选择第一个选项：<code>Sign in with ChatGPT</code> 就会弹出授权网页。</p>
+<p>如果授权之后，出现回调失败的情况下，不要慌，这个可能是网络问题。你的网络上的魔法，得开启全局路由，也就是你魔法的Tun模式！</p>
+<p><img src="https://pic3.zhimg.com/80/v2-12365255ce3091e3d95276aa616bf4ce_720w.webp" alt="img"></p>
+<p>开启之后，再重新执行 Codex 进行重新授权即可。</p>
+<h2 id="五、常用命令和技巧使用"><a href="#五、常用命令和技巧使用" class="headerlink" title="五、常用命令和技巧使用"></a>五、常用命令和技巧使用</h2><p>在使用 Codex CLI，大家可能会出现跟我一样的疑惑或者问题，都可以参考以下方式解决。</p>
+<h3 id="5-1-如何设置-Codex-以中文回复"><a href="#5-1-如何设置-Codex-以中文回复" class="headerlink" title="5.1 如何设置 Codex 以中文回复"></a>5.1 如何设置 Codex 以中文回复</h3><p><strong>中文回复</strong>，这个是小白必备设置，如果你英文能力比较强，这一步可以忽略。</p>
+<p>在 <code>~/.codex/</code> 下 创建一个 <code>AGENTS.md</code> 文件，然后输入 <strong>“Always respond in Chinese-simplified”</strong> 在里面。</p>
+<p>你也可以复制下方命令行，在你的mac电脑终端执行即可：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">mkdir -p ~/.codex &amp;&amp; printf &#x27;Always respond in Chinese-simplified\n&#x27; &gt; ~/.codex/AGENTS.md</span><br></pre></td></tr></table></figure>
+
+<h3 id="5-2-常用的指令"><a href="#5-2-常用的指令" class="headerlink" title="5.2 常用的指令"></a>5.2 常用的指令</h3><table>
+<thead>
+<tr>
+<th>场景</th>
+<th>命令示例</th>
+<th>体验效果</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1. 直达指令</td>
+<td>codex “写一个下载文件的 Python 脚本”</td>
+<td>约 3 秒产出可运行代码，零废话。</td>
+</tr>
+<tr>
+<td>2. 交互模式</td>
+<td>codex ↵ → &gt;&gt; 把上面的脚本改成并发</td>
+<td>支持 Tab 补全、Ctrl-R 搜索历史，手感接近 zsh。</td>
+</tr>
+<tr>
+<td>3. 图片报错</td>
+<td>codex -i error.png “修掉图中的报错”</td>
+<td>能直接读终端&#x2F;IDE 截图，免去手抄错误栈。</td>
+</tr>
+<tr>
+<td>4. 整仓重构</td>
+<td>codex “给整个 Go 项目加 ctx 传值”</td>
+<td>先给改造计划 → 分块产出 Diff 供你审核 → 再批量应用。</td>
+</tr>
+<tr>
+<td>5. 一键运行</td>
+<td>codex exec “跑通 pytest”</td>
+<td>自动 pip install 依赖 → 跑测试 → 失败自动回退问题 commit，CI 即视感。</td>
+</tr>
+</tbody></table>
+<h2 id="六、Codex-和-Claude-Code-的对比"><a href="#六、Codex-和-Claude-Code-的对比" class="headerlink" title="六、Codex 和 Claude Code 的对比"></a>六、Codex 和 Claude Code 的对比</h2><table>
+<thead>
+<tr>
+<th>维度</th>
+<th>Codex (GPT-5)</th>
+<th>Claude Code (Opus 4.1)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>登录门槛</td>
+<td>ChatGPT Plus &#x2F; Business 用户直接登录，无需配置，无需 API Key，一键即用</td>
+<td>需美区账号 + 接码验证，且国内 IP 已被封，门槛较高</td>
+</tr>
+<tr>
+<td>响应速度</td>
+<td>首 token 平均 1.2 秒，几乎“指到即生”，干脆利落、零赘述</td>
+<td>约 2.5 秒，习惯先“分析总结”再给代码，略显拖沓</td>
+</tr>
+<tr>
+<td>上下文能力</td>
+<td>实测可处理 200k+ token，上下文理解非常稳，能完整读懂一个中大型仓库</td>
+<td>理论上可调到 1M，但在复杂多文件项目中易失焦</td>
+</tr>
+<tr>
+<td>目录洁癖</td>
+<td>给结构图就能精准落地，严格按目录生成文件，不乱放、不重复</td>
+<td>偶尔会“过度聪明”，把多文件合并成单文件</td>
+</tr>
+<tr>
+<td>工程化体验</td>
+<td>内置任务面板、Diff 审批流程清晰，Hooks 社区快速补齐生态</td>
+<td>功能多但略显复杂，新手容易迷失在指令体系里</td>
+</tr>
+<tr>
+<td>前端审美</td>
+<td>UI 简洁干净，偏工程师风格，专注功能与响应速度</td>
+<td>动效丰富、渐变炫酷，但略显“花哨”</td>
+</tr>
+<tr>
+<td>价格策略</td>
+<td>绑定 Plus &#x2F; Business，理论不限量，每 3 小时约 40 次深度交互，性价比极高</td>
+<td>20～200 阶梯价，易触发封号风险</td>
+</tr>
+<tr>
+<td>隐私模型</td>
+<td>云端沙盒执行，代码仅短暂驻留，不保留历史记录</td>
+<td>本地执行更私密，但依赖本机性能与环境配置</td>
+</tr>
+</tbody></table>
+<p>目前使用 Codex 有一种高性价比的方式，就是开通限时优惠的 Business 会员，我用下方的自助工具，只花了几十块就开通了。</p>
+<p>因为 Business 的 Codex 额度是跟 Plus 一致的，同样的额度，价格少了一半～</p>
+<p><strong>如果你还是免费用户，可以试试这个一键升级工具:</strong></p>
+<blockquote>
+<p>国内自助升级 ChatGPT 工具： <a href="https://upchatgpt.com/?invitecode=OPEN">upchatgpt.com</a></p>
+</blockquote>
+<h2 id="七、Codex-常见的错误和解决方法"><a href="#七、Codex-常见的错误和解决方法" class="headerlink" title="七、Codex 常见的错误和解决方法"></a>七、Codex 常见的错误和解决方法</h2><h3 id="7-1-Codex-401-Unauthorized-错误"><a href="#7-1-Codex-401-Unauthorized-错误" class="headerlink" title="7.1 Codex 401 Unauthorized 错误"></a>7.1 Codex 401 Unauthorized 错误</h3><p>Codex 出现：<code>401 Unauthorized</code> 的错误，就是授权到期了，或者会员过期了，你只需要重新授权就行。</p>
+<p><img src="https://pica.zhimg.com/80/v2-2c60da86c8d7bfb67340f2bd9c161d4a_720w.webp" alt="img"></p>
+<p>在终端执行：<code>/logout</code> 退出 Codex 之后，再重新执行 Codex 就可以进行二次授权。</p>
+<h3 id="7-2-Codex-502-stream-error-或者-re-connect-失败"><a href="#7-2-Codex-502-stream-error-或者-re-connect-失败" class="headerlink" title="7.2 Codex 502 stream error 或者 re-connect 失败"></a>7.2 Codex 502 stream error 或者 re-connect 失败</h3><p>如果 Codex 出现502 或者 重新链接 connect fail 这些错误，大部分是 网络问题，你可以重新开启你的魔法为全局的 Tun 模式。</p>
+<p>或者开系统代理之后，再在终端上 <code>export HTTPS_PROXY=127.0.0.1:7890</code> 就行。</p>
+<p>最后，Vibe coding，不是写代码，而是在写下自己的节奏 ～</p>
+]]></content>
+      <tags>
+        <tag>Codex 安装</tag>
+        <tag>Codex CLI 内使用教程</tag>
+      </tags>
+  </entry>
 </search>
