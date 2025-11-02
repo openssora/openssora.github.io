@@ -4396,4 +4396,73 @@
         <tag>Codex CLI 内使用教程</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Codex 积分包购买地址入口，以及 Codex 最新计费5小时和周限制是多少，</title>
+    <url>/codex-rate-limit-5-hours-and-weekly/</url>
+    <content><![CDATA[<p>最近的 Codex 新版本 0.53 开始，Codex 的使用额度发生了变化，现在用户可以购买积分包的形式增加额度。<strong>（请看文章末尾，教你如何高性价比使用 Codex !）</strong></p>
+<p>现在你可以直接在 <strong>ChatGPT web网页版：Codex 设置 -&gt; 使用情况仪表板 -&gt; 显示积分余额和最近使用情况:</strong></p>
+<p><img src="https://pic3.zhimg.com/80/v2-a6f46b66fa6dad37fb0d1f4a5de6f4a6_1440w.webp" alt="img"></p>
+<p>我平时是在IDE使用 Codex 插件，现在你可以查询每日的 Codex 使用情况：</p>
+<p><img src="https://pic1.zhimg.com/80/v2-42e325445f9c171d1cca49965623bc40_1440w.webp" alt="img"></p>
+<p>如果你通过终端使用的 Codex，执行 <code>/status</code> 就可以查询到5小时限额和周限额，以及他们的重置时间。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-bc53c2e8d2fd1f70a5063e7dae4303e4_1440w.webp" alt="img"></p>
+<h2 id="Codex-的最新额度说明"><a href="#Codex-的最新额度说明" class="headerlink" title="Codex 的最新额度说明"></a>Codex 的最新额度说明</h2><p>Codex 每条消息的实际积分将根据任务大小、复杂性和所需的推理而有所不同，并且可能会随着时间的推移而变化。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>单位</th>
+<th>积分（平均）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>本地任务</td>
+<td>1条消息</td>
+<td>5</td>
+</tr>
+<tr>
+<td>云端任务</td>
+<td>1条消息</td>
+<td>25</td>
+</tr>
+<tr>
+<td>代码审查</td>
+<td>1个拉取请求</td>
+<td>25</td>
+</tr>
+</tbody></table>
+<ul>
+<li>Plus 用户，每 5 小时可以发送大约 30-150 条本地消息或 5-40 个云任务。</li>
+<li>Pro 用户，每 5 小时可以发送 300-1,500 条本地消息，或每 5 小时发送 50-400 个云任务。</li>
+</ul>
+<p>如果积分不够的情况下，可以购买。<strong>当前 Codex 的 1000积分售价为40美元</strong>，但是需要你消耗完订阅套餐的额度才会弹出购买地址。</p>
+<span id="more"></span>
+
+<p><img src="https://pic3.zhimg.com/80/v2-cc2b4c52dc18271e8a7cbc6f837eec58_1440w.webp" alt="img"></p>
+<p>如果你在 Codex 中达到使用限制，你在 Codex Web 网页版的数据看版上可以看到一个带有 “Add credits” 横幅。</p>
+<blockquote>
+<p>Codex 数据面板地址：<a href="https://chatgpt.com/codex/settings/usage">https://chatgpt.com/codex/settings/usage</a></p>
+</blockquote>
+<h2 id="高性价比使用-Codex-的方式"><a href="#高性价比使用-Codex-的方式" class="headerlink" title="高性价比使用 Codex 的方式"></a>高性价比使用 Codex 的方式</h2><p><strong>因为 Business 用户的额度跟 Plus 用户的一致，而且 Business 目前有企业优惠，两位数就可以开通！</strong></p>
+<p>不知道如何便宜开通 Business 会员的话，可以用这个 <strong>GPT自助升级工具</strong>，用浏览器打开：</p>
+<blockquote>
+<p><strong>GPT自助升级工具：</strong> <a href="https://upchatgpt.com/">https://upchatgpt.com</a></p>
+</blockquote>
+<p><strong>（垃圾IP会被屏蔽，工具打不开的话，可以关掉你的🪜试试～）</strong></p>
+<p>如果遇到 Codex 额度不够使用的话，不妨多开几个Business会员，因为 Business 会员在一个账号上，可以共存多个空间，也就是可以同时拥有多个组织的Business会员。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-2097a9c21d22b378e1a59d0b5cfa9ae5_1440w.webp" alt="img"></p>
+<h2 id="最新版的-Codex-更新"><a href="#最新版的-Codex-更新" class="headerlink" title="最新版的 Codex 更新"></a>最新版的 Codex 更新</h2><p>如果你使用 Codex 插件的话，可以在应用商城上，勾上自动更新，每次有新版本都会同步。</p>
+<p><img src="https://picx.zhimg.com/80/v2-1aae8991cb1b5e514333016f702f2249_1440w.webp" alt="img"></p>
+<p>而在终端使用的话，执行 <code>npm install -g @openai/codex</code> 进行更新即可。</p>
+<p>Codex 推出积分套餐，不知道 Claude Code 急了没有～</p>
+<blockquote>
+<p><strong>GPT自助升级工具：</strong> <a href="https://upchatgpt.com/">https://upchatgpt.com</a></p>
+</blockquote>
+<p><strong>（垃圾IP会被屏蔽，工具打不开的话，可以关掉你的🪜试试～）</strong></p>
+]]></content>
+      <tags>
+        <tag>Codex周限制</tag>
+        <tag>Codex积分制</tag>
+      </tags>
+  </entry>
 </search>
