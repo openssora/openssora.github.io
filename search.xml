@@ -3975,19 +3975,24 @@
 <p>对于 ChatGPT 免费用户来说，可以免费使用GPT-5，但是可调用次数也是较少的，具体分别如下：</p>
 <ul>
 <li><strong>免费用户：</strong>每 5 小时最多 10 条消息，超额之后自动切换为 GPT-5-mini 版本（无限次，对标 GPT-4o-mini）；每天仅可用 1 次 GPT-5 Thinking。 </li>
-<li><strong>Plus 用户：</strong> 每 3 小时最多 80 条消息；可手动选择 GPT-5-Thinking 模型，但限制每周最多 200 条。 </li>
-<li><strong>Pro 用户：</strong> 无限使用 GPT-5，同时可以使用 GPT-5-Thiking-Pro 模型。</li>
+<li><strong>Plus 用户：</strong> 每 3 小时最多 80 条消息；可手动选择 GPT-5-Thinking 模型，但限制每周 3000 条。 </li>
+<li><strong>Pro 用户：</strong> 无限使用 GPT-5，同时可以使用 GPT-5-Thiking-Pro 模型。 </li>
+<li><strong>Business 用户：</strong> 无限使用 GPT5，每周3000条 GPT-5-Thinking模型，额外每月15次 GPT-5-Pro调用。</li>
 </ul>
+<p><strong>Business 性价比最高，而且最近限时优惠，只需要 99块就可以开通</strong>，不知道怎么开通的，用下面的GPT代充系统就可以：</p>
+<blockquote>
+<p> <strong>代升级系统：</strong> <a href="https://upchatgpt.com/">https://upchatgpt.com</a>  <strong>（无法打开的话，可以关闭梯子～）</strong></p>
+</blockquote>
 <span id="more"></span>
 
-<p>目前企业级、Edu用户还没有推送，Team 和 Pro 用户都可以使用 GPT-5-Pro模型。</p>
+<p>Team 和 Pro 用户都可以使用 GPT-5-Pro模型。</p>
 <p><img src="https://picx.zhimg.com/80/v2-f78ee6addf6c4210497617d1d8f4621e_1440w.png" alt="img"></p>
 <p>很多伙伴，因为GPT-5统一了所有模型，还属于一脸懵的情况，下面放一张 GPT-5 和 历史模型的对标图：</p>
 <p><img src="https://pica.zhimg.com/80/v2-25994ec51708d8fa72a3932b747e73e8_1440w.png" alt="img"></p>
 <p><strong>使用 GPT-5 小技巧，因为 GPT-5 自动切换 GPT-5-Thinking 不计入Thinking的额度</strong>，所以 Plus 用户使用 GPT-5 时，可以通过提示词，比如：“认真想一想” 之类的，让它自动切换入深度思考模式。</p>
 <h2 id="国内用户如何升级GPT-PLUS呢？"><a href="#国内用户如何升级GPT-PLUS呢？" class="headerlink" title="国内用户如何升级GPT PLUS呢？"></a>国内用户如何升级GPT PLUS呢？</h2><p>最近wildcard野卡虚拟卡已经暂停服务了，<strong>国内用户需要升级 GPT PLUS 的话，可以使用这个GPT代升级系统，大概2分钟就完成。</strong></p>
 <blockquote>
-<p> <strong>代升级系统：</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg</a> </p>
+<p> <strong>代升级系统：</strong> <a href="https://chatgpt.com.kg/">https://chatgpt.com.kg</a>  <strong>（无法打开的话，可以关闭梯子～）</strong></p>
 </blockquote>
 <p><img src="https://pic1.zhimg.com/80/v2-c10e92802d2fd212d0932d46c5825efa_1440w.png" alt="img"></p>
 <p><strong>GPT代升级系统的原理是通过20刀的礼品卡一次性充值1个月的GPT PLUS，所以需要PLUS过期了才能升级，无法进行续费，你可以收藏保留好系统的地址，到期后使用就行。</strong></p>
@@ -4258,10 +4263,11 @@
 <p>刚好上个月，OpenAI 突然放大招：ChatGPT Plus 用户无需 API Key，直接登录就能使用 Codex CLI！</p>
 <p>看到这消息我立刻冲了回去，毕竟这操作门槛一下就低了很多。</p>
 <p>而且全网都在吹这次 Codex 的“代码生成能力质变”，于是我顺手装了个 Codex CLI，想着随便玩玩。结果——越用越香，完全停不下来。于是有了这篇“踩坑 + 对比实录”，专为第一次想上手 Codex 的朋友准备。</p>
-<p>当然先说明：目前 Codex 和 Claude Code 一样是付费服务。如果你还在免费档，不妨先试试这个一键升级工具：</p>
+<p>目前 Codex 和 Claude Code 一样是付费服务。<strong>不过 Codex 可以通过下方的工具开通 99块的 Business 会员就可以使用：</strong></p>
 <blockquote>
 <p><strong>国内一键升级 ChatGPT 工具：</strong><a href="https://upchatgpt.com/?invitecode=OPEN">upchatgpt.com</a></p>
 </blockquote>
+<p><strong>【上面工具如果无法打开的话，请关闭梯子就可以打开啦~】</strong></p>
 <p>如果你还没有 ChatGPT 账户，可以直接用邮箱注册一个，什么邮箱都支持直接注册。</p>
 <h2 id="二、-哪些用户可以使用-Codex-？"><a href="#二、-哪些用户可以使用-Codex-？" class="headerlink" title="二、 哪些用户可以使用 Codex ？"></a>二、 哪些用户可以使用 Codex ？</h2><p>目前 Codex 需要付费才能使用，ChatGPT Plus、Pro、Business 等付费会员都可以使用，这些用户网页版就已经有 Codex 入口：</p>
 <p><img src="https://pic1.zhimg.com/80/v2-7bc3dd24f067da2414700425c2dfc48c_720w.webp" alt="img"></p>
