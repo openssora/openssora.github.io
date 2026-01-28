@@ -452,8 +452,7 @@
 <li><strong>网络</strong></li>
 </ul>
 <p><strong>这三者必须统一。</strong></p>
-<p>如果你不满足上面的条件的话，你可以通过这个平台去注册一张国外虚拟卡：</p>
-<p><a href="https://wildscard.com/">WildCard | 一分钟注册，轻松订阅海外软件服务https://wildscard.com</a></p>
+<p>Wildcard 已经不提供虚拟卡了，可以使用一键代充升级的系统：<a href="https://chatshare.cc/">https://chatshare.cc</a></p>
 <p><em><strong>*它的优势：充值之后去升级GPT-4之后，出现问题了是可以自动退费，然后可以提现的哈*</strong></em></p>
 <p><img src="https://cdn.how2cs.cn/csguide/160031.png" alt="img"></p>
 <p><strong>另外建议使用wildcard平台去升级自己的GPT-4哈，不推荐使用拼车功能！！！</strong></p>
@@ -504,7 +503,7 @@
 <li>检查你的虚拟手机号收件箱，查看来自Claude3的验证码。</li>
 <li>最后将验证码输入到Claude3的注册页面中，完成验证。</li>
 </ol>
-<p>Wildcard的平台地址：<a href="https://wildscard.com/">https://wildscard.com</a>，官方是通过邀请制注册的，如果你没有邀请码的情况下，可以填写官方字段：<strong>UPGPT 。（它还可以优惠2美刀～）</strong></p>
+<p>Wildcard 已经不提供虚拟卡了，可以使用一键代充升级的系统：<a href="https://chatshare.cc/">https://chatshare.cc</a></p>
 <p><strong>（PS：这个虚拟卡还可以升级订阅GPT-4～</strong></p>
 <h1 id="关注公众号，拉你进chatgpt问题交流群："><a href="#关注公众号，拉你进chatgpt问题交流群：" class="headerlink" title="关注公众号，拉你进chatgpt问题交流群："></a>关注公众号，拉你进chatgpt问题交流群：</h1><img src="/image/gzh.pic.png" alt="公众号：摆烂工程师" style="zoom:50%;" />]]></content>
       <tags>
@@ -3019,7 +3018,8 @@
   <entry>
     <title>2025国内怎么注册Claude账号以及使用支付宝升级Claude Pro的教程</title>
     <url>/how-to-register-claude-account-and-upgrade-claude-pro-in-china-in-2025/</url>
-    <content><![CDATA[<p>下面教大家在<strong>国内如何注册Claude账号以及升级Claude Pro</strong>的教程，解决 Claude Pro 在国内升级和注册时需要的<strong>手机号码和支付的visa</strong>卡等问题。</p>
+    <content><![CDATA[<p><strong>下面教程已经过时，2026年最新升级Claude Pro 和 获取 Claude 账号的方式：</strong> <a href="https://chatshare.cc/">https://chatshare.cc</a></p>
+<p>下面教大家在<strong>国内如何注册Claude账号以及升级Claude Pro</strong>的教程，解决 Claude Pro 在国内升级和注册时需要的<strong>手机号码和支付的visa</strong>卡等问题。</p>
 <p><strong>以及介绍免费版的Claude和Claude Pro对应的模型的次数可以使用多少。</strong></p>
 <p>最近的Claude Sonnet 4 和 Claude Opus 4出来之后，<strong>Claude Sonnet 4 可以免费使用，但是其他模型和Think推理模式都需要升级Claude Pro 才能使用。</strong></p>
 <p><img src="https://picx.zhimg.com/80/v2-0f65a880c7e3bb1579c526445ac11a58_1440w.png" alt="img"></p>
@@ -4505,6 +4505,250 @@
       <tags>
         <tag>Cloudeflare</tag>
         <tag>challenges cloudflare chatgpt 无法访问</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>教你如何安装和使用 Clawdbot 和 Moltbot 的保姆级教程（2026年最新）</title>
+    <url>/how-install-and-use-clawdbot-and-moltbot/</url>
+    <content><![CDATA[<p>最近几天相信大家都被 <strong>Clawdbot</strong> 疯狂的刷屏了，跟去年的 <strong>Manus</strong> 发布时差不多一样，在互联网上爆发式的展开。</p>
+<p>原先是小龙虾，现在的 Logo 是脱了壳的小龙虾，已命名为：<strong>Moltbot</strong>。</p>
+<p><img src="https://pica.zhimg.com/80/v2-fa6bc54266e709a5351c1839daec230e_720w.webp" alt="img"></p>
+<p>这是因为 Clawd 的读音跟 Claude 商标冲突，被 Anthropic 给告了，被迫改为 <strong>Moltbot</strong> 。</p>
+<p>Anthropic 认为 Clawdbot 这个名字太容易被市场误解为 Claude Code的衍生产品，所以 Clawdbot 已改名为 Moltbot。</p>
+<blockquote>
+<p>Moltbot 取自龙虾的脱壳行为，符合原本的龙虾元素，并且规避了 Claude 的商标问题。</p>
+</blockquote>
+<p><img src="https://pic3.zhimg.com/80/v2-105a066fd1115099aa201cd2d11ed2a2_720w.webp" alt="img"></p>
+<p><strong>什么是 Clawdbot 呢？</strong></p>
+<p>Clawdbot 是一个 AI 助手，可以部署在本地电脑上或者服务器，可以理解为是一个拥有系统超级权限（root）的 Agent。</p>
+<p>如果你用过 Claude Code， 就可以把它理解为拥有各种 skills 以及可以调用各种 MCP 服务协助完成任务的闭环。</p>
+<span id="more"></span>
+
+<p>可以让它帮你整理邮件、管理日程、炒股、写推文、读PPT等，在后台24小时运行，但这是非常耗 Token。</p>
+<p><strong>因为 Clawdbot 拥有的权限比较高，一不小心可能会把电脑系统的东西删除了就麻烦啦！！！</strong></p>
+<blockquote>
+<p>另外 Clawdbot 的安全性堪忧，直接部署和一些线上服务联合在一起，你的 Clawdbot 大部分网关可是暴露在公网上的，没有任何身份验证，就可以拥有完整的 Shell 访问权限。 小心黑客直接偷家了哦</p>
+</blockquote>
+<p>需要尝试的伙伴，建议在虚拟机上部署，或者在一台不怎么用的 Mac 电脑也行。</p>
+<h2 id="如何安装使用-Clawdbot"><a href="#如何安装使用-Clawdbot" class="headerlink" title="如何安装使用 Clawdbot"></a>如何安装使用 Clawdbot</h2><p>电脑系统需要的<strong>环境要求：</strong></p>
+<ul>
+<li>Node.js 版本 &gt;&#x3D; 22 以上。</li>
+<li>Git</li>
+</ul>
+<p><strong>Windows 电脑用户建议优先选择 WSL2 （推荐 Ubuntu 系统）</strong>，Mac 电脑用户直接开箱即用。</p>
+<p>安装 Clawdbot 相对比较简单，只需要用到一条 shell 命令就行。</p>
+<ul>
+<li>macOS &#x2F; Linux &#x2F; Ubuntu &#x2F; Debian安装使用下面命令<strong>（推荐）</strong>：</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">curl -fsSL https://molt.bot/install.sh | bash</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>Windows (PowerShell) 安装使用下面命令<strong>（推荐）</strong>：</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">iwr -useb https://molt.bot/install.ps1 | iex</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>如果你需要用最新 beta 版本，可以用最新的指令：</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">curl -fsSL https://molt.bot/install.sh | bash -s -- --beta</span><br></pre></td></tr></table></figure>
+
+<p>当然了，可以使用 Npm 包管理进行安装，你安装了 Node.js 环境之后，都有 Npm 工具的。</p>
+<p>不管是 Mac &#x2F; Linux &#x2F; Ubuntu &#x2F; Windows 都可以直接用 Npm 工具进行管理版本和安装：</p>
+<ul>
+<li>支持所有系统，全局安装的指令（对npm不熟悉的，不要使用这种方式安装）：</li>
+</ul>
+<p>因为 npm 是官方刚发布的，可能运行有点问题，建议还是使用上面的其他指令安装。 这边知道一下就行哈。</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">npm i -g moltbot@latest</span><br></pre></td></tr></table></figure>
+
+<p>npm 安装后，如果执行 moltbot 找不到指令的话，可以改为 clawdbot 指令。</p>
+<blockquote>
+<p>上面的指令，使用其中一条就行，按照自己的系统使用对应的指令。</p>
+</blockquote>
+<h2 id="当前是-Mac-苹果电脑进行安装"><a href="#当前是-Mac-苹果电脑进行安装" class="headerlink" title="当前是 Mac 苹果电脑进行安装"></a>当前是 Mac 苹果电脑进行安装</h2><p>目前我是 Node.js 22.15 版本，执行指令后，等待一段时间，会进行克隆 Github 上的仓库。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -fsSL https://molt.bot/install.sh | bash</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://pic3.zhimg.com/80/v2-f5305370d664c74b260928825e954c4a_720w.webp" alt="img"></p>
+<p>当你安装成功之后，会问你是否知道 Clawdbot 的风险很高，选择 yes 之后，就可以继续。</p>
+<p>如果你选择 no，那么就会直接退出安装向导。</p>
+<p>这边选择 <strong>QuickStart</strong> 模式，可以默认使用 Clawdbot 的配置。</p>
+<p>这是分配的默认端口：18789， <strong>然后 Clawdbot 是支持 ChatGPT 和 Claude 的 OAuth 授权登录方式。</strong></p>
+<p>也就是你可以不需要去购买API，使用会员的 Codex 或者 Claude Code。</p>
+<blockquote>
+<p>但是，这里建议别用 Claude 授权登录，因为 Claude 是小气鬼，会阻止你使用非 Claude Code 的服务去调用 Claude。 如果你非要用 Claude 的话，但是没有 Claude 账号，可以在这里申请一个：<a href="https://chatshare.cc/">http://chatshare.cc</a></p>
+</blockquote>
+<p>因为我平时的主力是 Codex，所以我选择 OpenAI, 使用 Codex 的 OAuth 就行，<strong>另外你只要是 GPT 会员（Plus、Business、Pro）就可以用这个方式。</strong></p>
+<p><img src="https://pica.zhimg.com/80/v2-a28dc71c9ea0aeab99d5a9539494b27a_720w.webp" alt="img"></p>
+<p>虽然我本地有 Codex CLI，为了方便大家了解 ChatGPT 授权登录的方式，这边我先选择第 2 种。</p>
+<p><img src="https://pica.zhimg.com/80/v2-af05a68552e27d0649ad7be8e0fa10c2_720w.webp" alt="img"></p>
+<p>会给你一条 ChatGPT 授权登录的链接，正常你的电脑会自动弹起浏览器，你只需要选择对应的会员进行登录即可。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-ba21b775f966962dc2b74ed4e5726552_720w.webp" alt="img"></p>
+<p>这边我是开通了 ChatGPT Businss 会员 和 Plus 会员，不过平时我会优先消耗 Business 会员的 额度，这里我就选择 Business 会员。</p>
+<p><strong>因为 ChatGPT Business 会员比较便宜，目前有优惠活动价，几十块钱就可以用跟 Plus 会员一样的 Codex 额度。</strong></p>
+<p><strong>高性价比体验 Clawdbot 的方式：</strong></p>
+<blockquote>
+<p><strong>ChatGPT Business 优惠开通的地址：</strong> <a href="https://upchatgpt.com/">https://upchatgpt.com</a></p>
+</blockquote>
+<p><img src="https://pica.zhimg.com/80/v2-f5368aa8320ba3974cc6f6a31de035f8_720w.webp" alt="img"></p>
+<p>点击继续后，就会进行回调，告诉你授权成功后，你就可以回到终端查看安装状态。</p>
+<p><img src="https://picx.zhimg.com/80/v2-01d75d5827b32066d36725c57a1b6a71_720w.webp" alt="img"></p>
+<p>PS：<strong>如果你的终端没有自动回调获取到 Code 的话，你就把当前这条回调地址，localhost 开头的，全部复制，粘贴到终端就成功登录啦</strong></p>
+<p>我选择了默认 GPT-5.2-Codex 模型，然后就会进入选择频道，我是测试了 TG 的机器人，这里教程的话，我就先跳过啦。</p>
+<p>你可以跳过，后续再选择，或者配置其他的频道。</p>
+<p><img src="https://pic3.zhimg.com/80/v2-a746aeb46378ded7b5c395fd5455002a_720w.webp" alt="img"></p>
+<p>接下来就是配置 <strong>skills</strong>，是的，这个 skills 就是你平时听到的那个 skills。</p>
+<p><img src="https://picx.zhimg.com/80/v2-f903b2f40de7c27999af80be1a26a7ff_720w.webp" alt="img"></p>
+<p>接着就是包管理工具，这里选择平时自己喜欢的就行，默认用的 npm 就行。</p>
+<p>后面就会给你一些 Skills，你可以按需选择，或者先跳过也可以。 后续都可以安装的，直接跟 Clawdbot 说安装对应的 skills 就行。</p>
+<p>无需手动哦，只需对话。</p>
+<p><img src="https://picx.zhimg.com/80/v2-d18f1966eda13e88756de534faa30abb_720w.webp" alt="img"></p>
+<p>后续出现一些 API KEY 的设置，如果你没有，直接回车：No 就行。 这里是一些图片生成之类的。</p>
+<p><img src="https://pic2.zhimg.com/80/v2-31b227e4caefc3e6ea517775ffa5e3ab_720w.webp" alt="img"></p>
+<p>最后，问你需不需要开启钩子，这三个都是 <strong>Moltbot 的内置 hooks（钩子脚本）</strong>，用来在特定事件发生时自动做事：</p>
+<ul>
+<li>boot-md：网关（gateway）启动后自动读取并执行工作区里的 BOOT.md 里的引导&#x2F;启动指令。</li>
+<li>command-logger：把所有命令事件记录到本地审计日志文件（默认 ~&#x2F;.clawdbot&#x2F;logs&#x2F;commands.log）</li>
+<li>session-memory：当你发出 &#x2F;new 时，把当前会话上下文保存成一份“记忆快照”到工作区（默认 ~&#x2F;clawd&#x2F;memory&#x2F; 相关路径）。</li>
+</ul>
+<p>建议直接三个都钩上开启。</p>
+<p><img src="https://pic1.zhimg.com/80/v2-fbde76958d1c8f1b2f52c0eb2ca1b6a2_720w.webp" alt="img"></p>
+<p>接下来会问你用什么方式开启使用你的 AI 助手。对于新手的话，<strong>建议选择 web ui</strong> ，就是有页面可以操作，不需要输入各种指令进行操作。</p>
+<p>配置基本都完成啦，现在可以运行你的 Clawdbot 。</p>
+<p>可以执行下面指令，就会自动打开 web ui 控制页面啦：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">clawdbot dashboard</span><br></pre></td></tr></table></figure>
+
+<p>默认本地服务运行的端口和地址：<code>http://127.0.0.1:18789</code></p>
+<p><img src="https://pic4.zhimg.com/80/v2-d2e471bb21e01f717b51f862242d1f97_720w.webp" alt="img"></p>
+<blockquote>
+<p>提示：虽然 Clawdbot 改名为 Moltbot，但是目前的工具的指令还没有更新为 moltbot，所以你用官方的指令可能无法确认自己是否成功安装！ 那么，你可以直接把 moltbot 相关 改为 clawdbot 去运行指令，就可以啦！</p>
+</blockquote>
+<h2 id="一些常用的-Clawdbot-指令说明"><a href="#一些常用的-Clawdbot-指令说明" class="headerlink" title="一些常用的 Clawdbot 指令说明"></a>一些常用的 Clawdbot 指令说明</h2><ul>
+<li>快速诊断当前 clawdbot 的状态（含模型提供商用量&#x2F;配额等信息）</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">clawdbot status</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>打开 clawdbot 浏览器 Web UI（最快开始聊天&#x2F;看状态）的管理页面：</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">clawdbot dashboard</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>查看频道配置、探测频道健康、看频道日志。</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">clawdbot channels list|status|logs</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>直接在终端里开 TUI 聊天（没浏览器&#x2F;远程机很爽）。</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">clawdbot tui</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>重新跑配置向导（改模型&#x2F;频道&#x2F;技能时很好用）</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">clawdbot configure</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>管理网关（ <strong>Clawdbot 服务</strong> ） 服务的状态&#x2F;安装&#x2F;停&#x2F;重启。</li>
+</ul>
+<p>如果要关闭你现在在运行的 clawdbot，直接用 <code>clawdbot gateway stop</code> 就可以啦～</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">clawdbot gateway status|install|stop|restart</span><br></pre></td></tr></table></figure>
+
+<p>现在你可以去体验 Clawdbot 啦！当然，如果你不使用 Codex、Claude 这些服务运行 Clawdbot 的话，也可以配置第三方 API 和 KEY，就是可以用国内模型运行 Clawdbot。</p>
+<h2 id="其他教程"><a href="#其他教程" class="headerlink" title="其他教程"></a>其他教程</h2><ul>
+<li><a href="https://upchatgpt.cn/how-upgrade-subscribe-payment-to-chatgpt-plus-in-china">最新使用支付宝充值升级 ChatGPT Plus 的详细教程，ChatGPT 直冲自己账号，无需银行卡</a></li>
+<li><a href="https://upchatgpt.cn/how-install-codex-cli-and-used-buy-codex-in-chatgpt">2025年11月最新版，Codex &amp; Codex CLI 国内使用教程：手把手教你如何配置安装 Codex！</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Clawdbot 和 Moltbot的安装使用教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ChatGPT Go 和 Plus 的区别有哪些？以及国内如何升级 ChatGPT 会员</title>
+    <url>/how-upgrade-chatgpt-go-and-plus-diff/</url>
+    <content><![CDATA[<p>最近OpenAI已经对大部分用户推出 GPT Go 会员套餐，当你免费额度没有了的时候，官方都是先推荐 Go 会员。 不要着急点击升级，先带你了解 Go 和 Plus 两个的区别！</p>
+<p><img src="https://pica.zhimg.com/80/v2-685d5649e4224c1c49924717b3073de0_720w.webp" alt="img"></p>
+<p>原先这个 GPT Go 会员早在印度阿三那边推出了，Go 会员就是阉割版的 Plus 会员，大部分功能无法使用，甚至以后还需要看广告！</p>
+<h2 id="价格与广告"><a href="#价格与广告" class="headerlink" title="价格与广告"></a>价格与广告</h2><p>价格方面，Go 比 Plus 便宜了接近100块，但如果你对“付费还可能看到广告”特别敏感，Plus 会更省心。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Go</th>
+<th>Plus</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>价格</td>
+<td>8 美金</td>
+<td>20 美金</td>
+</tr>
+<tr>
+<td>广告</td>
+<td>将对 Free 与 Go 测试广告</td>
+<td>无广告</td>
+</tr>
+</tbody></table>
+<h2 id="功能清单对比"><a href="#功能清单对比" class="headerlink" title="功能清单对比"></a>功能清单对比</h2><p>GPT Go 会员只能使用 GPT-5.2 Instant 的扩展使用，<strong>无法使用 Thinking 模型。</strong></p>
+<p>而上下文长度都是 32K，跟 Plus、Business 一致。</p>
+<span id="more"></span>
+
+<p><img src="https://pic3.zhimg.com/80/v2-24df22ca3a2b2c81015e15203602fa0e_720w.webp" alt="img"></p>
+<p><strong>GPT Go 会员无法使用 Sora 1 （旧版的Sora）, 并且 Go 会员不支持 Codex!</strong> 对于编程的伙伴，没有 Codex，Go 就没必要买了。</p>
+<p>目前也无法进行交互式表格和图表，也无法创建 GPTs, 基本跟免费的一致，无法使用一些高级的功能。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-b38a48562f7cb3cc4c405c445d5c9021_720w.webp" alt="img"></p>
+<p>额度的话，相对 Free 有 10 倍的消息&#x2F;文件上传&#x2F;图片创建，并给到更长的记忆与上下文窗口。</p>
+<p>Go 订阅页面也明确包含：对 GPT-5、图片生成、文件上传、Advanced Data Analysis 支持。</p>
+<table>
+<thead>
+<tr>
+<th>功能&#x2F;能力</th>
+<th>Go</th>
+<th>Plus</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>深度研究（Deep Research）</td>
+<td>有但更有限（官方写 Free&#x2F;Go&#x2F;Plus层级递增）)</td>
+<td>Expanded Deep Research</td>
+</tr>
+<tr>
+<td>Agent mode（代理&#x2F;多步执行）</td>
+<td>不强调&#x2F;较少</td>
+<td>Expanded agent mode</td>
+</tr>
+<tr>
+<td>Projects &#x2F; Tasks &#x2F; 自定义 GPTs</td>
+<td>无</td>
+<td>有（Projects、tasks、custom GPTs）</td>
+</tr>
+<tr>
+<td>Codex（代码代理）</td>
+<td>无</td>
+<td>有 Codex agent</td>
+</tr>
+<tr>
+<td>Sora 视频生成</td>
+<td>无</td>
+<td>有限 Sora 1 访问</td>
+</tr>
+<tr>
+<td>适用人群</td>
+<td>日常学习、偶尔分析</td>
+<td>重度工作流、编程&#x2F;研究&#x2F;长文档、复杂推理、要“工具链”的人</td>
+</tr>
+</tbody></table>
+<p>日常办公的话，建议升级 Plus 比较好，毕竟工具链较多，很多场景都能够用到。</p>
+<h2 id="关于-ChatGPT-国内如何升级？"><a href="#关于-ChatGPT-国内如何升级？" class="headerlink" title="关于 ChatGPT 国内如何升级？"></a>关于 ChatGPT 国内如何升级？</h2><p>如果自己有国际visa卡，可以直接在官方进行升级即可。但是 Go 的费用，你完全可以去购买一个优惠活动价的 Business 会员。</p>
+<p>没有国际visa卡的伙伴， Plus、Business、Pro 这些会员可以使用这个一键升级系统：</p>
+<blockquote>
+<p>ChatGPT 代升级系统：<a href="https://upchatgpt.com/">https://upchatgpt.com</a></p>
+</blockquote>
+<p>系统稳定运行了2年多，0封号，无需密码，使用的是原价正规升级。</p>
+<p><img src="https://pica.zhimg.com/80/v2-d4eed2030d8c6713e7c94c283f3155f8_720w.webp" alt="img"></p>
+]]></content>
+      <tags>
+        <tag>ChatGPT Go 会员</tag>
+        <tag>ChatGPT Go 和 Plus 的区别</tag>
       </tags>
   </entry>
 </search>
