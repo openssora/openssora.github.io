@@ -4869,4 +4869,45 @@
         <tag>Claude 不封号</tag>
       </tags>
   </entry>
+  <entry>
+    <title>教你如何备份导出 ChatGPT 聊天记录教程，以及 GPT-Image-2 生成次数限制是多少</title>
+    <url>/how-to-backup-chatgpt-chat-record/</url>
+    <content><![CDATA[<p>ChatGPT 最新的 GPT-Image-2 生图次数每个会员分别有多少呢？ GPT-Image-2 的 入口在哪里？</p>
+<h2 id="一、GPT-Image-2-模型的入口"><a href="#一、GPT-Image-2-模型的入口" class="headerlink" title="一、GPT-Image-2 模型的入口"></a>一、GPT-Image-2 模型的入口</h2><p>目前 OpenAI 官方已经全量推送了 GPT-Image-2 模型，而模型的入口在 “创建图片” 或者 你告诉 GPT 生成图片、创建图片等关键词，都会进入绘画。</p>
+<h2 id="二、GPT-Image-2-次数限制是多少"><a href="#二、GPT-Image-2-次数限制是多少" class="headerlink" title="二、GPT-Image-2 次数限制是多少"></a>二、GPT-Image-2 次数限制是多少</h2><p><strong>GPT Plus、Pro、Business 等会员的 GPT-Image-2 生成次数：</strong></p>
+<ul>
+<li><a href="https://zhida.zhihu.com/search?content_id=778562748&content_type=Answer&match_order=1&q=GPT+Business&zhida_source=entity">GPT Business</a> 和 Plus 都是 <strong>120 张&#x2F;天</strong></li>
+<li>GPT Pro 是 <strong>600 张&#x2F;天</strong></li>
+<li>GPT 免费用户是 <strong>5 张&#x2F;天</strong></li>
+</ul>
+<p>如果需要更多的次数可以开通 Plus 会员 或者 Pro 5x 会员即可。 国内不知道如何开通 GPT 会员的话，可以使用 <strong>GPT 一键升级系统:</strong> <a href="https://upchatgpt.com/?invitecode=SORA">https://upchatgpt.com</a></p>
+<p>正规渠道充值，目前我长期在用这个平台，用了1年多了，有需要的可以看看哈。 支持 GPT Pro 5x 20x 升级、 GPT Plus、Business 升级等。</p>
+<blockquote>
+<p>GPT 一键升级系统: <a href="https://upchatgpt.com/?invitecode=SORA">https://upchatgpt.com</a></p>
+</blockquote>
+<p>正规升级 GPT 的渠道不多，大家可以收藏这个系统的地址。</p>
+<h2 id="三、如何备份导出-GPT-聊天记录教程"><a href="#三、如何备份导出-GPT-聊天记录教程" class="headerlink" title="三、如何备份导出 GPT 聊天记录教程"></a>三、如何备份导出 GPT 聊天记录教程</h2><p>建议大家还是定时备份一下GPT聊天数据，避免一些特殊因素，而找不到聊天数据了。备份 GPT 聊天记录有几种方式。</p>
+<p><strong>第一种方式</strong>：是直接在GPT网页版上，让官方给你导出数据，时间会比较长，大概有一些要24小时之后。</p>
+<p>操作路径：<strong>点击账号头像 -&gt; 设置 -&gt; 数据管理 -&gt; 导出数据</strong></p>
+<p><img src="https://pica.zhimg.com/80/v2-3a5122e1f95990cff2dea4c188cf2974_720w.webp" alt="img"></p>
+<p><strong>第二种方式（推荐）</strong>：直接通过 Chrome 插件直接导出当前的所有聊天数据。可以进行实时导出，导出的数据为原始的json格式。</p>
+<p>比较好用的 GPT 聊天数据导出的工具，可以用这个，完全免费的插件：</p>
+<blockquote>
+<p>ChatGPT Degrade Checker 降级检查: <a href="https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm">https://chromewebstore.google.com/detail/chatgpt-degrade-checker-%E9%99%8D/inidgeckbobnafenlmlgfbeoijiamepm</a></p>
+</blockquote>
+<p>添加完扩展之后，点击导出聊天记录即可。 导出的 json 文件无法阅读怎么办？ 你可以直接使用插件上的导入聊天预览功能。</p>
+<p><img src="https://pic4.zhimg.com/80/v2-115c541e31d48c2c70870dd5d7a81a11_720w.webp" alt="img"></p>
+<p>点击导入时，会跳转到对应的工具页面，GPT 聊天记录导入是本地导入，无需网络也可以使用，比较安全。 不用担心隐私问题。</p>
+<p>如果你已经有一份 json 数据 或者 zip 压缩包，你可以直接上传，就会自动解析。</p>
+<blockquote>
+<p>GPT 聊天记录导入工具：<a href="https://ponskey.com/">https://ponskey.com</a></p>
+</blockquote>
+<p><img src="https://pic3.zhimg.com/80/v2-68817acec269e4b9470cea72aafe50dc_720w.webp" alt="img"></p>
+<p><strong>导入 GPT 聊天数据的工具也都是免费的</strong>，可以长期使用，只有前端功能，如果能帮到你的话，直接在插件那边请作者喝杯咖啡即可。</p>
+]]></content>
+      <tags>
+        <tag>ChatGPT 聊天记录备份</tag>
+        <tag>GPT-Image-2 生成限制</tag>
+      </tags>
+  </entry>
 </search>
